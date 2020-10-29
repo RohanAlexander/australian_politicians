@@ -41,7 +41,46 @@ The datasets are up-to-date as of 1 July 2020, and will be maintained and update
 
 These datasets represent a critical contribution to Australian political science. It is expected that they will be widely built on and expanded and we look forward to working with other researchers in this process.
 
+# Literature Review 
 
+pvsR: An Open Source Interface to Big Data on the American Political Sphere
+Matter, U., & Stutzer, A. (2015, July 1). PvsR: An open source interface to big data on the American political sphere. Retrieved from https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130501
+
+The pvsR package gathers data from the Project Vote Smart (PVS) dataset available on the web that contains valuable information on U.S politics and all levels of government. The data collected also has details on elected officials and candidates running for office. This information is taken by an online website called Voter Smart (https://justfacts.votesmart.org/). The goal of this PVS is to increase the transparency of the political process and provide voters with information to make an informed decision. To increase its use for empirical, political science, and economics research it has been formatted into an R package to encourage users to complete analysis. PvsR wants to ensure that the package is formatted to the convenience of research and can be easily accessible using python and R (R documentation available at https://cran.r-project.org/web/packages/pvsR/pvsR.pdf). The code is offered as a free open source and is a direct link to the PVS dataset.  
+
+The dataset includes information on politicians regarding their biography, votes, positions held, rating, speeches, and funding. The biography dataset includes information such as date of birth, birthplace, family, religion, and home city. The votes dataset contains vote ballots when a politician is running for office as well as sponsors for their campaign. Next, in the position dataset, it contains information on the politicians' perspective on various issues such as abortion, economy, energy, and the environment. In the rating dataset, it includes all the items that the politicians agree on. This includes abortion, conservative, guns, immigration, ingenious people, civil liberties, and civil rights. In the speeches dataset, the speeches are categorized if they were tweets or formal speaking engagements followed by a text statement of what the politician said. Lastly, the funding dataset contains a summary of the politician's spending, top contributors, top industries, and top sectors. Information is added and updated regularly on Voter Smart. There is currently no information on the size of the database. 
+
+
+Policialdata R Package 
+Morris, G. E. (n.d.). Readme. Retrieved from https://cran.r-project.org/web/packages/politicaldata/readme/README.html
+‘Politicaldata’ is an R package created by G. Elliott Morris. It is used to quickly analyze political data such as “polls, election results, legislator information, and demographic data”. The data used to create this package was gathered from a variety of sources, however, the main mode of data collection is through Vote View. Vote View is a website created as a project by UCLA (see here:https://voteview.com/data). It contains historical data about the U.S political system and “allows users to view every congressional roll call vote in American history”.This Vote View data easily allowed political scientists and researchers to analyze the U.S system.  
+
+Moreover, Politicaldata contains five main datasets which are house_116, senate_116, get_senate_116, us_polls_history and pres_results_by_cd. In more detail, us_polls_history is a dataset of US presidential election polling from 1980 through 2016 elections, house_results is a dataset of results for elections to the US House of Representatives that occurred from 1976 to 2018, house_results is a dataset of results for elections to the US House of Representatives that occurred from 1976 to 2018 and pres_results_by_cd is a dataset of results for presidential elections broken down by congressional district from 1990 to 2016. Similarly, Policialdata has a list of related packages which are “Rvoteview that provides functions for obtaining roll call voting data”, which can thus be analyzed using algorithms from the pscl package; “ropercenter allows import of data from the Roper Center’s iPoll directly in R”, given that you know the slug of the interesting poll; “fivethirtyeight was developed to distribute the data behind the popular data journalism website”, and thus will have some overlap; and “pollstR provides a way to access the aggregate toplines from Huffington Post Pollster” (no longer maintained). 
+
+Who Governs? A New Global Dataset on Members of Cabinets
+Nyrup, J., & Bramwell, S. (n.d.). WhoGov. Retrieved from https://www.nuffield.ox.ac.uk/our-research/research-centres/nuffield-politics-research-centre/whogov/
+
+The WhoGov dataset is created to address the lack of global datasets on governing politicians. Before this dataset, it was challenging to gather descriptive answers regarding the politicians in the cabinet. The WhoGov dataset contains information from 1966-2016 on 50,197 cabinet members. The information on the cabinet member included their name, position, party affiliation, gender, the number of female ministers, ministerial experience, cabinet turnover, and cabinet size at the country-year level. The cabinet information is organized in portfolios and categories so that the data is flexible. This dataset focuses on 177 countries with populations over 400,000 citizens and is maintained half-yearly. The dataset was compiled by the Central Intelligence Agency (CIA) using datasets based on Chiefs of State and Cabinet Members of Foreign Governments. The documents are digitized through manually cleaning, machine learning techniques, and extensive validation checks to ensure that the information is valid. 
+
+This dataset can be used in a variety of ways. The WhoGovs dataset can be used to gain a new perspective in the political field. These perspectives include “the study of autocracies, gender studies, regime types, and government formation”. This dataset aims to gain attraction to the political science scholars that may be able to detect other perspectives, advance their knowledge globally, and answer difficult political science questions. There is also classification to “classification to every position, making it easy for researchers to distinguish between different groups of governing elites such as full cabinet ministers, junior ministers, presidents, and royals”. Additionally, a cross-national panel dataset was created to merge with the WhoGov dataset. These cross-national dataset variables such as “ the size of the cabinet, number of women, the retention rate for a given year, and the average experience of the cabinet ministers and information on the leader start/end date. This provides researchers with a large range of information for their analysis. 
+
+The WhoGov dataset is a unique dataset that provides researchers a new perspective on world governments. The topics range from a wide variety and provide academics with unique areas to explore. To encourage high-quality data within the WhoGov dataset, there have been validation checks, aggregation of data to ensure consistency and consistency with dates/parties. 
+
+
+ProPublica Datastore (Politics) 
+ProPublica Data Store. (n.d.). ProPublica data store. Retrieved from https://www.propublica.org/datastore/datasets/politics
+
+ProPublica is a datastore online website that contains a wide selection of datasets. These datasets range from a large selection of topics such as health, finance, religion, military, and politics. 
+
+
+Canadian federal candidates: 1867-2017
+Sevi, S. (2020, September 24). Canadian federal candidates: 1867-2017. Retrieved from https://dataverse.harvard.edu/dataset.xhtml?persistentId=10.7910/DVN/ABFNSQ
+
+The Canadian Federal Candidates: 1867-2017 is a dataset created by Semra Sevi. Semra is a Ph.D. candidate in the Department of Political Science at the Université de Montréal. During Sevi’s masters, Semra created a unique dataset detailing the district level data for all Canadian federal candidates from 1867-2017. This “dataset includes unique id for each individual who ran for federal elections, candidate names, riding names, province, date of birth for all elected MPs by year, gender, occupation, party names, switchers, vote shares, and raw votes”. Semra dataset has been used in two journal articles that have discovered trends in voting. These articles are “Do Women Get Fewer Votes? No.” and Legislative Party Switching and the Changing Nature of the Canadian Party System. 
+
+In the journal “Do Women Get Fewer Votes? No” used the dataset that contains 21,000 Canadian candidates from 1921 to 2015 (https://www.cambridge.org/core/journals/canadian-journal-of-political-science-revue-canadienne-de-science-politique/article/do-women-get-fewer-votes-no/BFF54690D696CB502A2340401FA660F8#:~:text=This%20large%20data%20set%20allows,(%C2%B10.5%20percentage%20point). This dataset was used to identify the voting estimates of men and women. Women are underrepresented in politics and structural discrimination which makes it challenging to answer the question. Another barrier to answering the question depends on the era of time. For instance, there were major gender barriers in the 1920s. Researchers found that the voting difference between males and females is 4 percentage points and women tend to run for unpopular parties. As time goes by, the percentage difference between men and women disappears. However, to have a better analysis, a measurement for candidate quality needs to be added to the dataset. This will help Researchers improve and expand on their findings. 
+
+For the Legislative Party Switching and the Changing Nature of the Canadian Party System, 1867-2015 journal, the dataset was used to explore the change of the Canadian political system (https://www.cambridge.org/core/journals/canadian-journal-of-political-science-revue-canadienne-de-science-politique/article/legislative-party-switching-and-the-changing-nature-of-the-canadian-party-system-18672015/32698D19C6CF4C3C297EEDC2E9020EE0). Politicians are beginning to “fundraise, develop brand images, conduct market research, advertise, and, if successful, manage the affairs of government”. The researchers want to detect the switching rates of party-switching MPs. They have concluded that there is a lack of information on why these MPs switch so often. For further research, qualitative information “about the circumstances of party defections and additional biographical information about candidates and MPs, including promotions to the cabinet, Senate and diplomatic positions”. This will help identify the main reason for the MPs party switches. The data extracted for analysis was taken from the Library of Parliament of Canada that covers all 42 Canadian federal parliamentary elections spanning 148 years. Their dataset had a total of 7674 candidates. 
 
 
 # Summary statistics
@@ -98,6 +137,16 @@ The dataset represents a foundation that can be built on. In particular,
 
 
 # References
+
+1. Matter, U., & Stutzer, A. (2015, July 1). PvsR: An open source interface to big data on the American political sphere. Retrieved from https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130501
+
+2. Morris, G. E. (n.d.). Readme. Retrieved from https://cran.r-project.org/web/packages/politicaldata/readme/README.html
+
+3. Nyrup, J., & Bramwell, S. (n.d.). WhoGov. Retrieved from https://www.nuffield.ox.ac.uk/our-research/research-centres/nuffield-politics-research-centre/whogov/
+
+4. ProPublica Data Store. (n.d.). ProPublica data store. Retrieved from https://www.propublica.org/datastore/datasets/politics
+
+5. Sevi, S. (2020, September 24). Canadian federal candidates: 1867-2017. Retrieved from https://dataverse.harvard.edu/dataset.xhtml?persistentId=10.7910/DVN/ABFNSQ
 
 
 
