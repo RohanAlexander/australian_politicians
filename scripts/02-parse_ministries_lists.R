@@ -4,7 +4,7 @@
 # Contact: Rohan Alexander
 # Email: rohan.alexander@utoronto.ca
 # License: MIT
-# Todo: Change the start date for Bob Carr to from 13 March 2012. See inputs/data/australia/ministry_lists/2012-03-05-2012-10-28.html
+# Todo: Change the start date for Bob Carr to from 13 March 2012. See inputs/ministry_lists/2012-03-05-2012-10-28.html
 
 
 #### Setup ####
@@ -13,7 +13,7 @@ library(rvest)
 library(tidyverse)
 
 # Get a list of all the files
-all_html_files <- list.files(path = "inputs/data/australia/ministry_lists",
+all_html_files <- list.files(path = "inputs/ministry_lists",
                              full.names = TRUE)
 
 
@@ -93,22 +93,6 @@ raw_data <-
 
 raw_data$raw[1342]
 
-# # 
-# raw_data %>%
-#   filter(file %in% c(
-#     "inputs/data/australia/ministry_lists/2017-12-20-2018-02-26.html",
-#     "inputs/data/australia/ministry_lists/2018-02-26-2018-03-05.html"
-#   )
-#   ) %>%
-#   select(raw) %>%
-#   mutate(the = str_detect(raw, "The Hon Dr")) %>% 
-#   filter(the)
-#   
-#   slice(8)
-# 
-# 
-# raw_data$raw[14]
-
 # Sometimes two folks are in the one row
 raw_data <- 
   raw_data %>% 
@@ -130,7 +114,8 @@ raw_data <-
 # Deal with the associated data such as the class of the ministry, date
 raw_data <- 
   raw_data %>% 
-  mutate(type = if_else(title %in% c("Cabinet", "Ministry", "Outer Ministry", "Parliamentary Secretaries"), title, NA_character_),
+  mutate(type = if_else(title %in% c("Cabinet", "Ministry", "Outer Ministry", 
+                                     "Parliamentary Secretaries"), title, NA_character_),
          type = lag(x = type, n = 1)
   ) %>% 
   filter(!title %in% c("Bills", "Committees", "Committees", "Get informed", 
@@ -172,7 +157,6 @@ prepared_data <- raw_data
 
 
 #### Clean the data ####
-#Something weird happened with the senators titles
 prepared_data <- 
   prepared_data %>% 
   mutate(person = str_squish(person),
@@ -196,8 +180,7 @@ prepared_data <-
          person = str_replace(person, "The Hon Ken WyattMP", "The Hon Ken Wyatt MP"),
          person = str_replace(person, "The Hon Kelly O’Dwyer MP", "The Hon Kelly O'Dwyer MP"),
          person = str_replace(person, "The Hon Richard Marles$", "The Hon Richard Marles MP"),
-         person = str_replace(person, "The Hon Mark Coulton$", "The Hon Mark Coulton MP"),
-
+         person = str_replace(person, "The Hon Mark Coulton$", "The Hon Mark Coulton MP")
   )
 
 
@@ -286,9 +269,7 @@ prepared_data <-
   mutate(title = str_remove(title, "\\("),
          title = str_remove(title, "\\)"))
 
-
-
-
-
   
-write_csv(prepared_data, "outputs/data/australia/data/ministries.csv")
+write_csv(prepared_data, "intermediates/recent_ministries.csv")
+
+

@@ -23,11 +23,19 @@ Alexander, Rohan and Hidaya Ismail, 2020, 'AusPol: Three datasets on Australian 
 
 # Author information
 
-Rohan Alexander (corresponding author and repository maintainer)
-Faculty of Information & Department of Statistical Sciences
-University of Toronto
-140 St George St
-Toronto, ON, Canada
-Email: rohan.alexander@utoronto.ca
+**Rohan Alexander** (corresponding author and repository maintainer)  
+Faculty of Information & Department of Statistical Sciences  
+University of Toronto  
+140 St George St  
+Toronto, ON, Canada  
+Email: rohan.alexander@utoronto.ca  
 
-Hidaya Ismail (repository contributor)
+**Hidaya Ismail** (repository contributor)
+
+
+# TODO
+
+1. From intermediates/cabinet.csv - work out some way to have a flag in outputs/ministry.csv as to whether the person was in cabinet or not.
+2. From intermediates/recent_ministries.csv - work out a way to add these to outputs/ministry.csv.
+3. Checks. Tables. Graphs.
+
