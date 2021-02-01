@@ -1,0 +1,977 @@
+﻿number,cabinet,cabinet_party,cabinet_from,cabinet_to,person,from,to
+1,Barton Ministry ,Protectionist ,1.1.1901,24.9.1903,"Barton, E",1.1.1901,24.9.1903
+1,Barton Ministry ,Protectionist ,1.1.1901,24.9.1903,"Deakin, A",1.1.1901,24.9.1903
+1,Barton Ministry ,Protectionist ,1.1.1901,24.9.1903,"Lyne, WJ",1.1.1901,24.9.1903
+1,Barton Ministry ,Protectionist ,1.1.1901,24.9.1903,"Forrest, J",11.8.1903,17.1.1901
+1,Barton Ministry ,Protectionist ,1.1.1901,24.9.1903,"Turner, G",1.1.1901,24.9.1903
+1,Barton Ministry ,Protectionist ,1.1.1901,24.9.1903,"Kingston, CC",1.1.1901,24.7.1903
+1,Barton Ministry ,Protectionist ,1.1.1901,24.9.1903,"Dickson, JR",1.1.1901,10.1.1901
+1,Barton Ministry ,Protectionist ,1.1.1901,24.9.1903,"Drake, Senator JG",10.8.1903,24.9.1903
+1,Barton Ministry ,Protectionist ,1.1.1901,24.9.1903,"Fysh, PO",10.8.1903,10.8.1903
+1,Barton Ministry ,Protectionist ,1.1.1901,24.9.1903,"O'Connor, Senator RE",1.1.1901,24.9.1903
+1,Barton Ministry ,Protectionist ,1.1.1901,24.9.1903,"Lewis, NE",1.1.1901,23.4.1901
+2,Deakin Ministry ,Protectionist ,24.9.1903,27.4.1904,"Deakin, A",24.9.1903,27.4.1904
+2,Deakin Ministry ,Protectionist ,24.9.1903,27.4.1904,"Lyne, WJ",24.9.1903,27.4.1904
+2,Deakin Ministry ,Protectionist ,24.9.1903,27.4.1904,"Turner, G",24.9.1903,27.4.1904
+2,Deakin Ministry ,Protectionist ,24.9.1903,27.4.1904,"Forrest, J",24.9.1903,27.4.1904
+2,Deakin Ministry ,Protectionist ,24.9.1903,27.4.1904,"Drake, Senator JG",24.9.1903,27.4.1904
+2,Deakin Ministry ,Protectionist ,24.9.1903,27.4.1904,"Fysh, PO",24.9.1903,27.4.1904
+2,Deakin Ministry ,Protectionist ,24.9.1903,27.4.1904,"Chapman, A",24.9.1903,27.4.1904
+2,Deakin Ministry ,Protectionist ,24.9.1903,27.4.1904,"Playford, Senator T",24.9.1903,27.4.1904
+3,Watson Ministry ,ALP ,27.4.1904,17.8.1904,"Watson, JC",27.4.1904,17.8.1904
+3,Watson Ministry ,ALP ,27.4.1904,17.8.1904,"Hughes, WM",27.4.1904,17.8.1904
+3,Watson Ministry ,ALP ,27.4.1904,17.8.1904,"Higgins, HB",27.4.1904,17.8.1904
+3,Watson Ministry ,ALP ,27.4.1904,17.8.1904,"Batchelor, EL",27.4.1904,17.8.1904
+3,Watson Ministry ,ALP ,27.4.1904,17.8.1904,"Fisher, A",27.4.1904,17.8.1904
+3,Watson Ministry ,ALP ,27.4.1904,17.8.1904,"Dawson, Senator A",27.4.1904,17.8.1904
+3,Watson Ministry ,ALP ,27.4.1904,17.8.1904,"Mahon, H",27.4.1904,17.8.1904
+3,Watson Ministry ,ALP ,27.4.1904,17.8.1904,"McGregor, Senator G",27.4.1904,17.8.1904
+4,Reid-McLean Ministry ,Free Trade-Protectionist Coalition ,18.8.1904,5.7.1905,"Reid, GH (FT)",18.8.1904,5.7.1905
+4,Reid-McLean Ministry ,Free Trade-Protectionist Coalition ,18.8.1904,5.7.1905,"McLean, A (PROT)",18.8.1904,5.7.1905
+4,Reid-McLean Ministry ,Free Trade-Protectionist Coalition ,18.8.1904,5.7.1905,"Symon, Senator JH (FT)",18.8.1904,5.7.1905
+4,Reid-McLean Ministry ,Free Trade-Protectionist Coalition ,18.8.1904,5.7.1905,"Turner, G (PROT)",18.8.1904,5.7.1905
+4,Reid-McLean Ministry ,Free Trade-Protectionist Coalition ,18.8.1904,5.7.1905,"Thomson, D (FT)",18.8.1904,5.7.1905
+4,Reid-McLean Ministry ,Free Trade-Protectionist Coalition ,18.8.1904,5.7.1905,"McCay, JW (PROT)",18.8.1904,5.7.1905
+4,Reid-McLean Ministry ,Free Trade-Protectionist Coalition ,18.8.1904,5.7.1905,"Smith, S (FT)",18.8.1904,5.7.1905
+4,Reid-McLean Ministry ,Free Trade-Protectionist Coalition ,18.8.1904,5.7.1905,"Drake, Senator JG (PROT)",18.8.1904,5.7.1905
+5,Deakin Ministry ,Protectionist ,5.7.1905,13.11.1908,"Deakin, A",5.7.1905,13.11.1908
+5,Deakin Ministry ,Protectionist ,5.7.1905,13.11.1908,"Isaacs, IA",5.7.1905,12.10.1906
+5,Deakin Ministry ,Protectionist ,5.7.1905,13.11.1908,"Groom, LE",12.10.1906,12.10.1906
+5,Deakin Ministry ,Protectionist ,5.7.1905,13.11.1908,"Lyne, WJ",5.7.1905,13.11.1908
+5,Deakin Ministry ,Protectionist ,5.7.1905,13.11.1908,"Chapman, A",30.7.1907,30.7.1907
+5,Deakin Ministry ,Protectionist ,5.7.1905,13.11.1908,"Forrest, J",5.7.1905,30.7.1907
+5,Deakin Ministry ,Protectionist ,5.7.1905,13.11.1908,"Mauger, S",30.7.1907,30.7.1907
+5,Deakin Ministry ,Protectionist ,5.7.1905,13.11.1908,"Playford, Senator T",5.7.1905,24.1.1907
+5,Deakin Ministry ,Protectionist ,5.7.1905,13.11.1908,"Ewing, TT",24.1.1907,12.10.1906
+5,Deakin Ministry ,Protectionist ,5.7.1905,13.11.1908,"Keating, Senator JH",24.1.1907,12.10.1906
+5,Deakin Ministry ,Protectionist ,5.7.1905,13.11.1908,"Best, Senator RW",20.2.1907,13.11.1908
+5,Deakin Ministry ,Protectionist ,5.7.1905,13.11.1908,"Cook, JNHH",28.1.1908,13.11.1908
+6,Fisher Ministry ,ALP ,13.11.1908,2.6.1909,"Fisher, A",13.11.1908,2.6.1909
+6,Fisher Ministry ,ALP ,13.11.1908,2.6.1909,"Hughes, WM",13.11.1908,2.6.1909
+6,Fisher Ministry ,ALP ,13.11.1908,2.6.1909,"Batchelor, EL",13.11.1908,2.6.1909
+6,Fisher Ministry ,ALP ,13.11.1908,2.6.1909,"Mahon, H",13.11.1908,2.6.1909
+6,Fisher Ministry ,ALP ,13.11.1908,2.6.1909,"Thomas, J",13.11.1908,2.6.1909
+6,Fisher Ministry ,ALP ,13.11.1908,2.6.1909,"Pearce, Senator GF",13.11.1908,2.6.1909
+6,Fisher Ministry ,ALP ,13.11.1908,2.6.1909,"Tudor, FG",13.11.1908,2.6.1909
+6,Fisher Ministry ,ALP ,13.11.1908,2.6.1909,"McGregor, Senator G",13.11.1908,2.6.1909
+6,Fisher Ministry ,ALP ,13.11.1908,2.6.1909,"Hutchison, J",13.11.1908,2.6.1909
+7,Deakin Ministry,Protectionist-Free Trade-Tariff Reform ('Fusion'),2.6.1909,29.4.1910,"Deakin, A (PROT)",2.6.1909,29.4.1910
+7,Deakin Ministry,Protectionist-Free Trade-Tariff Reform ('Fusion'),2.6.1909,29.4.1910,"Cook, J (FT)",2.6.1909,29.4.1910
+7,Deakin Ministry,Protectionist-Free Trade-Tariff Reform ('Fusion'),2.6.1909,29.4.1910,"Forrest, J (PROT)",2.6.1909,29.4.1910
+7,Deakin Ministry,Protectionist-Free Trade-Tariff Reform ('Fusion'),2.6.1909,29.4.1910,"Best, Senator RW (PROT)",2.6.1909,29.4.1910
+7,Deakin Ministry,Protectionist-Free Trade-Tariff Reform ('Fusion'),2.6.1909,29.4.1910,"Groom, LE (PROT)",2.6.1909,29.4.1910
+7,Deakin Ministry,Protectionist-Free Trade-Tariff Reform ('Fusion'),2.6.1909,29.4.1910,"Glynn, PMcM (FT)",2.6.1909,29.4.1910
+7,Deakin Ministry,Protectionist-Free Trade-Tariff Reform ('Fusion'),2.6.1909,29.4.1910,"Quick, J (PROT)",2.6.1909,29.4.1910
+7,Deakin Ministry,Protectionist-Free Trade-Tariff Reform ('Fusion'),2.6.1909,29.4.1910,"Fuller, GW (FT)",2.6.1909,29.4.1910
+7,Deakin Ministry,Protectionist-Free Trade-Tariff Reform ('Fusion'),2.6.1909,29.4.1910,"Millen, Senator ED (FT)",2.6.1909,29.4.1910
+7,Deakin Ministry,Protectionist-Free Trade-Tariff Reform ('Fusion'),2.6.1909,29.4.1910,"Foxton, JFG (FT)",2.6.1909,29.4.1910
+8,Fisher Ministry ,ALP,29.4.1910,24.6.1913,"Fisher, A",29.4.1910,24.6.1913
+8,Fisher Ministry ,ALP,29.4.1910,24.6.1913,"Hughes, WM",29.4.1910,24.6.1913
+8,Fisher Ministry ,ALP,29.4.1910,24.6.1913,"Batchelor, EL",29.4.1910,8.10.1911
+8,Fisher Ministry ,ALP,29.4.1910,24.6.1913,"Thomas, J",14.10.1911,14.10.1911
+8,Fisher Ministry ,ALP,29.4.1910,24.6.1913,"Frazer, CE",14.10.1911,14.10.1911
+8,Fisher Ministry ,ALP,29.4.1910,24.6.1913,"Pearce, Senator GF",29.4.1910,24.6.1913
+8,Fisher Ministry ,ALP,29.4.1910,24.6.1913,"Tudor, FG",29.4.1910,24.6.1913
+8,Fisher Ministry ,ALP,29.4.1910,24.6.1913,"O'Malley, K",29.4.1910,24.6.1913
+8,Fisher Ministry ,ALP,29.4.1910,24.6.1913,"McGregor, Senator G",29.4.1910,24.6.1913
+8,Fisher Ministry ,ALP,29.4.1910,24.6.1913,"Findley, Senator E",29.4.1910,24.6.1913
+8,Fisher Ministry ,ALP,29.4.1910,24.6.1913,"Roberts, EA",23.10.1911,24.6.1913
+9,Cook Ministry ,LIB,24.6.1913,17.9.1914,"Cook, J",24.6.1913,17.9.1914
+9,Cook Ministry ,LIB,24.6.1913,17.9.1914,"Forrest, J",24.6.1913,17.9.1914
+9,Cook Ministry ,LIB,24.6.1913,17.9.1914,"Irvine, WH",24.6.1913,17.9.1914
+9,Cook Ministry ,LIB,24.6.1913,17.9.1914,"Millen, Senator ED",24.6.1913,17.9.1914
+9,Cook Ministry ,LIB,24.6.1913,17.9.1914,"Glynn, PMcM",24.6.1913,17.9.1914
+9,Cook Ministry ,LIB,24.6.1913,17.9.1914,"Groom, LE",24.6.1913,17.9.1914
+9,Cook Ministry ,LIB,24.6.1913,17.9.1914,"Wynne, A",24.6.1913,17.9.1914
+9,Cook Ministry ,LIB,24.6.1913,17.9.1914,"McColl, Senator JH",24.6.1913,17.9.1914
+9,Cook Ministry ,LIB,24.6.1913,17.9.1914,"Clemons, Senator JS",24.6.1913,17.9.1914
+10,Fisher Ministry ,ALP,17.9.1914,27.10.1915,"Fisher, A",17.9.1914,27.10.1915
+10,Fisher Ministry ,ALP,17.9.1914,27.10.1915,"Hughes, WM",17.9.1914,27.10.1915
+10,Fisher Ministry ,ALP,17.9.1914,27.10.1915,"Pearce, Senator GF",17.9.1914,27.10.1915
+10,Fisher Ministry ,ALP,17.9.1914,27.10.1915,"Tudor, FG",17.9.1914,27.10.1915
+10,Fisher Ministry ,ALP,17.9.1914,27.10.1915,"Arthur, JA",17.9.1914,9.12.1914
+10,Fisher Ministry ,ALP,17.9.1914,27.10.1915,"Mahon, H",14.12.1914,14.12.1914
+10,Fisher Ministry ,ALP,17.9.1914,27.10.1915,"Archibald, WO",17.9.1914,27.10.1915
+10,Fisher Ministry ,ALP,17.9.1914,27.10.1915,"Spence, WG",17.9.1914,27.10.1915
+10,Fisher Ministry ,ALP,17.9.1914,27.10.1915,"Gardiner, Senator A",17.9.1914,27.10.1915
+10,Fisher Ministry ,ALP,17.9.1914,27.10.1915,"Jensen, JA",12.7.1915,12.7.1915
+10,Fisher Ministry ,ALP,17.9.1914,27.10.1915,"Russell, Senator EJ",17.9.1914,27.10.1915
+11,Hughes Ministry ,ALP,27.10.1915,14.11.1916,"Hughes, WM",27.10.1915,14.11.1916
+11,Hughes Ministry ,ALP,27.10.1915,14.11.1916,"Pearce, Senator GF",27.10.1915,14.11.1916
+11,Hughes Ministry ,ALP,27.10.1915,14.11.1916,"Tudor, FG",27.10.1915,14.9.1916
+11,Hughes Ministry ,ALP,27.10.1915,14.11.1916,"Mahon, H",27.10.1915,14.11.1916
+11,Hughes Ministry ,ALP,27.10.1915,14.11.1916,"Jensen, JA",27.10.1915,14.11.1916
+11,Hughes Ministry ,ALP,27.10.1915,14.11.1916,"Higgs, WG",27.10.1915,27.10.1916
+11,Hughes Ministry ,ALP,27.10.1915,14.11.1916,"O'Malley, K",27.10.1915,14.11.1916
+11,Hughes Ministry ,ALP,27.10.1915,14.11.1916,"Webster, W",27.10.1915,14.11.1916
+11,Hughes Ministry ,ALP,27.10.1915,14.11.1916,"Gardiner, Senator A",27.10.1915,27.10.1916
+11,Hughes Ministry ,ALP,27.10.1915,14.11.1916,"Russell, Senator EJ",27.10.1915,27.10.1916
+12,Hughes Ministry ,National Labour ,14.11.1916,17.2.1917,"Hughes, WM",14.11.1916,17.2.1917
+12,Hughes Ministry ,National Labour ,14.11.1916,17.2.1917,"Pearce, Senator GF",14.11.1916,17.2.1917
+12,Hughes Ministry ,National Labour ,14.11.1916,17.2.1917,"Jensen, JA",14.11.1916,17.2.1917
+12,Hughes Ministry ,National Labour ,14.11.1916,17.2.1917,"Webster, W",14.11.1916,17.2.1917
+12,Hughes Ministry ,National Labour ,14.11.1916,17.2.1917,"Poynton, A",14.11.1916,17.2.1917
+12,Hughes Ministry ,National Labour ,14.11.1916,17.2.1917,"Archibald, WO",14.11.1916,17.2.1917
+12,Hughes Ministry ,National Labour ,14.11.1916,17.2.1917,"Bamford, FW",14.11.1916,17.2.1917
+12,Hughes Ministry ,National Labour ,14.11.1916,17.2.1917,"Lynch, Senator PJ",14.11.1916,17.2.1917
+12,Hughes Ministry ,National Labour ,14.11.1916,17.2.1917,"Spence, WG",14.11.1916,17.2.1917
+12,Hughes Ministry ,National Labour ,14.11.1916,17.2.1917,"Russell, Senator EJ",14.11.1916,17.2.1917
+12,Hughes Ministry ,National Labour ,14.11.1916,17.2.1917,"Smith, WHL",14.11.1916,17.2.1917
+13,Hughes Ministry ,Nationalist ,17.2.1917,10.1.1918,"Hughes, WM",17.2.1917,10.1.1918
+13,Hughes Ministry ,Nationalist ,17.2.1917,10.1.1918,"Cook, J",17.2.1917,10.1.1918
+13,Hughes Ministry ,Nationalist ,17.2.1917,10.1.1918,"Forrest, J",17.2.1917,10.1.1918
+13,Hughes Ministry ,Nationalist ,17.2.1917,10.1.1918,"Pearce, Senator GF",17.2.1917,10.1.1918
+13,Hughes Ministry ,Nationalist ,17.2.1917,10.1.1918,"Millen, Senator ED",17.2.1917,10.1.1918
+13,Hughes Ministry ,Nationalist ,17.2.1917,10.1.1918,"Groom, LE",16.11.1917,16.11.1917
+13,Hughes Ministry ,Nationalist ,17.2.1917,10.1.1918,"Watt, WA",17.2.1917,10.1.1918
+13,Hughes Ministry ,Nationalist ,17.2.1917,10.1.1918,"Glynn, PMcM",17.2.1917,10.1.1918
+13,Hughes Ministry ,Nationalist ,17.2.1917,10.1.1918,"Jensen, JA",17.2.1917,10.1.1918
+13,Hughes Ministry ,Nationalist ,17.2.1917,10.1.1918,"Webster, W",17.2.1917,10.1.1918
+13,Hughes Ministry ,Nationalist ,17.2.1917,10.1.1918,"Russell, Senator EJ",17.2.1917,10.1.1918
+14,Hughes Ministry ,Nationalist ,10.1.1918,9.2.1923,"Hughes, WM",10.1.1918,9.2.1923
+14,Hughes Ministry ,Nationalist ,10.1.1918,9.2.1923,"Groom, LE",21.12.1921,16.11.1917
+14,Hughes Ministry ,Nationalist ,10.1.1918,9.2.1923,"Cook, J",10.1.1918,11.11.1921
+14,Hughes Ministry ,Nationalist ,10.1.1918,9.2.1923,"Smith, WHL",28.7.1920,28.7.1920
+14,Hughes Ministry ,Nationalist ,10.1.1918,9.2.1923,"Forrest, J",10.1.1918,27.3.1918
+14,Hughes Ministry ,Nationalist ,10.1.1918,9.2.1923,"Watt, WA",27.3.1918,17.1.1919
+14,Hughes Ministry ,Nationalist ,10.1.1918,9.2.1923,"Bruce, SM",21.12.1921,9.2.1923
+14,Hughes Ministry ,Nationalist ,10.1.1918,9.2.1923,"Pearce, Senator GF",10.1.1918,9.2.1923
+14,Hughes Ministry ,Nationalist ,10.1.1918,9.2.1923,"Millen, Senator ED",10.1.1918,9.2.1923
+14,Hughes Ministry ,Nationalist ,10.1.1918,9.2.1923,"Foster, RW",21.12.1921,9.2.1923
+14,Hughes Ministry ,Nationalist ,10.1.1918,9.2.1923,"Glynn, PMcM",10.1.1918,3.2.1920
+14,Hughes Ministry ,Nationalist ,10.1.1918,9.2.1923,"Poynton, A",4.2.1920,4.2.1920
+14,Hughes Ministry ,Nationalist ,10.1.1918,9.2.1923,"Jensen, JA",10.1.1918,13.12.1918
+14,Hughes Ministry ,Nationalist ,10.1.1918,9.2.1923,"Massy-Greene, W",17.1.1919,5.2.1923
+14,Hughes Ministry ,Nationalist ,10.1.1918,9.2.1923,"Rodgers, AS",21.12.1921,21.12.1921
+14,Hughes Ministry ,Nationalist ,10.1.1918,9.2.1923,"Webster, W",10.1.1918,3.2.1920
+14,Hughes Ministry ,Nationalist ,10.1.1918,9.2.1923,"Wise, GH",4.2.1920,4.2.1920
+14,Hughes Ministry ,Nationalist ,10.1.1918,9.2.1923,"Russell, Senator EJ",27.3.1918,17.1.1919
+14,Hughes Ministry ,Nationalist ,10.1.1918,9.2.1923,"Earle, Senator J",21.12.1921,5.2.1923
+14,Hughes Ministry ,Nationalist ,10.1.1918,9.2.1923,"Orchard, RB",27.3.1918,31.1.1919
+14,Hughes Ministry ,Nationalist ,10.1.1918,9.2.1923,"Ryrie, GdeL",4.2.1920,21.12.1921
+14,Hughes Ministry ,Nationalist ,10.1.1918,9.2.1923,"Lamond, H",21.12.1921,9.2.1923
+15,Bruce-Page Ministry,Nationalist-CP Coalition,9.2.1923,22.10.1929,"Bruce, SM",9.2.1923,24.2.1928
+15,Bruce-Page Ministry,Nationalist-CP Coalition,9.2.1923,22.10.1929,"Page, ECG (CP)",9.2.1923,22.10.1929
+15,Bruce-Page Ministry,Nationalist-CP Coalition,9.2.1923,22.10.1929,"Pearce, Senator GF",9.2.1923,22.10.1929
+15,Bruce-Page Ministry,Nationalist-CP Coalition,9.2.1923,22.10.1929,"Glasgow, Senator TW",18.6.1926,22.10.1929
+15,Bruce-Page Ministry,Nationalist-CP Coalition,9.2.1923,22.10.1929,"Marr, CWC",2.4.1927,22.10.1929
+15,Bruce-Page Ministry,Nationalist-CP Coalition,9.2.1923,22.10.1929,"Howse, NR",24.2.1928,24.2.1928
+15,Bruce-Page Ministry,Nationalist-CP Coalition,9.2.1923,22.10.1929,"Abbott, CLA (CP)",29.11.1928,22.10.1929
+15,Bruce-Page Ministry,Nationalist-CP Coalition,9.2.1923,22.10.1929,"Groom, LE",9.2.1923,13.6.1924
+15,Bruce-Page Ministry,Nationalist-CP Coalition,9.2.1923,22.10.1929,"Latham, JG",18.12.1925,22.10.1929
+15,Bruce-Page Ministry,Nationalist-CP Coalition,9.2.1923,22.10.1929,"Gibson, WG (CP)",9.2.1923,22.10.1929
+15,Bruce-Page Ministry,Nationalist-CP Coalition,9.2.1923,22.10.1929,"Chapman, A",9.2.1923,26.5.1924
+15,Bruce-Page Ministry,Nationalist-CP Coalition,9.2.1923,22.10.1929,"Pratten, HE",13.6.1924,16.1.1925
+15,Bruce-Page Ministry,Nationalist-CP Coalition,9.2.1923,22.10.1929,"Gullett, HS",24.11.1928,22.10.1929
+15,Bruce-Page Ministry,Nationalist-CP Coalition,9.2.1923,22.10.1929,"Stewart, PG (CP)",9.2.1923,5.8.1924
+15,Bruce-Page Ministry,Nationalist-CP Coalition,9.2.1923,22.10.1929,"Hill, WC (CP)",8.8.1924,29.11.1928
+15,Bruce-Page Ministry,Nationalist-CP Coalition,9.2.1923,22.10.1929,"Bowden, EK",9.2.1923,16.1.1925
+15,Bruce-Page Ministry,Nationalist-CP Coalition,9.2.1923,22.10.1929,"Wilson, Senator RV",16.1.1925,16.1.1925
+15,Bruce-Page Ministry,Nationalist-CP Coalition,9.2.1923,22.10.1929,"Paterson, T (CP)",18.6.1926,22.10.1929
+15,Bruce-Page Ministry,Nationalist-CP Coalition,9.2.1923,22.10.1929,"Atkinson, L",9.2.1923,18.6.1926
+15,Bruce-Page Ministry,Nationalist-CP Coalition,9.2.1923,22.10.1929,"Crawford, Senator TW",14.2.1923,29.11.1928
+15,Bruce-Page Ministry,Nationalist-CP Coalition,9.2.1923,22.10.1929,"McLachlan, Senator AJ",29.8.1926,22.10.1929
+15,Bruce-Page Ministry,Nationalist-CP Coalition,9.2.1923,22.10.1929,"Ogden, Senator JE",29.11.1928,22.10.1929
+16,Scullin Ministry,ALP,22.10.1929,6.1.1932,"Scullin, JH",22.10.1929,29.1.1931
+16,Scullin Ministry,ALP,22.10.1929,6.1.1932,"Theodore, EG",22.10.1929,6.1.1932
+16,Scullin Ministry,ALP,22.10.1929,6.1.1932,"Daly, Senator JJ",22.10.1929,6.1.1932
+16,Scullin Ministry,ALP,22.10.1929,6.1.1932,"Brennan, F",22.10.1929,6.1.1932
+16,Scullin Ministry,ALP,22.10.1929,6.1.1932,"Lyons, JA",22.10.1929,4.2.1931
+16,Scullin Ministry,ALP,22.10.1929,6.1.1932,"Green, AE",4.2.1931,4.2.1931
+16,Scullin Ministry,ALP,22.10.1929,6.1.1932,"Fenton, JE",22.10.1929,4.2.1931
+16,Scullin Ministry,ALP,22.10.1929,6.1.1932,"Forde, FM",4.2.1931,4.2.1931
+16,Scullin Ministry,ALP,22.10.1929,6.1.1932,"Blakeley, A",22.10.1929,6.1.1932
+16,Scullin Ministry,ALP,22.10.1929,6.1.1932,"Anstey, F",22.10.1929,3.3.1931
+16,Scullin Ministry,ALP,22.10.1929,6.1.1932,"McNeill, J",3.3.1931,6.1.1932
+16,Scullin Ministry,ALP,22.10.1929,6.1.1932,"Chifley, JB",3.3.1931,6.1.1932
+16,Scullin Ministry,ALP,22.10.1929,6.1.1932,"Moloney, PJ",22.10.1929,6.1.1932
+16,Scullin Ministry,ALP,22.10.1929,6.1.1932,"Culley, CE",3.3.1931,24.6.1931
+16,Scullin Ministry,ALP,22.10.1929,6.1.1932,"Cunningham, LL",26.6.1931,6.1.1932
+16,Scullin Ministry,ALP,22.10.1929,6.1.1932,"Beasley, JA",22.10.1929,3.3.1931
+16,Scullin Ministry,ALP,22.10.1929,6.1.1932,"Holloway, EJ",3.3.1931,12.6.1931
+16,Scullin Ministry,ALP,22.10.1929,6.1.1932,"Barnes, Senator J",22.10.1929,3.3.1931
+16,Scullin Ministry,ALP,22.10.1929,6.1.1932,"Dooley, Senator JB",3.3.1931,6.1.1932
+17,Lyons Ministry ,UAP,6.1.1932,7.11.1938,"Lyons, JA",6.1.1932,29.11.1937
+17,Lyons Ministry ,UAP,6.1.1932,7.11.1938,"Casey, RG",3.10.1935,12.10.1934
+17,Lyons Ministry ,UAP,6.1.1932,7.11.1938,"Latham, JG",6.1.1932,12.10.1934
+17,Lyons Ministry ,UAP,6.1.1932,7.11.1938,"Menzies, RG",12.10.1934,7.11.1938
+17,Lyons Ministry ,UAP,6.1.1932,7.11.1938,"Pearce, Senator GF",12.10.1934,12.10.1934
+17,Lyons Ministry ,UAP,6.1.1932,7.11.1938,"Hughes, WM",29.11.1937,29.11.1937
+17,Lyons Ministry ,UAP,6.1.1932,7.11.1938,"Parkhill, RA",12.10.1934,13.10.1932
+17,Lyons Ministry ,UAP,6.1.1932,7.11.1938,"Thorby, HVC (CP)",29.11.1937,1.9.1935
+17,Lyons Ministry ,UAP,6.1.1932,7.11.1938,"Gullett, HS",6.1.1932,11.3.1937
+17,Lyons Ministry ,UAP,6.1.1932,7.11.1938,"White, TW",14.1.1933,7.11.1938
+17,Lyons Ministry ,UAP,6.1.1932,7.11.1938,"Fenton, JE",6.1.1932,13.10.1932
+17,Lyons Ministry ,UAP,6.1.1932,7.11.1938,"McLachlan, Senator AJ",12.10.1934,29.11.1937
+17,Lyons Ministry ,UAP,6.1.1932,7.11.1938,"Marr, CWC",6.1.1932,31.12.1934
+17,Lyons Ministry ,UAP,6.1.1932,7.11.1938,"Perkins, JA",13.10.1932,7.11.1938
+17,Lyons Ministry ,UAP,6.1.1932,7.11.1938,"Harrison, EJ",12.10.1934,9.11.1934
+17,Lyons Ministry ,UAP,6.1.1932,7.11.1938,"Paterson, T (CP)",9.11.1934,29.11.1937
+17,Lyons Ministry ,UAP,6.1.1932,7.11.1938,"McEwen, J (CP)",29.11.1937,7.11.1938
+17,Lyons Ministry ,UAP,6.1.1932,7.11.1938,"Hawker, CAS",6.1.1932,12.4.1932
+17,Lyons Ministry ,UAP,6.1.1932,7.11.1938,"Stewart, FH",13.10.1932,9.11.1934
+17,Lyons Ministry ,UAP,6.1.1932,7.11.1938,"Page, ECG (CP)",9.11.1934,7.11.1938
+17,Lyons Ministry ,UAP,6.1.1932,7.11.1938,"Foll, Senator HS",29.11.1937,7.11.1938
+17,Lyons Ministry ,UAP,6.1.1932,7.11.1938,"Lawson, Senator HSW",24.5.1934,12.10.1934
+17,Lyons Ministry ,UAP,6.1.1932,7.11.1938,"Francis, J",6.1.1932,9.11.1934
+17,Lyons Ministry ,UAP,6.1.1932,7.11.1938,"Hunter, JAJ (CP)",11.9.1936,29.11.1937
+17,Lyons Ministry ,UAP,6.1.1932,7.11.1938,"Bruce, SM",23.6.1932,29.6.1932
+17,Lyons Ministry ,UAP,6.1.1932,7.11.1938,"Massy-Greene, W",6.1.1932,25.9.1933
+17,Lyons Ministry ,UAP,6.1.1932,7.11.1938,"Thompson, VC (CP)",29.11.1937,7.11.1938
+17,Lyons Ministry ,UAP,6.1.1932,7.11.1938,"Brennan, Senator TC",9.11.1934,29.11.1937
+17,Lyons Ministry ,UAP,6.1.1932,7.11.1938,"Guy, JA",13.10.1932,12.10.1934
+17,Lyons Ministry ,UAP,6.1.1932,7.11.1938,"MacDonald, Senator ANÊ",29.11.1937,7.11.1938
+17,Lyons Ministry ,UAP,6.1.1932,7.11.1938,"Cameron, AG (CP)",6.1.1932,7.11.1938
+17,Lyons Ministry ,UAP,6.1.1932,7.11.1938,"Massy-Greene, SenatorÊ",6.1.1932,23.6.1932
+18,Lyons Ministry,UAP-CP Coalition,7.11.1938,7.4.1939,"Lyons, JA",7.11.1938,7.4.1939
+18,Lyons Ministry,UAP-CP Coalition,7.11.1938,7.4.1939,"Page, ECG (CP)",7.11.1938,7.4.1939
+18,Lyons Ministry,UAP-CP Coalition,7.11.1938,7.4.1939,"Menzies, RG",7.11.1938,20.3.1939
+18,Lyons Ministry,UAP-CP Coalition,7.11.1938,7.4.1939,"Hughes, WM",20.3.1939,7.4.1939
+18,Lyons Ministry,UAP-CP Coalition,7.11.1938,7.4.1939,"Casey, RG",7.11.1938,7.4.1939
+18,Lyons Ministry,UAP-CP Coalition,7.11.1938,7.4.1939,"White, TW",7.11.1938,8.11.1938
+18,Lyons Ministry,UAP-CP Coalition,7.11.1938,7.4.1939,"Perkins, JA",8.11.1938,8.11.1938
+18,Lyons Ministry,UAP-CP Coalition,7.11.1938,7.4.1939,"Thorby, HVC (CP)",7.11.1938,7.4.1939
+18,Lyons Ministry,UAP-CP Coalition,7.11.1938,7.4.1939,"Street, GA",7.11.1938,7.4.1939
+18,Lyons Ministry,UAP-CP Coalition,7.11.1938,7.4.1939,"McEwen, J (CP)",7.11.1938,7.4.1939
+18,Lyons Ministry,UAP-CP Coalition,7.11.1938,7.4.1939,"McLeay, Senator G",7.11.1938,7.4.1939
+18,Lyons Ministry,UAP-CP Coalition,7.11.1938,7.4.1939,"Foll, Senator HS",7.11.1938,7.4.1939
+18,Lyons Ministry,UAP-CP Coalition,7.11.1938,7.4.1939,"Cameron, AG (CP)",7.11.1938,7.4.1939
+18,Lyons Ministry,UAP-CP Coalition,7.11.1938,7.4.1939,"Harrison, EJ",8.11.1938,7.4.1939
+18,Lyons Ministry,UAP-CP Coalition,7.11.1938,7.4.1939,"Thompson, VC (CP)",7.11.1938,7.4.1939
+18,Lyons Ministry,UAP-CP Coalition,7.11.1938,7.4.1939,"MacDonald, Senator AN",7.11.1938,7.4.1939
+19,Page Ministry ,CP-UAP Coalition,7.4.1939,26.4.1939,"Page, ECG (CP)",7.4.1939,26.4.1939
+19,Page Ministry ,CP-UAP Coalition,7.4.1939,26.4.1939,"Hughes, WM",7.4.1939,26.4.1939
+19,Page Ministry ,CP-UAP Coalition,7.4.1939,26.4.1939,"Casey, RG",7.4.1939,26.4.1939
+19,Page Ministry ,CP-UAP Coalition,7.4.1939,26.4.1939,"Thorby, HVC (CP)",7.4.1939,26.4.1939
+19,Page Ministry ,CP-UAP Coalition,7.4.1939,26.4.1939,"Perkins, JA",7.4.1939,26.4.1939
+19,Page Ministry ,CP-UAP Coalition,7.4.1939,26.4.1939,"Street, GA",7.4.1939,26.4.1939
+19,Page Ministry ,CP-UAP Coalition,7.4.1939,26.4.1939,"McEwen, J (CP)",7.4.1939,26.4.1939
+19,Page Ministry ,CP-UAP Coalition,7.4.1939,26.4.1939,"McLeay, Senator G",7.4.1939,26.4.1939
+19,Page Ministry ,CP-UAP Coalition,7.4.1939,26.4.1939,"Foll, Senator HS",7.4.1939,26.4.1939
+19,Page Ministry ,CP-UAP Coalition,7.4.1939,26.4.1939,"Cameron, AG (CP)",7.4.1939,26.4.1939
+19,Page Ministry ,CP-UAP Coalition,7.4.1939,26.4.1939,"Harrison, EJ",7.4.1939,26.4.1939
+19,Page Ministry ,CP-UAP Coalition,7.4.1939,26.4.1939,"Thompson, VC (CP)",7.4.1939,26.4.1939
+19,Page Ministry ,CP-UAP Coalition,7.4.1939,26.4.1939,"MacDonald, Senator AN",7.4.1939,26.4.1939
+20,Menzies Ministry ,UAP,26.4.1939,14.3.1940,"Menzies, RG",26.4.1939,14.3.1940
+20,Menzies Ministry ,UAP,26.4.1939,14.3.1940,"Hughes, WM",26.4.1939,14.3.1940
+20,Menzies Ministry ,UAP,26.4.1939,14.3.1940,"Casey, RG",26.4.1939,26.1.1940
+20,Menzies Ministry ,UAP,26.4.1939,14.3.1940,"Stewart, FH",26.1.1940,14.3.1940
+20,Menzies Ministry ,UAP,26.4.1939,14.3.1940,"Street, GA",26.4.1939,14.3.1940
+20,Menzies Ministry ,UAP,26.4.1939,14.3.1940,"Gullett, HS",26.4.1939,14.3.1940
+20,Menzies Ministry ,UAP,26.4.1939,14.3.1940,"McLeay, Senator G",26.4.1939,14.3.1940
+20,Menzies Ministry ,UAP,26.4.1939,14.3.1940,"Foll, Senator HS",26.4.1939,14.3.1940
+20,Menzies Ministry ,UAP,26.4.1939,14.3.1940,"Harrison, EJ",26.4.1939,14.3.1940
+20,Menzies Ministry ,UAP,26.4.1939,14.3.1940,"Lawson, JN",26.4.1939,23.2.1940
+20,Menzies Ministry ,UAP,26.4.1939,14.3.1940,"Fairbairn, JV",13.11.1939Ê,26.1.1940
+20,Menzies Ministry ,UAP,26.4.1939,14.3.1940,"Fairbairn, JVÊ",26.4.1939,14.3.1940
+20,Menzies Ministry ,UAP,26.4.1939,14.3.1940,"Spender, PC",26.1.1940,3.11.1939
+20,Menzies Ministry ,UAP,26.4.1939,14.3.1940,"Perkins, JA",26.4.1939,14.3.1940
+20,Menzies Ministry ,UAP,26.4.1939,14.3.1940,"Collett, Senator HB",26.4.1939,14.3.1940
+20,Menzies Ministry ,UAP,26.4.1939,14.3.1940,"Holt, HE",26.4.1939,14.3.1940
+20,Menzies Ministry ,UAP,26.4.1939,14.3.1940,"McBride, Senator PAM",26.4.1939,14.3.1940
+21,Menzies Ministry ,UAP-CP Coalition ,14.3.1940,28.10.1940,"Menzies, RG",14.3.1940,28.10.1940
+21,Menzies Ministry ,UAP-CP Coalition ,14.3.1940,28.10.1940,"Cameron, AG (CP)",14.3.1940,28.10.1940
+21,Menzies Ministry ,UAP-CP Coalition ,14.3.1940,28.10.1940,"Hughes, WM",14.3.1940,28.10.1940
+21,Menzies Ministry ,UAP-CP Coalition ,14.3.1940,28.10.1940,"Street, GA",14.3.1940,13.8.1940
+21,Menzies Ministry ,UAP-CP Coalition ,14.3.1940,28.10.1940,"McBride, Senator PAM",14.8.1940,28.10.1940
+21,Menzies Ministry ,UAP-CP Coalition ,14.3.1940,28.10.1940,"Gullett, HS",14.3.1940,13.8.1940
+21,Menzies Ministry ,UAP-CP Coalition ,14.3.1940,28.10.1940,"Collett, Senator HB",14.8.1940,13.8.1940
+21,Menzies Ministry ,UAP-CP Coalition ,14.3.1940,28.10.1940,"Stewart, FH",14.3.1940,28.10.1940
+21,Menzies Ministry ,UAP-CP Coalition ,14.3.1940,28.10.1940,"Thorby, HVC (CP)",14.3.1940,28.10.1940
+21,Menzies Ministry ,UAP-CP Coalition ,14.3.1940,28.10.1940,"Spender, PC",14.3.1940,28.10.1940
+21,Menzies Ministry ,UAP-CP Coalition ,14.3.1940,28.10.1940,"McLeay, Senator G",14.3.1940,28.10.1940
+21,Menzies Ministry ,UAP-CP Coalition ,14.3.1940,28.10.1940,"McEwen, J (CP)",14.3.1940,28.10.1940
+21,Menzies Ministry ,UAP-CP Coalition ,14.3.1940,28.10.1940,"Foll, Senator HS",14.3.1940,28.10.1940
+21,Menzies Ministry ,UAP-CP Coalition ,14.3.1940,28.10.1940,"Fairbairn, JV",14.3.1940,13.8.1940
+21,Menzies Ministry ,UAP-CP Coalition ,14.3.1940,28.10.1940,"Fadden, AW (CP)",14.8.1940,14.8.1940Ê
+21,Menzies Ministry ,UAP-CP Coalition ,14.3.1940,28.10.1940,"Nock, HK (CP)",14.3.1940,28.10.1940
+22,Menzies Ministry,UAP-CP Coalition,28.10.1940,29.8.1941,"Menzies, RG",28.10.1940,13.12.1940
+22,Menzies Ministry,UAP-CP Coalition,28.10.1940,29.8.1941,"Foll, Senator HS",13.12.1940,29.8.1941
+22,Menzies Ministry,UAP-CP Coalition,28.10.1940,29.8.1941,"Fadden, AW (CP)",28.10.1940,29.8.1941
+22,Menzies Ministry,UAP-CP Coalition,28.10.1940,29.8.1941,"Hughes, WM",28.10.1940,29.8.1941
+22,Menzies Ministry,UAP-CP Coalition,28.10.1940,29.8.1941,"Spender, PC",28.10.1940,29.8.1941
+22,Menzies Ministry,UAP-CP Coalition,28.10.1940,29.8.1941,"McLeay, Senator G",28.10.1940,29.8.1941
+22,Menzies Ministry,UAP-CP Coalition,28.10.1940,29.8.1941,"Collett, Senator HB",26.6.1941,26.6.1941
+22,Menzies Ministry,UAP-CP Coalition,28.10.1940,29.8.1941,"Collins, TJ (CP)",28.10.1940,29.8.1941
+22,Menzies Ministry,UAP-CP Coalition,28.10.1940,29.8.1941,"McEwen, J (CP)",26.6.1941,29.8.1941
+22,Menzies Ministry,UAP-CP Coalition,28.10.1940,29.8.1941,"Page, ECG (CP)Ê",28.10.1940,29.8.1941
+22,Menzies Ministry,UAP-CP Coalition,28.10.1940,29.8.1941,"Stewart, FH",28.10.1940,29.8.1941
+22,Menzies Ministry,UAP-CP Coalition,28.10.1940,29.8.1941,"McBride, Senator PAM",28.10.1940,26.6.1941
+22,Menzies Ministry,UAP-CP Coalition,28.10.1940,29.8.1941,"Harrison, EJ",28.10.1940,29.8.1941
+22,Menzies Ministry,UAP-CP Coalition,28.10.1940,29.8.1941,"Holt, HE",28.10.1940,29.8.1941
+22,Menzies Ministry,UAP-CP Coalition,28.10.1940,29.8.1941,"Leckie, Senator JW",26.6.1941,26.6.1941
+22,Menzies Ministry,UAP-CP Coalition,28.10.1940,29.8.1941,"Anthony, HL (CP)",26.6.1941,26.6.1941
+22,Menzies Ministry,UAP-CP Coalition,28.10.1940,29.8.1941,"Spooner, ES",26.6.1941,29.8.1941
+22,Menzies Ministry,UAP-CP Coalition,28.10.1940,29.8.1941,"Abbott, JP (CP)",26.6.1941,29.8.1941
+22,Menzies Ministry,UAP-CP Coalition,28.10.1940,29.8.1941,"McDonald, AMcK",26.6.1941,29.8.1941
+23,Fadden Ministry,CP-UAP Coalition,29.8.1941,7.10.1941,"Fadden, AW (CP)",29.8.1941,7.10.1941
+23,Fadden Ministry,CP-UAP Coalition,29.8.1941,7.10.1941,"Menzies, RG",29.8.1941,7.10.1941
+23,Fadden Ministry,CP-UAP Coalition,29.8.1941,7.10.1941,"Hughes, WM",29.8.1941,7.10.1941
+23,Fadden Ministry,CP-UAP Coalition,29.8.1941,7.10.1941,"Spender, PC",29.8.1941,7.10.1941
+23,Fadden Ministry,CP-UAP Coalition,29.8.1941,7.10.1941,"McLeay, Senator G",29.8.1941,7.10.1941
+23,Fadden Ministry,CP-UAP Coalition,29.8.1941,7.10.1941,"McEwen, J (CP)",29.8.1941,7.10.1941
+23,Fadden Ministry,CP-UAP Coalition,29.8.1941,7.10.1941,"Foll, Senator HS",29.8.1941,7.10.1941
+23,Fadden Ministry,CP-UAP Coalition,29.8.1941,7.10.1941,"Page, ECG (CP)",29.8.1941,7.10.1941
+23,Fadden Ministry,CP-UAP Coalition,29.8.1941,7.10.1941,"Stewart, FH",29.8.1941,7.10.1941
+23,Fadden Ministry,CP-UAP Coalition,29.8.1941,7.10.1941,"McBride, Senator PAM",29.8.1941,7.10.1941
+23,Fadden Ministry,CP-UAP Coalition,29.8.1941,7.10.1941,"Harrison, EJ",29.8.1941,7.10.1941
+23,Fadden Ministry,CP-UAP Coalition,29.8.1941,7.10.1941,"Holt, HE",29.8.1941,7.10.1941
+23,Fadden Ministry,CP-UAP Coalition,29.8.1941,7.10.1941,"Collett, Senator HB",29.8.1941,7.10.1941
+23,Fadden Ministry,CP-UAP Coalition,29.8.1941,7.10.1941,"Collins, TJ (CP)",29.8.1941,7.10.1941
+23,Fadden Ministry,CP-UAP Coalition,29.8.1941,7.10.1941,"Leckie, Senator JW",29.8.1941,7.10.1941
+23,Fadden Ministry,CP-UAP Coalition,29.8.1941,7.10.1941,"Anthony, HL (CP)",29.8.1941,7.10.1941
+23,Fadden Ministry,CP-UAP Coalition,29.8.1941,7.10.1941,"Spooner, ES",29.8.1941,7.10.1941
+23,Fadden Ministry,CP-UAP Coalition,29.8.1941,7.10.1941,"Abbott, JP (CP)",29.8.1941,7.10.1941
+23,Fadden Ministry,CP-UAP Coalition,29.8.1941,7.10.1941,"McDonald, AMcK",29.8.1941,7.10.1941
+24,Curtin Ministry,ALP,7.10.1941,21.9.1943,"Curtin, J",7.10.1941,21.9.1943
+24,Curtin Ministry,ALP,7.10.1941,21.9.1943,"Forde, FM",7.10.1941,21.9.1943
+24,Curtin Ministry,ALP,7.10.1941,21.9.1943,"Chifley, JB",7.10.1941,21.9.1943
+24,Curtin Ministry,ALP,7.10.1941,21.9.1943,"Evatt, HV",7.10.1941,21.9.1943
+24,Curtin Ministry,ALP,7.10.1941,21.9.1943,"Beasley, JA",7.10.1941,21.9.1943
+24,Curtin Ministry,ALP,7.10.1941,21.9.1943,"Collings, Senator JS",7.10.1941,21.9.1943
+24,Curtin Ministry,ALP,7.10.1941,21.9.1943,"Makin, NJO",7.10.1941,21.9.1943
+24,Curtin Ministry,ALP,7.10.1941,21.9.1943,"Holloway, EJ",7.10.1941,21.9.1943
+24,Curtin Ministry,ALP,7.10.1941,21.9.1943,"Keane, Senator RV",7.10.1941,21.9.1943
+24,Curtin Ministry,ALP,7.10.1941,21.9.1943,"Drakeford, AS",7.10.1941,21.9.1943
+24,Curtin Ministry,ALP,7.10.1941,21.9.1943,"Scully, WJ",7.10.1941,21.9.1943
+24,Curtin Ministry,ALP,7.10.1941,21.9.1943,"Ashley, Senator WP",7.10.1941,21.9.1943
+24,Curtin Ministry,ALP,7.10.1941,21.9.1943,"Ward, EJ",7.10.1941,21.9.1943
+24,Curtin Ministry,ALP,7.10.1941,21.9.1943,"Frost, CW",7.10.1941,21.9.1943
+24,Curtin Ministry,ALP,7.10.1941,21.9.1943,"Dedman, JJ",7.10.1941,21.9.1943
+24,Curtin Ministry,ALP,7.10.1941,21.9.1943,"Lazzarini, HP",7.10.1941,21.9.1943
+24,Curtin Ministry,ALP,7.10.1941,21.9.1943,"Fraser, Senator JM",7.10.1941,17.10.1942
+24,Curtin Ministry,ALP,7.10.1941,21.9.1943,"Cameron, Senator D",7.10.1941,21.2.1942
+24,Curtin Ministry,ALP,7.10.1941,21.9.1943,"Lawson, G",7.10.1941,21.9.1943
+25,Curtin Ministry,ALP,21.9.1943,6.7.1945,"Curtin, J",21.9.1943,6.7.1945
+25,Curtin Ministry,ALP,21.9.1943,6.7.1945,"Forde, FM",21.9.1943,6.7.1945
+25,Curtin Ministry,ALP,21.9.1943,6.7.1945,"Chifley, JB",21.9.1943,2.2.1945
+25,Curtin Ministry,ALP,21.9.1943,6.7.1945,"Dedman, JJ",2.2.1945,19.2.1945
+25,Curtin Ministry,ALP,21.9.1943,6.7.1945,"Evatt, HV",21.9.1943,6.7.1945
+25,Curtin Ministry,ALP,21.9.1943,6.7.1945,"Beasley, JA",21.9.1943,6.7.1945
+25,Curtin Ministry,ALP,21.9.1943,6.7.1945,"Ashley, Senator WP",2.2.1945,2.2.1945
+25,Curtin Ministry,ALP,21.9.1943,6.7.1945,"Makin, NJO",21.9.1943,6.7.1945
+25,Curtin Ministry,ALP,21.9.1943,6.7.1945,"Keane, Senator RV",21.9.1943,6.7.1945
+25,Curtin Ministry,ALP,21.9.1943,6.7.1945,"Holloway, EJ",21.9.1943,6.7.1945
+25,Curtin Ministry,ALP,21.9.1943,6.7.1945,"Drakeford, AS",21.9.1943,6.7.1945
+25,Curtin Ministry,ALP,21.9.1943,6.7.1945,"Scully, WJ",21.9.1943,6.7.1945
+25,Curtin Ministry,ALP,21.9.1943,6.7.1945,"Cameron, Senator D",2.2.1945,2.2.1945
+25,Curtin Ministry,ALP,21.9.1943,6.7.1945,"Collings, Senator JS",21.9.1943,6.7.1945
+25,Curtin Ministry,ALP,21.9.1943,6.7.1945,"Ward, EJ",21.9.1943,6.7.1945
+25,Curtin Ministry,ALP,21.9.1943,6.7.1945,"Fraser, Senator JM",21.9.1943,6.7.1945
+25,Curtin Ministry,ALP,21.9.1943,6.7.1945,"Frost, CW",21.9.1943,6.7.1945
+25,Curtin Ministry,ALP,21.9.1943,6.7.1945,"Lazzarini, HP",21.9.1943,6.7.1945
+25,Curtin Ministry,ALP,21.9.1943,6.7.1945,"Calwell, AA",21.9.1943,6.7.1945
+26,Forde Ministry,ALP,6.7.1945,13.7.1945,"Forde, FM",6.7.1945,13.7.1945
+26,Forde Ministry,ALP,6.7.1945,13.7.1945,"Chifley, JB",6.7.1945,13.7.1945
+26,Forde Ministry,ALP,6.7.1945,13.7.1945,"Evatt, HV",6.7.1945,13.7.1945
+26,Forde Ministry,ALP,6.7.1945,13.7.1945,"Beasley, JA",6.7.1945,13.7.1945
+26,Forde Ministry,ALP,6.7.1945,13.7.1945,"Makin, NJO",6.7.1945,13.7.1945
+26,Forde Ministry,ALP,6.7.1945,13.7.1945,"Keane, Senator RV",6.7.1945,13.7.1945
+26,Forde Ministry,ALP,6.7.1945,13.7.1945,"Holloway, EJ",6.7.1945,13.7.1945
+26,Forde Ministry,ALP,6.7.1945,13.7.1945,"Drakeford, AS",6.7.1945,13.7.1945
+26,Forde Ministry,ALP,6.7.1945,13.7.1945,"Scully, WJ",6.7.1945,13.7.1945
+26,Forde Ministry,ALP,6.7.1945,13.7.1945,"Ashley, Senator WP",6.7.1945,13.7.1945
+26,Forde Ministry,ALP,6.7.1945,13.7.1945,"Dedman, JJ",6.7.1945,13.7.1945
+26,Forde Ministry,ALP,6.7.1945,13.7.1945,"Collings, Senator JS",6.7.1945,13.7.1945
+26,Forde Ministry,ALP,6.7.1945,13.7.1945,"Ward, EJ",6.7.1945,13.7.1945
+26,Forde Ministry,ALP,6.7.1945,13.7.1945,"Fraser, Senator JM",6.7.1945,13.7.1945
+26,Forde Ministry,ALP,6.7.1945,13.7.1945,"Frost, CW",6.7.1945,13.7.1945
+26,Forde Ministry,ALP,6.7.1945,13.7.1945,"Lazzarini, HP",6.7.1945,13.7.1945
+26,Forde Ministry,ALP,6.7.1945,13.7.1945,"Cameron, Senator D",6.7.1945,13.7.1945
+26,Forde Ministry,ALP,6.7.1945,13.7.1945,"Calwell, AA",6.7.1945,13.7.1945
+27,Chifley Ministry,ALP,13.7.1945,1.11.1946,"Chifley, JB",13.7.1945,1.11.1946
+27,Chifley Ministry,ALP,13.7.1945,1.11.1946,"Forde, FM",13.7.1945,1.11.1946
+27,Chifley Ministry,ALP,13.7.1945,1.11.1946,"Evatt, HV",13.7.1945,1.11.1946
+27,Chifley Ministry,ALP,13.7.1945,1.11.1946,"Beasley, JA",13.7.1945,14.8.1946
+27,Chifley Ministry,ALP,13.7.1945,1.11.1946,"Makin, NJO",13.7.1945,15.8.1946
+27,Chifley Ministry,ALP,13.7.1945,1.11.1946,"Drakeford, AS",15.8.1946,1.11.1946
+27,Chifley Ministry,ALP,13.7.1945,1.11.1946,"Dedman, JJ",15.8.1946,1.11.1946
+27,Chifley Ministry,ALP,13.7.1945,1.11.1946,"Keane, Senator RV",13.7.1945,26.4.1946
+27,Chifley Ministry,ALP,13.7.1945,1.11.1946,"Fraser, Senator JM",18.6.1946,18.6.1946
+27,Chifley Ministry,ALP,13.7.1945,1.11.1946,"Holloway, EJ",13.7.1945,1.11.1946
+27,Chifley Ministry,ALP,13.7.1945,1.11.1946,"Scully, WJ",13.7.1945,1.11.1946
+27,Chifley Ministry,ALP,13.7.1945,1.11.1946,"Ashley, Senator WP",13.7.1945,1.11.1946
+27,Chifley Ministry,ALP,13.7.1945,1.11.1946,"Collings, Senator JS",13.7.1945,1.11.1946
+27,Chifley Ministry,ALP,13.7.1945,1.11.1946,"Ward, EJ",13.7.1945,1.11.1946
+27,Chifley Ministry,ALP,13.7.1945,1.11.1946,"McKenna, Senator NE",18.6.1946,1.11.1946
+27,Chifley Ministry,ALP,13.7.1945,1.11.1946,"Frost, CW",13.7.1945,1.11.1946
+27,Chifley Ministry,ALP,13.7.1945,1.11.1946,"Lazzarini, HP",13.7.1945,1.2.1946
+27,Chifley Ministry,ALP,13.7.1945,1.11.1946,"Cameron, Senator D",13.7.1945,1.11.1946
+27,Chifley Ministry,ALP,13.7.1945,1.11.1946,"Calwell, AA",13.7.1945,1.11.1946
+27,Chifley Ministry,ALP,13.7.1945,1.11.1946,"Johnson, HV",13.7.1945,1.11.1946
+28,Chifley Ministry,ALP,1.11.1946,19.12.1949,"Chifley, JB",1.11.1946,19.12.1949
+28,Chifley Ministry,ALP,1.11.1946,19.12.1949,"Evatt, HV",1.11.1946,19.12.1949
+28,Chifley Ministry,ALP,1.11.1946,19.12.1949,"Holloway, EJ",1.11.1946,19.12.1949
+28,Chifley Ministry,ALP,1.11.1946,19.12.1949,"Drakeford, AS",1.11.1946,19.12.1949
+28,Chifley Ministry,ALP,1.11.1946,19.12.1949,"Scully, WJ",1.11.1946,19.12.1949
+28,Chifley Ministry,ALP,1.11.1946,19.12.1949,"Ashley, Senator WP",1.11.1946,19.12.1949
+28,Chifley Ministry,ALP,1.11.1946,19.12.1949,"Dedman, JJ",1.11.1946,19.12.1949
+28,Chifley Ministry,ALP,1.11.1946,19.12.1949,"Ward, EJ",1.11.1946,19.12.1949
+28,Chifley Ministry,ALP,1.11.1946,19.12.1949,"Cameron, Senator D",1.11.1946,19.12.1949
+28,Chifley Ministry,ALP,1.11.1946,19.12.1949,"Calwell, AA",1.11.1946,19.12.1949
+28,Chifley Ministry,ALP,1.11.1946,19.12.1949,"Johnson, HV",1.11.1946,19.12.1949
+28,Chifley Ministry,ALP,1.11.1946,19.12.1949,"McKenna, Senator NE",1.11.1946,19.12.1949
+28,Chifley Ministry,ALP,1.11.1946,19.12.1949,"Pollard, RT",1.11.1946,19.12.1949
+28,Chifley Ministry,ALP,1.11.1946,19.12.1949,"Lemmon, N",1.11.1946,19.12.1949
+28,Chifley Ministry,ALP,1.11.1946,19.12.1949,"Armstrong, Senator JI",1.11.1946,19.12.1949
+28,Chifley Ministry,ALP,1.11.1946,19.12.1949,"Chambers, C",1.11.1946,19.12.1949
+28,Chifley Ministry,ALP,1.11.1946,19.12.1949,"Courtice, Senator B",1.11.1946,19.12.1949
+28,Chifley Ministry,ALP,1.11.1946,19.12.1949,"Riordan, WJF",1.11.1946,19.12.1949
+28,Chifley Ministry,ALP,1.11.1946,19.12.1949,"Barnard, HC",1.11.1946,19.12.1949
+29,Menzies Ministry,LIB-CP Coalition,19.12.1949,11.5.1951,"Menzies, RG",19.12.1949,11.5.1951
+29,Menzies Ministry,LIB-CP Coalition,19.12.1949,11.5.1951,"Fadden, AW (CP)",19.12.1949,11.5.1951
+29,Menzies Ministry,LIB-CP Coalition,19.12.1949,11.5.1951,"Harrison, EJ",19.12.1949,11.5.1951
+29,Menzies Ministry,LIB-CP Coalition,19.12.1949,11.5.1951,"McBride, PAM",24.10.1950,24.10.1950
+29,Menzies Ministry,LIB-CP Coalition,19.12.1949,11.5.1951,"Holt, HE",19.12.1949,11.5.1951
+29,Menzies Ministry,LIB-CP Coalition,19.12.1949,11.5.1951,"McEwen, J (CP)",19.12.1949,11.5.1951
+29,Menzies Ministry,LIB-CP Coalition,19.12.1949,11.5.1951,"Spender, PC",19.12.1949,26.4.1951
+29,Menzies Ministry,LIB-CP Coalition,19.12.1949,11.5.1951,"Casey, RG",27.4.1951,11.5.1951
+29,Menzies Ministry,LIB-CP Coalition,19.12.1949,11.5.1951,"Beale, OH",17.3.1950,17.3.1950
+29,Menzies Ministry,LIB-CP Coalition,19.12.1949,11.5.1951,"Page, ECG (CP)",19.12.1949,11.5.1951
+29,Menzies Ministry,LIB-CP Coalition,19.12.1949,11.5.1951,"O'Sullivan, Senator N",19.12.1949,11.5.1951
+29,Menzies Ministry,LIB-CP Coalition,19.12.1949,11.5.1951,"McLeay, Senator G",19.12.1949,11.5.1951
+29,Menzies Ministry,LIB-CP Coalition,19.12.1949,11.5.1951,"White, TW",19.12.1949,11.5.1951
+29,Menzies Ministry,LIB-CP Coalition,19.12.1949,11.5.1951,"Anthony, HL (CP)",19.12.1949,11.5.1951
+29,Menzies Ministry,LIB-CP Coalition,19.12.1949,11.5.1951,"Francis, J",19.12.1949,11.5.1951
+29,Menzies Ministry,LIB-CP Coalition,19.12.1949,11.5.1951,"Spicer, Senator JA",19.12.1949,11.5.1951
+29,Menzies Ministry,LIB-CP Coalition,19.12.1949,11.5.1951,"Lyons, EM",19.12.1949,7.3.1951
+29,Menzies Ministry,LIB-CP Coalition,19.12.1949,11.5.1951,"Spooner, Senator WH",19.12.1949,11.5.1951
+29,Menzies Ministry,LIB-CP Coalition,19.12.1949,11.5.1951,"Cooper, Senator WJ (CP)",19.12.1949,11.5.1951
+30,Menzies Ministry,LIB-CP Coalition,11.5.1951,11.1.1956,"Menzies, RG",11.5.1951,11.1.1956
+30,Menzies Ministry,LIB-CP Coalition,11.5.1951,11.1.1956,"Fadden, AW (CP)",11.5.1951,11.1.1956
+30,Menzies Ministry,LIB-CP Coalition,11.5.1951,11.1.1956,"Harrison, EJ",11.5.1951,11.1.1956
+30,Menzies Ministry,LIB-CP Coalition,11.5.1951,11.1.1956,"Holt, HE",11.5.1951,11.1.1956
+30,Menzies Ministry,LIB-CP Coalition,11.5.1951,11.1.1956,"McEwen, J (CP)",11.5.1951,11.1.1956
+30,Menzies Ministry,LIB-CP Coalition,11.5.1951,11.1.1956,"Casey, RG",11.5.1951,11.1.1956
+30,Menzies Ministry,LIB-CP Coalition,11.5.1951,11.1.1956,"McBride, PAM",11.5.1951,17.7.1951
+30,Menzies Ministry,LIB-CP Coalition,11.5.1951,11.1.1956,"McMahon, W",17.7.1951,11.1.1956
+30,Menzies Ministry,LIB-CP Coalition,11.5.1951,11.1.1956,"Francis, J",9.7.1954,7.11.1955
+30,Menzies Ministry,LIB-CP Coalition,11.5.1951,11.1.1956,"Townley, AG",9.7.1954,9.7.1954
+30,Menzies Ministry,LIB-CP Coalition,11.5.1951,11.1.1956,"Page, ECG (CP)",11.5.1951,11.1.1956
+30,Menzies Ministry,LIB-CP Coalition,11.5.1951,11.1.1956,"O'Sullivan, Senator N",11.5.1951,7.11.1955
+30,Menzies Ministry,LIB-CP Coalition,11.5.1951,11.1.1956,"McLeay, Senator G",11.5.1951,14.9.1955
+30,Menzies Ministry,LIB-CP Coalition,11.5.1951,11.1.1956,"Spicer, Senator JA",14.9.1955,11.1.1956
+30,Menzies Ministry,LIB-CP Coalition,11.5.1951,11.1.1956,"Paltridge, Senator SD",27.9.1955,11.1.1956
+30,Menzies Ministry,LIB-CP Coalition,11.5.1951,11.1.1956,"Anthony, HL (CP)",11.5.1951,9.7.1954
+30,Menzies Ministry,LIB-CP Coalition,11.5.1951,11.1.1956,"Spooner, Senator WH",11.5.1951,11.1.1956
+30,Menzies Ministry,LIB-CP Coalition,11.5.1951,11.1.1956,"Cooper, Senator WJ (CP)",11.5.1951,11.1.1956
+30,Menzies Ministry,LIB-CP Coalition,11.5.1951,11.1.1956,"Beale, OH",11.5.1951,11.1.1956
+30,Menzies Ministry,LIB-CP Coalition,11.5.1951,11.1.1956,"Kent Hughes, WS",11.5.1951,11.1.1956
+30,Menzies Ministry,LIB-CP Coalition,11.5.1951,11.1.1956,"Hasluck, PMC",11.5.1951,11.1.1956
+31,Menzies Ministry ,(LIB-CP Coalition) ,11.1.1956,10.12.1958,"Menzies, the Rt Hon. Robert Gordon, CH, QC",11.1.1956,10.12.1958
+31,Menzies Ministry ,(LIB-CP Coalition) ,11.1.1956,10.12.1958,"Fadden, the Rt Hon. Sir Arthur William, KCMG",11.1.1956,10.12.1958
+31,Menzies Ministry ,(LIB-CP Coalition) ,11.1.1956,10.12.1958,"Harrison, the Rt Hon. Sir Eric John, KCVO ",11.1.1956,24.10.1956
+31,Menzies Ministry ,(LIB-CP Coalition) ,11.1.1956,10.12.1958,"Holt, the Rt Hon. Harold Edward",11.1.1956,10.12.1958
+31,Menzies Ministry ,(LIB-CP Coalition) ,11.1.1956,10.12.1958,"McEwen, the Rt Hon. John",11.1.1956,10.12.1958
+31,Menzies Ministry ,(LIB-CP Coalition) ,11.1.1956,10.12.1958,"Casey, the Rt Hon. Richard Gardiner, CH, DSO, MC",11.1.1956,10.12.1958
+31,Menzies Ministry ,(LIB-CP Coalition) ,11.1.1956,10.12.1958,"McBride, the Hon. Sir Philip Albert Martin, KCMG",11.1.1956,10.12.1958
+31,Menzies Ministry ,(LIB-CP Coalition) ,11.1.1956,10.12.1958,"O'Sullivan, Senator the Hon. Neil",11.1.1956,10.12.1958
+31,Menzies Ministry ,(LIB-CP Coalition) ,11.1.1956,10.12.1958,"Spicer, Senator the Hon. John Armstrong, QC ",11.1.1956,14.8.1956
+31,Menzies Ministry ,(LIB-CP Coalition) ,11.1.1956,10.12.1958,"Spooner, Senator the Hon. William Henry, MM",11.1.1956,10.12.1958
+31,Menzies Ministry ,(LIB-CP Coalition) ,11.1.1956,10.12.1958,"Townley, the Hon. Athol Gordon",11.1.1956,10.12.1958
+31,Menzies Ministry ,(LIB-CP Coalition) ,11.1.1956,10.12.1958,"Hasluck, the Hon. Paul Meernaa Caedwalla",11.1.1956,10.12.1958
+31,Menzies Ministry ,(LIB-CP Coalition) ,11.1.1956,10.12.1958,"Beale, the Hon. Howard, QC ",24.10.1956 ,10.2.1958
+31,Menzies Ministry ,(LIB-CP Coalition) ,11.1.1956,10.12.1958,"McMahon, the Hon. William ",18.10.1956,10.12.1958
+31,Menzies Ministry ,(LIB-CP Coalition) ,11.1.1956,10.12.1958,"Paltridge, Senator the Hon. Shane Dunne ",11.2.1958,10.12.1958
+32,Menzies Ministry ,(LIB-CP Coalition) ,10.12.1958,18.12.1963,"Menzies, the Rt Hon. Sir Robert Gordon, KT, CH, QC",10.12.1958,18.12.1963
+32,Menzies Ministry ,(LIB-CP Coalition) ,10.12.1958,18.12.1963,"McEwen, the Rt Hon. John",10.12.1958,18.12.1963
+32,Menzies Ministry ,(LIB-CP Coalition) ,10.12.1958,18.12.1963,"Holt, the Rt Hon. Harold Edward",10.12.1958,18.12.1963
+32,Menzies Ministry ,(LIB-CP Coalition) ,10.12.1958,18.12.1963,"Casey, the Rt Hon. Richard Gardiner, CH, DSO, MC ",10.12.1958,4.2.1960
+32,Menzies Ministry ,(LIB-CP Coalition) ,10.12.1958,18.12.1963,"Spooner, Senator the Hon. William Henry, MM",10.12.1958,18.12.1963
+32,Menzies Ministry ,(LIB-CP Coalition) ,10.12.1958,18.12.1963,"Townley, the Hon. Athol Gordon",10.12.1958,18.12.1963
+32,Menzies Ministry ,(LIB-CP Coalition) ,10.12.1958,18.12.1963,"Hasluck, the Hon. Paul Meernaa Caedwalla",10.12.1958,18.12.1963
+32,Menzies Ministry ,(LIB-CP Coalition) ,10.12.1958,18.12.1963,"McMahon, the Hon. William",10.12.1958,18.12.1963
+32,Menzies Ministry ,(LIB-CP Coalition) ,10.12.1958,18.12.1963,"Paltridge, Senator the Hon. Shane Dunne",10.12.1958,18.12.1963
+32,Menzies Ministry ,(LIB-CP Coalition) ,10.12.1958,18.12.1963,"Davidson, the Hon. Charles William, OBE",10.12.1958,18.12.1963
+32,Menzies Ministry ,(LIB-CP Coalition) ,10.12.1958,18.12.1963,"Downer, the Hon. Alexander Russell",10.12.1958,18.12.1963
+32,Menzies Ministry ,(LIB-CP Coalition) ,10.12.1958,18.12.1963,"Barwick, the Hon. Sir Garfield Edward John, QC",10.12.1958,18.12.1963
+32,Menzies Ministry ,(LIB-CP Coalition) ,10.12.1958,18.12.1963,"Adermann, the Hon. Charles Frederick ",4.2.1960,18.12.1963
+33,Menzies Ministry ,(LIB-CP Coalition) ,18.12.1963,26.1.1966,"Menzies, the Rt Hon. Sir Robert Gordon, KT, CH, QC",18.12.1963,26.1.1966
+33,Menzies Ministry ,(LIB-CP Coalition) ,18.12.1963,26.1.1966,"McEwen, the Rt Hon. John",18.12.1963,26.1.1966
+33,Menzies Ministry ,(LIB-CP Coalition) ,18.12.1963,26.1.1966,"Holt, the Rt Hon. Harold Edward",18.12.1963,26.1.1966
+33,Menzies Ministry ,(LIB-CP Coalition) ,18.12.1963,26.1.1966,"Spooner, Senator the Hon. Sir William Henry, KCMG, MM ",18.12.1963,10.6.1964
+33,Menzies Ministry ,(LIB-CP Coalition) ,18.12.1963,26.1.1966,"Hasluck, the Hon. Paul Meernaa Caedwalla",18.12.1963,26.1.1966
+33,Menzies Ministry ,(LIB-CP Coalition) ,18.12.1963,26.1.1966,"McMahon, the Hon. William",18.12.1963,26.1.1966
+33,Menzies Ministry ,(LIB-CP Coalition) ,18.12.1963,26.1.1966,"Barwick, the Hon. Sir Garfield Edward John, GCMG, QC ",18.12.1963,23.4.1964
+33,Menzies Ministry ,(LIB-CP Coalition) ,18.12.1963,26.1.1966,"Adermann, the Hon. Charles Frederick",18.12.1963,26.1.1966
+33,Menzies Ministry ,(LIB-CP Coalition) ,18.12.1963,26.1.1966,"Paltridge, Senator the Hon. Shane Dunne ",18.12.1963,19.1.1966
+33,Menzies Ministry ,(LIB-CP Coalition) ,18.12.1963,26.1.1966,"Wade, Senator the Hon. Harrie Walter ",18.12.1963,18.11.1964
+33,Menzies Ministry ,(LIB-CP Coalition) ,18.12.1963,26.1.1966,"Fairhall, the Hon. Allen",18.12.1963,26.1.1966
+33,Menzies Ministry ,(LIB-CP Coalition) ,18.12.1963,26.1.1966,"Henty, Senator the Hon. Norman Henry Denham",18.12.1963,26.1.1966
+33,Menzies Ministry ,(LIB-CP Coalition) ,18.12.1963,26.1.1966,"Hulme, the Hon. Alan Shallcross ",13.6.1964,26.1.1966
+33,Menzies Ministry ,(LIB-CP Coalition) ,18.12.1963,26.1.1966,"Fairbairn, the Hon. David Eric, DFC ",13.6.1964,26.1.1966
+33,Menzies Ministry ,(LIB-CP Coalition) ,18.12.1963,26.1.1966,"Barnes, the Hon. Charles Edward ",13.8.1965,26.1.1966
+34,Holt Ministry ,(LIB-CP Coalition) ,26.1.1966,14.12.1966,"Holt, the Rt Hon. Harold Edward",26.1.1966,14.12.1966
+34,Holt Ministry ,(LIB-CP Coalition) ,26.1.1966,14.12.1966,"McEwen, the Rt Hon. John",26.1.1966,14.12.1966
+34,Holt Ministry ,(LIB-CP Coalition) ,26.1.1966,14.12.1966,"McMahon, the Hon. William",26.1.1966,14.12.1966
+34,Holt Ministry ,(LIB-CP Coalition) ,26.1.1966,14.12.1966,"Hasluck, the Rt Hon. Paul Meernaa Caedwalla",26.1.1966,14.12.1966
+34,Holt Ministry ,(LIB-CP Coalition) ,26.1.1966,14.12.1966,"Adermann, the Hon. Charles Frederick",26.1.1966,14.12.1966
+34,Holt Ministry ,(LIB-CP Coalition) ,26.1.1966,14.12.1966,"Fairhall, the Hon. Allen",26.1.1966,14.12.1966
+34,Holt Ministry ,(LIB-CP Coalition) ,26.1.1966,14.12.1966,"Henty, Senator the Hon. Norman Henry Denham",26.1.1966,14.12.1966
+34,Holt Ministry ,(LIB-CP Coalition) ,26.1.1966,14.12.1966,"Hulme, the Hon. Alan Shallcross",26.1.1966,14.12.1966
+34,Holt Ministry ,(LIB-CP Coalition) ,26.1.1966,14.12.1966,"Fairbairn, the Hon. David Eric, DFC",26.1.1966,14.12.1966
+34,Holt Ministry ,(LIB-CP Coalition) ,26.1.1966,14.12.1966,"Barnes, the Hon. Charles Edward",26.1.1966,14.12.1966
+34,Holt Ministry ,(LIB-CP Coalition) ,26.1.1966,14.12.1966,"Gorton, Senator the Hon. John Grey",26.1.1966,14.12.1966
+34,Holt Ministry ,(LIB-CP Coalition) ,26.1.1966,14.12.1966,"Bury, the Hon. Leslie Harry Ernest",26.1.1966,14.12.1966
+35,Holt Ministry ,(LIB-CP Coalition) ,14.12.1966,19.12.1967,"Holt, the Rt Hon. Harold Edward",14.12.1966,19.12.1967
+35,Holt Ministry ,(LIB-CP Coalition) ,14.12.1966,19.12.1967,"McEwen, the Rt Hon. John",14.12.1966,19.12.1967
+35,Holt Ministry ,(LIB-CP Coalition) ,14.12.1966,19.12.1967,"McMahon, the Rt Hon. William",14.12.1966,19.12.1967
+35,Holt Ministry ,(LIB-CP Coalition) ,14.12.1966,19.12.1967,"Hasluck, the Rt Hon. Paul Meernaa Caedwalla",14.12.1966,19.12.1967
+35,Holt Ministry ,(LIB-CP Coalition) ,14.12.1966,19.12.1967,"Fairhall, the Hon. Allen",14.12.1966,19.12.1967
+35,Holt Ministry ,(LIB-CP Coalition) ,14.12.1966,19.12.1967,"Anthony, the Hon. John Douglas",14.12.1966,19.12.1967
+35,Holt Ministry ,(LIB-CP Coalition) ,14.12.1966,19.12.1967,"Henty, Senator the Hon. Norman Henry Denham",14.12.1966,19.12.1967
+35,Holt Ministry ,(LIB-CP Coalition) ,14.12.1966,19.12.1967,"Adermann, the Rt Hon. Charles Frederick ",14.12.1966,16.10.1967
+35,Holt Ministry ,(LIB-CP Coalition) ,14.12.1966,19.12.1967,"Hulme, the Hon. Alan Shallcross",14.12.1966,19.12.1967
+35,Holt Ministry ,(LIB-CP Coalition) ,14.12.1966,19.12.1967,"Fairbairn, the Hon. David Eric, DFC",14.12.1966,19.12.1967
+35,Holt Ministry ,(LIB-CP Coalition) ,14.12.1966,19.12.1967,"Gorton, Senator the Hon. John Grey",14.12.1966,19.12.1967
+35,Holt Ministry ,(LIB-CP Coalition) ,14.12.1966,19.12.1967,"Bury, the Hon. Leslie Harry Ernest",14.12.1966,19.12.1967
+35,Holt Ministry ,(LIB-CP Coalition) ,14.12.1966,19.12.1967,"Sinclair, the Hon. Ian McCahon ",16.10.1967,19.12.1967
+36,McEwen Ministry ,(LIB-CP Coalition) ,19.12.1967,10.1.1968,"McEwen, the Rt Hon. John",19.12.1967,10.1.1968
+36,McEwen Ministry ,(LIB-CP Coalition) ,19.12.1967,10.1.1968,"McMahon, the Rt Hon. William",19.12.1967,10.1.1968
+36,McEwen Ministry ,(LIB-CP Coalition) ,19.12.1967,10.1.1968,"Hasluck, the Rt Hon. Paul Meernaa Caedwalla",19.12.1967,10.1.1968
+36,McEwen Ministry ,(LIB-CP Coalition) ,19.12.1967,10.1.1968,"Fairhall, the Hon. Allen",19.12.1967,10.1.1968
+36,McEwen Ministry ,(LIB-CP Coalition) ,19.12.1967,10.1.1968,"Anthony, the Hon. John Douglas",19.12.1967,10.1.1968
+36,McEwen Ministry ,(LIB-CP Coalition) ,19.12.1967,10.1.1968,"Henty, Senator the Hon. Norman Henry Denham",19.12.1967,10.1.1968
+36,McEwen Ministry ,(LIB-CP Coalition) ,19.12.1967,10.1.1968,"Hulme, the Hon. Alan ShallcrossFairbairn, the Hon. David Eric, DFC",19.12.1967,10.1.1968
+36,McEwen Ministry ,(LIB-CP Coalition) ,19.12.1967,10.1.1968,"Gorton, Senator the Hon. John Grey",19.12.1967,10.1.1968
+36,McEwen Ministry ,(LIB-CP Coalition) ,19.12.1967,10.1.1968,"Bury, the Hon. Leslie Harry Ernest",19.12.1967,10.1.1968
+36,McEwen Ministry ,(LIB-CP Coalition) ,19.12.1967,10.1.1968,"Sinclair, the Hon. Ian McCahon",19.12.1967,10.1.1968
+37,Gorton Ministry ,(LIB-CP Coalition) ,10.1.1968,28.2.1968,"Gorton, the Rt Hon. John Grey",10.1.1968,28.2.1968
+37,Gorton Ministry ,(LIB-CP Coalition) ,10.1.1968,28.2.1968,"McEwen, the Rt Hon. John",10.1.1968,28.2.1968
+37,Gorton Ministry ,(LIB-CP Coalition) ,10.1.1968,28.2.1968,"McMahon, the Rt Hon. William",10.1.1968,28.2.1968
+37,Gorton Ministry ,(LIB-CP Coalition) ,10.1.1968,28.2.1968,"Hasluck, the Rt Hon. Paul Meernaa Caedwalla",10.1.1968,28.2.1968
+37,Gorton Ministry ,(LIB-CP Coalition) ,10.1.1968,28.2.1968,"Fairhall, the Hon. Allen",10.1.1968,28.2.1968
+37,Gorton Ministry ,(LIB-CP Coalition) ,10.1.1968,28.2.1968,"Anthony, the Hon. John Douglas",10.1.1968,28.2.1968
+37,Gorton Ministry ,(LIB-CP Coalition) ,10.1.1968,28.2.1968,"Henty, Senator the Hon. Norman Henry Denham",10.1.1968,28.2.1968
+37,Gorton Ministry ,(LIB-CP Coalition) ,10.1.1968,28.2.1968,"Hulme, the Hon. Alan Shallcross",10.1.1968,28.2.1968
+37,Gorton Ministry ,(LIB-CP Coalition) ,10.1.1968,28.2.1968,"Fairbairn, the Hon. David Eric, DFC",10.1.1968,28.2.1968
+37,Gorton Ministry ,(LIB-CP Coalition) ,10.1.1968,28.2.1968,"Bury, the Hon. Leslie Harry Ernest",10.1.1968,28.2.1968
+37,Gorton Ministry ,(LIB-CP Coalition) ,10.1.1968,28.2.1968,"Sinclair, the Hon. Ian McCahon",10.1.1968,28.2.1968
+38,Gorton Ministry ,(LIB-CP Coalition) ,28.2.1968,12.11.1969,"Gorton, the Rt Hon. John Grey",28.2.1968,12.11.1969
+38,Gorton Ministry ,(LIB-CP Coalition) ,28.2.1968,12.11.1969,"McEwen, the Rt Hon. John",28.2.1968,12.11.1969
+38,Gorton Ministry ,(LIB-CP Coalition) ,28.2.1968,12.11.1969,"McMahon, the Rt Hon. William",28.2.1968,12.11.1969
+38,Gorton Ministry ,(LIB-CP Coalition) ,28.2.1968,12.11.1969,"Hasluck, the Rt Hon. Paul Meernaa Caedwalla ",28.2.1968,11.2.1969
+38,Gorton Ministry ,(LIB-CP Coalition) ,28.2.1968,12.11.1969,"Freeth, the Hon. Gordon ",11.2.1969,12.11.1969
+38,Gorton Ministry ,(LIB-CP Coalition) ,28.2.1968,12.11.1969,"Fairhall, the Hon. Allen",28.2.1968,12.11.1969
+38,Gorton Ministry ,(LIB-CP Coalition) ,28.2.1968,12.11.1969,"Anthony, the Hon. John Douglas",28.2.1968,12.11.1969
+38,Gorton Ministry ,(LIB-CP Coalition) ,28.2.1968,12.11.1969,"Hulme, the Hon. Alan Shallcross",28.2.1968,12.11.1969
+38,Gorton Ministry ,(LIB-CP Coalition) ,28.2.1968,12.11.1969,"Fairbairn, the Hon. David Eric, DFC",28.2.1968,12.11.1969
+38,Gorton Ministry ,(LIB-CP Coalition) ,28.2.1968,12.11.1969,"Bury, the Hon. Leslie Harry Ernest",28.2.1968,12.11.1969
+38,Gorton Ministry ,(LIB-CP Coalition) ,28.2.1968,12.11.1969,"Sinclair, the Hon. Ian McCahon",28.2.1968,12.11.1969
+38,Gorton Ministry ,(LIB-CP Coalition) ,28.2.1968,12.11.1969,"Anderson, the Hon. Kenneth McColl",28.2.1968,12.11.1969
+38,Gorton Ministry ,(LIB-CP Coalition) ,28.2.1968,12.11.1969,"Fraser, the Hon. John Malcolm",28.2.1968,12.11.1969
+39,Gorton Ministry ,(LIB-CP Coalition) ,12.11.1969,10.3.1971,"Gorton, the Rt Hon. John Grey",12.11.1969,10.3.1971
+39,Gorton Ministry ,(LIB-CP Coalition) ,12.11.1969,10.3.1971,"McEwen, the Rt Hon. John ",12.11.1969,5.2.1971
+39,Gorton Ministry ,(LIB-CP Coalition) ,12.11.1969,10.3.1971,"McMahon, the Rt Hon. William",12.11.1969,10.3.1971
+39,Gorton Ministry ,(LIB-CP Coalition) ,12.11.1969,10.3.1971,"Anthony, the Rt Hon. John Douglas",12.11.1969,10.3.1971
+39,Gorton Ministry ,(LIB-CP Coalition) ,12.11.1969,10.3.1971,"Hulme, the Hon. Alan Shallcross",12.11.1969,10.3.1971
+39,Gorton Ministry ,(LIB-CP Coalition) ,12.11.1969,10.3.1971,"Bury, the Hon. Leslie Harry Ernest",12.11.1969,10.3.1971
+39,Gorton Ministry ,(LIB-CP Coalition) ,12.11.1969,10.3.1971,"Sinclair, the Hon. Ian McCahon",12.11.1969,10.3.1971
+39,Gorton Ministry ,(LIB-CP Coalition) ,12.11.1969,10.3.1971,"Anderson, Senator the Hon. Kenneth McColl",12.11.1969,10.3.1971
+39,Gorton Ministry ,(LIB-CP Coalition) ,12.11.1969,10.3.1971,"Fraser, the Hon. John Malcolm ",12.11.1969,8.3.1971
+39,Gorton Ministry ,(LIB-CP Coalition) ,12.11.1969,10.3.1971,"Swartz, the Hon. Reginald William Colin",12.11.1969,10.3.1971
+39,Gorton Ministry ,(LIB-CP Coalition) ,12.11.1969,10.3.1971,"Snedden, the Hon. Billy Mackie, QC",12.11.1969,10.3.1971
+39,Gorton Ministry ,(LIB-CP Coalition) ,12.11.1969,10.3.1971,"Bowen, the Hon. Nigel Hubert, QC",12.11.1969,10.3.1971
+39,Gorton Ministry ,(LIB-CP Coalition) ,12.11.1969,10.3.1971,"Nixon, the Hon. Peter James",12.11.1969,10.3.1971
+40,McMahon Ministry ,(LIB-CP Coalition) ,10.3.1971,5.12.1972,"McMahon, the Rt Hon. William",10.3.1971,5.12.1972
+40,McMahon Ministry ,(LIB-CP Coalition) ,10.3.1971,5.12.1972,"Anthony, the Rt Hon. John Douglas",10.3.1971,5.12.1972
+40,McMahon Ministry ,(LIB-CP Coalition) ,10.3.1971,5.12.1972,"Gorton, the Rt Hon. John Grey, CH ",10.3.1971,13.8.1971
+40,McMahon Ministry ,(LIB-CP Coalition) ,10.3.1971,5.12.1972,"Sinclair, the Hon. Ian McCahon",10.3.1971,5.12.1972
+40,McMahon Ministry ,(LIB-CP Coalition) ,10.3.1971,5.12.1972,"Anderson, Senator the Hon. Sir Kenneth McColl, KBE",10.3.1971,5.12.1972
+40,McMahon Ministry ,(LIB-CP Coalition) ,10.3.1971,5.12.1972,"Swartz, the Hon. Sir Reginald William Colin, KBE, ED",10.3.1971,5.12.1972
+40,McMahon Ministry ,(LIB-CP Coalition) ,10.3.1971,5.12.1972,"Snedden, the Rt Hon. Billy Mackie, QC",10.3.1971,5.12.1972
+40,McMahon Ministry ,(LIB-CP Coalition) ,10.3.1971,5.12.1972,"Bowen, the Hon. Nigel Hubert, QC",10.3.1971,5.12.1972
+40,McMahon Ministry ,(LIB-CP Coalition) ,10.3.1971,5.12.1972,"Fairbairn, the Hon. David Eric, DFC ",22.3.1971,5.12.1972
+40,McMahon Ministry ,(LIB-CP Coalition) ,10.3.1971,5.12.1972,"Hulme, the Hon. Sir Alan Shallcross, KBE",10.3.1971,5.12.1972
+40,McMahon Ministry ,(LIB-CP Coalition) ,10.3.1971,5.12.1972,"Bury, the Hon. Leslie Harry Ernest ",10.3.1971,2.8.1971
+40,McMahon Ministry ,(LIB-CP Coalition) ,10.3.1971,5.12.1972,"Nixon, the Hon. Peter James",10.3.1971,5.12.1972
+40,McMahon Ministry ,(LIB-CP Coalition) ,10.3.1971,5.12.1972,"Lynch, the Hon. Phillip Reginald ",22.3.1971,5.12.1972
+40,McMahon Ministry ,(LIB-CP Coalition) ,10.3.1971,5.12.1972,"Fraser, the Hon. John Malcolm ",20.8.1971,5.12.1972
+41,Whitlam Ministry,(ALP) ,5.12.1972,19.12.1972,"Whitlam, EG",5.12.1972,19.12.1972
+41,Whitlam Ministry,(ALP) ,5.12.1972,19.12.1972,"Barnard, LH",5.12.1972,19.12.1972
+42,Whitlam Ministry,ALP,19.12.1972,12.6.1974,"Whitlam, EG",19.12.1972,6.11.1973
+42,Whitlam Ministry,ALP,19.12.1972,12.6.1974,"Barnard, LH",19.12.1972,9.10.1973
+42,Whitlam Ministry,ALP,19.12.1972,12.6.1974,"Enderby, KE",9.10.1973,19.10.1973
+42,Whitlam Ministry,ALP,19.12.1972,12.6.1974,"Willesee, Senator DR",6.11.1973,6.11.1973
+42,Whitlam Ministry,ALP,19.12.1972,12.6.1974,"Cairns, JF",19.12.1972,9.10.1973
+42,Whitlam Ministry,ALP,19.12.1972,12.6.1974,"Hayden, WG",19.12.1972,12.6.1974
+42,Whitlam Ministry,ALP,19.12.1972,12.6.1974,"Crean, F",19.12.1972,12.6.1974
+42,Whitlam Ministry,ALP,19.12.1972,12.6.1974,"Murphy, Senator LK",19.12.1972,12.6.1974
+42,Whitlam Ministry,ALP,19.12.1972,12.6.1974,"Bowen, LF",30.11.1973,12.6.1974
+42,Whitlam Ministry,ALP,19.12.1972,12.6.1974,"Stewart, FE",30.11.1973,12.6.1974
+42,Whitlam Ministry,ALP,19.12.1972,12.6.1974,"McClelland, Senator D",19.12.1972,12.6.1974
+42,Whitlam Ministry,ALP,19.12.1972,12.6.1974,"Patterson, RA",19.12.1972,12.6.1974
+42,Whitlam Ministry,ALP,19.12.1972,12.6.1974,"Bishop, Senator R",19.12.1972,12.6.1974
+42,Whitlam Ministry,ALP,19.12.1972,12.6.1974,"Daly, FMD",19.12.1972,12.6.1974
+42,Whitlam Ministry,ALP,19.12.1972,12.6.1974,"Cameron, CR",19.12.1972,12.6.1974
+42,Whitlam Ministry,ALP,19.12.1972,12.6.1974,"Uren, T",19.12.1972,12.6.1974
+42,Whitlam Ministry,ALP,19.12.1972,12.6.1974,"Jones, CK",19.12.1972,30.11.1973
+42,Whitlam Ministry,ALP,19.12.1972,12.6.1974,"Beazley, KE",19.12.1972,12.6.1974
+42,Whitlam Ministry,ALP,19.12.1972,12.6.1974,"Cavanagh, Senator JL",19.12.1972,12.6.1974
+42,Whitlam Ministry,ALP,19.12.1972,12.6.1974,"Johnson, LR",9.10.1973,12.6.1974
+42,Whitlam Ministry,ALP,19.12.1972,12.6.1974,"Wriedt, Senator KS",19.12.1972,12.6.1974
+42,Whitlam Ministry,ALP,19.12.1972,12.6.1974,"Bryant, GM",19.12.1972,12.6.1974
+42,Whitlam Ministry,ALP,19.12.1972,12.6.1974,"Connor, RFX",19.12.1972,12.6.1974
+42,Whitlam Ministry,ALP,19.12.1972,12.6.1974,"Grassby, AJ",19.12.1972,12.6.1974
+42,Whitlam Ministry,ALP,19.12.1972,12.6.1974,"Everingham, DN",19.12.1972,12.6.1974
+42,Whitlam Ministry,ALP,19.12.1972,12.6.1974,"Cass, MH",19.12.1972,12.6.1974
+42,Whitlam Ministry,ALP,19.12.1972,12.6.1974,"Morrison, WL",19.12.1972,12.6.1974
+43,Whitlam Ministry,ALP,12.6.1974,11.11.1975,"Whitlam, EG",12.6.1974,14.7.1975
+43,Whitlam Ministry,ALP,12.6.1974,11.11.1975,"Cairns, JF",12.6.1974,2.7.1975
+43,Whitlam Ministry,ALP,12.6.1974,11.11.1975,"Crean, F",14.7.1975,11.12.1974
+43,Whitlam Ministry,ALP,12.6.1974,11.11.1975,"Connor, RFX",12.6.1974,14.10.1975
+43,Whitlam Ministry,ALP,12.6.1974,11.11.1975,"Wriedt, Senator KS",14.10.1975,21.10.1975
+43,Whitlam Ministry,ALP,12.6.1974,11.11.1975,"Hayden, WG",12.6.1974,11.11.1975
+43,Whitlam Ministry,ALP,12.6.1974,11.11.1975,"Wheeldon, Senator JM",6.6.1975,11.11.1975
+43,Whitlam Ministry,ALP,12.6.1974,11.11.1975,"Murphy, LK",12.6.1974,10.2.1975
+43,Whitlam Ministry,ALP,12.6.1974,11.11.1975,"Enderby, KE",10.2.1975,10.2.1975
+43,Whitlam Ministry,ALP,12.6.1974,11.11.1975,"Cavanagh, Senator JL",6.6.1975,11.11.1975
+43,Whitlam Ministry,ALP,12.6.1974,11.11.1975,"Willesee, Senator DR",12.6.1974,11.11.1975
+43,Whitlam Ministry,ALP,12.6.1974,11.11.1975,"Daly, FM",12.6.1974,11.11.1975
+43,Whitlam Ministry,ALP,12.6.1974,11.11.1975,"McClelland, Senator D",12.6.1974,11.11.1975
+43,Whitlam Ministry,ALP,12.6.1974,11.11.1975,"Cass, MH",6.6.1975,6.6.1975
+43,Whitlam Ministry,ALP,12.6.1974,11.11.1975,"Barnard, LH",12.6.1974,6.6.1975
+43,Whitlam Ministry,ALP,12.6.1974,11.11.1975,"Morrison, WL",6.6.1975,6.6.1975
+43,Whitlam Ministry,ALP,12.6.1974,11.11.1975,"Patterson, RA",21.10.1975,21.10.1975
+43,Whitlam Ministry,ALP,12.6.1974,11.11.1975,"Keating, PJ",21.10.1975,11.11.1975
+43,Whitlam Ministry,ALP,12.6.1974,11.11.1975,"Cameron, CR",12.6.1974,11.11.1975
+43,Whitlam Ministry,ALP,12.6.1974,11.11.1975,"McClelland, Senator JR",6.6.1975,6.6.1975
+43,Whitlam Ministry,ALP,12.6.1974,11.11.1975,"Beazley, KE",12.6.1974,11.11.1975
+43,Whitlam Ministry,ALP,12.6.1974,11.11.1975,"Bowen, LF",12.6.1974,11.11.1975
+43,Whitlam Ministry,ALP,12.6.1974,11.11.1975,"Uren, T",12.6.1974,11.11.1975
+43,Whitlam Ministry,ALP,12.6.1974,11.11.1975,"Bishop, Senator R",12.6.1974,11.11.1975
+43,Whitlam Ministry,ALP,12.6.1974,11.11.1975,"Johnson, LR",12.6.1974,11.11.1975
+43,Whitlam Ministry,ALP,12.6.1974,11.11.1975,"Riordan, JM",6.6.1975,11.11.1975
+43,Whitlam Ministry,ALP,12.6.1974,11.11.1975,"Jones, CK",12.6.1974,11.11.1975
+43,Whitlam Ministry,ALP,12.6.1974,11.11.1975,"Everingham, DN",12.6.1974,11.11.1975
+43,Whitlam Ministry,ALP,12.6.1974,11.11.1975,"Bryant, GM",12.6.1974,11.11.1975
+43,Whitlam Ministry,ALP,12.6.1974,11.11.1975,"Berinson, JM",14.7.1975,11.11.1975
+43,Whitlam Ministry,ALP,12.6.1974,11.11.1975,"Cavanagh, JL",12.6.1974,6.6.1975
+43,Whitlam Ministry,ALP,12.6.1974,11.11.1975,"Stewart, FE",12.6.1974,11.11.1975
+44,Fraser Ministry,LIB-NCP Coalition,11.11.1975,22.12.1975,"Fraser, JM",11.11.1975,22.12.1975
+44,Fraser Ministry,LIB-NCP Coalition,11.11.1975,22.12.1975,"Anthony, JD (NCP)",11.11.1975,22.12.1975
+44,Fraser Ministry,LIB-NCP Coalition,11.11.1975,22.12.1975,"Lynch, PR",11.11.1975,22.12.1975
+44,Fraser Ministry,LIB-NCP Coalition,11.11.1975,22.12.1975,"Sinclair, IMcC (NCP)",11.11.1975,22.12.1975
+44,Fraser Ministry,LIB-NCP Coalition,11.11.1975,22.12.1975,"Withers, Senator RG",11.11.1975,22.12.1975
+44,Fraser Ministry,LIB-NCP Coalition,11.11.1975,22.12.1975,"Greenwood, Senator IJ",11.11.1975,22.12.1975
+44,Fraser Ministry,LIB-NCP Coalition,11.11.1975,22.12.1975,"Cotton, Senator RC",11.11.1975,22.12.1975
+44,Fraser Ministry,LIB-NCP Coalition,11.11.1975,22.12.1975,"Nixon, PJ (NCP)",11.11.1975,22.12.1975
+44,Fraser Ministry,LIB-NCP Coalition,11.11.1975,22.12.1975,"Peacock, AS",11.11.1975,22.12.1975
+44,Fraser Ministry,LIB-NCP Coalition,11.11.1975,22.12.1975,"Chipp, DL",11.11.1975,22.12.1975
+44,Fraser Ministry,LIB-NCP Coalition,11.11.1975,22.12.1975,"Killen, DJ",11.11.1975,22.12.1975
+44,Fraser Ministry,LIB-NCP Coalition,11.11.1975,22.12.1975,"Drake-Brockman, Senator TC (NCP)",11.11.1975,22.12.1975
+44,Fraser Ministry,LIB-NCP Coalition,11.11.1975,22.12.1975,"Carrick, Senator JL",11.11.1975,22.12.1975
+44,Fraser Ministry,LIB-NCP Coalition,11.11.1975,22.12.1975,"Street, AA",11.11.1975,22.12.1975
+44,Fraser Ministry,LIB-NCP Coalition,11.11.1975,22.12.1975,"Guilfoyle, Senator MGC",11.11.1975,22.12.1975
+45,Fraser Ministry,LIB-NCP Coalition ,22.12.1975,20.12.1977,"Fraser, the Rt Hon. John Malcolm",22.12.1975,20.12.1977
+45,Fraser Ministry,LIB-NCP Coalition ,22.12.1975,20.12.1977,"Anthony, the Rt Hon. John Douglas",22.12.1975,20.12.1977
+45,Fraser Ministry,LIB-NCP Coalition ,22.12.1975,20.12.1977,"Lynch, the Hon. Phillip Reginald",22.12.1975,19.11.1977
+45,Fraser Ministry,LIB-NCP Coalition ,22.12.1975,20.12.1977,"Sinclair, the Hon. Ian McCahon",22.12.1975,20.12.1977
+45,Fraser Ministry,LIB-NCP Coalition ,22.12.1975,20.12.1977,"Withers, Senator the Hon. Reginald Greive",22.12.1975,20.12.1977
+45,Fraser Ministry,LIB-NCP Coalition ,22.12.1975,20.12.1977,"Greenwood, Senator the Hon. Ivor John, QC",22.12.1975,8.7.1976
+45,Fraser Ministry,LIB-NCP Coalition ,22.12.1975,20.12.1977,"Cotton, Senator the Hon. Robert Carrington",22.12.1975,20.12.1977
+45,Fraser Ministry,LIB-NCP Coalition ,22.12.1975,20.12.1977,"Street, the Hon. Anthony Austin",22.12.1975,20.12.1977
+45,Fraser Ministry,LIB-NCP Coalition ,22.12.1975,20.12.1977,"Nixon, the Hon. Peter James",22.12.1975,20.12.1977
+45,Fraser Ministry,LIB-NCP Coalition ,22.12.1975,20.12.1977,"Carrick, Senator the Hon. John Leslie",22.12.1975,20.12.1977
+45,Fraser Ministry,LIB-NCP Coalition ,22.12.1975,20.12.1977,"Peacock, the Hon. Andrew Sharp",22.12.1975,20.12.1977
+45,Fraser Ministry,LIB-NCP Coalition ,22.12.1975,20.12.1977,"Killen, the Hon. Denis James",22.12.1975,20.12.1977
+45,Fraser Ministry,LIB-NCP Coalition ,22.12.1975,20.12.1977,"Guilfoyle, Senator the Hon. Margaret Georgina Constance",8.7.1976,20.12.1977
+46,Fraser Ministry,LIB-NCP Coalition ,20.12.1977,3.11.1980,"Fraser, the Rt Hon. John Malcolm, CH",20.12.1977,3.11.1980
+46,Fraser Ministry,LIB-NCP Coalition ,20.12.1977,3.11.1980,"Anthony, the Rt Hon. John Douglas, CH",20.12.1977,3.11.1980
+46,Fraser Ministry,LIB-NCP Coalition ,20.12.1977,3.11.1980,"Lynch, the Rt Hon. Phillip Reginald",20.12.1977,3.11.1980
+46,Fraser Ministry,LIB-NCP Coalition ,20.12.1977,3.11.1980,"Sinclair, the Rt Hon. Ian McCahon",20.12.1977,27.9.1979
+46,Fraser Ministry,LIB-NCP Coalition ,20.12.1977,3.11.1980,"Sinclair, the Rt Hon. Ian McCahon",19.8.1980,3.11.1980
+46,Fraser Ministry,LIB-NCP Coalition ,20.12.1977,3.11.1980,"Withers, Senator the Rt Hon. Reginald Greive",20.12.1977,7.8.1978 
+46,Fraser Ministry,LIB-NCP Coalition ,20.12.1977,3.11.1980,"Street, the Hon. Anthony Austin",20.12.1977,3.11.1980
+46,Fraser Ministry,LIB-NCP Coalition ,20.12.1977,3.11.1980,"Nixon, the Hon. Peter James",20.12.1977,3.11.1980
+46,Fraser Ministry,LIB-NCP Coalition ,20.12.1977,3.11.1980,"Howard, the Hon. John Winston",20.12.1977,3.11.1980
+46,Fraser Ministry,LIB-NCP Coalition ,20.12.1977,3.11.1980,"Carrick, Senator the Hon. John Leslie",20.12.1977,3.11.1980
+46,Fraser Ministry,LIB-NCP Coalition ,20.12.1977,3.11.1980,"Peacock, the Hon. Andrew Sharp",20.12.1977,3.11.1980
+46,Fraser Ministry,LIB-NCP Coalition ,20.12.1977,3.11.1980,"Killen, the Hon. Denis James",20.12.1977,3.11.1980
+46,Fraser Ministry,LIB-NCP Coalition ,20.12.1977,3.11.1980,"Guilfoyle, Senator the Hon. Margaret Georgina Constance (later Dame Margaret, DBE)",20.12.1977,3.11.1980
+46,Fraser Ministry,LIB-NCP Coalition ,20.12.1977,3.11.1980,"Robinson, the Hon. Eric Laidlaw",20.12.1977,3.11.1980
+46,Fraser Ministry,LIB-NCP Coalition ,20.12.1977,3.11.1980,"Viner, the Hon. Robert Ian",20.12.1977,3.11.1980
+46,Fraser Ministry,LIB-NCP Coalition ,20.12.1977,3.11.1980,"Durack, Senator the Hon. Peter Drew, QC",25.8.1978 ,3.11.1980
+46,Fraser Ministry,LIB-NCP Coalition ,20.12.1977,3.11.1980,"Hunt, the Hon. Ralph James Dunnet",8.12.1979 ,3.11.1980
+47,Fraser Ministry,LIB-NCP* Coalition ,3.11.1980,11.3.1983,"Fraser, the Rt Hon. John Malcolm, CH",3.11.1980,11.3.1983
+47,Fraser Ministry,LIB-NCP* Coalition ,3.11.1980,11.3.1983,"Anthony, the Rt Hon. John Douglas, CH",3.11.1980,11.3.1983
+47,Fraser Ministry,LIB-NCP* Coalition ,3.11.1980,11.3.1983,"Lynch, the Rt Hon. Sir Phillip Reginald, KCMG",3.11.1980,11.10.1982
+47,Fraser Ministry,LIB-NCP* Coalition ,3.11.1980,11.3.1983,"Sinclair, the Rt Hon. Ian McCahon",3.11.1980,11.3.1983
+47,Fraser Ministry,LIB-NCP* Coalition ,3.11.1980,11.3.1983,"Carrick, Senator the Hon. John Leslie","(later Sir John, KCMG)",11.3.1983
+47,Fraser Ministry,LIB-NCP* Coalition ,3.11.1980,11.3.1983,"Street, the Hon. Anthony Austin",3.11.1980,11.3.1983
+47,Fraser Ministry,LIB-NCP* Coalition ,3.11.1980,11.3.1983,"Nixon, the Hon. Peter James",3.11.1980,11.3.1983
+47,Fraser Ministry,LIB-NCP* Coalition ,3.11.1980,11.3.1983,"Howard, the Hon. John Winston",3.11.1980,11.3.1983
+47,Fraser Ministry,LIB-NCP* Coalition ,3.11.1980,11.3.1983,"Peacock, the Hon. Andrew Sharp",3.11.1980,16.4.1981
+47,Fraser Ministry,LIB-NCP* Coalition ,3.11.1980,11.3.1983,"Peacock, the Hon. Andrew Sharp",11.10.1982,11.3.1983
+47,Fraser Ministry,LIB-NCP* Coalition ,3.11.1980,11.3.1983,"Killen, the Hon. Denis James (later Sir James, KCMG)",3.11.1980,11.3.1983
+47,Fraser Ministry,LIB-NCP* Coalition ,3.11.1980,11.3.1983,"Guilfoyle, Senator the Hon. Dame Margaret Georgina Constance, DBE",3.11.1980,11.3.1983
+47,Fraser Ministry,LIB-NCP* Coalition ,3.11.1980,11.3.1983,"Viner, the Hon. Robert Ian",3.11.1980,7.5.1982
+47,Fraser Ministry,LIB-NCP* Coalition ,3.11.1980,11.3.1983,"Durack, Senator the Hon. Peter Drew, QC",3.11.1980,11.3.1983
+47,Fraser Ministry,LIB-NCP* Coalition ,3.11.1980,11.3.1983,"Chaney, Senator the Hon. Frederick Michael",3.11.1980,11.3.1983
+47,Fraser Ministry,LIB-NCP* Coalition ,3.11.1980,11.3.1983,"Fife, the Hon. Wallace Clyde",16.4.1981,11.3.1983
+47,Fraser Ministry,LIB-NCP* Coalition ,3.11.1980,11.3.1983,"Macphee, the Hon. Ian Malcolm",7.5.1982,11.3.1983
+47,Fraser Ministry,LIB-NCP* Coalition ,3.11.1980,11.3.1983,"Baume, the Hon. Peter Erne",7.5.1982,11.3.1983
+48,Hawke Ministry,ALP ,11.3.1983,13.12.1984,"Hawke, the Hon. Robert James Lee, AC",11.3.1983,13.12.1984
+48,Hawke Ministry,ALP ,11.3.1983,13.12.1984,"Bowen, the Hon. Lionel Frost",11.3.1983,13.12.1984
+48,Hawke Ministry,ALP ,11.3.1983,13.12.1984,"Button, Senator the Hon. John Norman",11.3.1983,13.12.1984
+48,Hawke Ministry,ALP ,11.3.1983,13.12.1984,"Grimes, Senator the Hon. Donald James",11.3.1983,13.12.1984
+48,Hawke Ministry,ALP ,11.3.1983,13.12.1984,"Willis, the Hon. Ralph",11.3.1983,13.12.1984
+48,Hawke Ministry,ALP ,11.3.1983,13.12.1984,"Keating, the Hon. Paul John",11.3.1983,13.12.1984
+48,Hawke Ministry,ALP ,11.3.1983,13.12.1984,"Young, the Hon. Michael Jerome",11.3.1983,14.7.1983
+48,Hawke Ministry,ALP ,11.3.1983,13.12.1984,"Young, the Hon. Michael Jerome",21.1.1984,13.12.1984
+48,Hawke Ministry,ALP ,11.3.1983,13.12.1984,"West, the Hon. Stewart John",11.3.1983,4.11.1983
+48,Hawke Ministry,ALP ,11.3.1983,13.12.1984,"West, the Hon. Stewart John",3.4.1984,13.12.1984
+48,Hawke Ministry,ALP ,11.3.1983,13.12.1984,"Walsh, Senator the Hon. Peter Alexander",11.3.1983,13.12.1984
+48,Hawke Ministry,ALP ,11.3.1983,13.12.1984,"Hayden, the Hon. William George",11.3.1983,13.12.1984
+48,Hawke Ministry,ALP ,11.3.1983,13.12.1984,"Ryan, Senator the Hon. Susan Maree",11.3.1983,13.12.1984
+48,Hawke Ministry,ALP ,11.3.1983,13.12.1984,"Evans, Senator the Hon. Gareth John, QC",11.3.1983,13.12.1984
+48,Hawke Ministry,ALP ,11.3.1983,13.12.1984,"Scholes, the Hon. Gordon Glen Denton",11.3.1983,13.12.1984
+48,Hawke Ministry,ALP ,11.3.1983,13.12.1984,"Dawkins, the Hon. John Sydney",14.7.1983,13.12.1984
+48,Hawke Ministry,ALP ,11.3.1983,13.12.1984,"Kerin, the Hon. John Charles",4.11.1983,13.12.1984
+49,Hawke Ministry,ALP ,13.12.1984,24.7.1987,"Hawke, the Hon. Robert James Lee, AC",13.12.1984,24.7.1987
+49,Hawke Ministry,ALP ,13.12.1984,24.7.1987,"Bowen, the Hon. Lionel Frost",13.12.1984,24.7.1987
+49,Hawke Ministry,ALP ,13.12.1984,24.7.1987,"Button, Senator the Hon. John Norman",13.12.1984,24.7.1987
+49,Hawke Ministry,ALP ,13.12.1984,24.7.1987,"Grimes, Senator the Hon. Donald James",13.12.1984,16.2.1987
+49,Hawke Ministry,ALP ,13.12.1984,24.7.1987,"Willis, the Hon. Ralph",13.12.1984,24.7.1987
+49,Hawke Ministry,ALP ,13.12.1984,24.7.1987,"Keating, the Hon. Paul John",13.12.1984,24.7.1987
+49,Hawke Ministry,ALP ,13.12.1984,24.7.1987,"Young, the Hon. Michael Jerome",13.12.1984,24.7.1987
+49,Hawke Ministry,ALP ,13.12.1984,24.7.1987,"Walsh, Senator the Hon. Peter Alexander",13.12.1984,24.7.1987
+49,Hawke Ministry,ALP ,13.12.1984,24.7.1987,"Hayden, the Hon. William George",13.12.1984,24.7.1987
+49,Hawke Ministry,ALP ,13.12.1984,24.7.1987,"Ryan, Senator the Hon. Susan Maree",13.12.1984,24.7.1987
+49,Hawke Ministry,ALP ,13.12.1984,24.7.1987,"Evans, Senator the Hon. Gareth John, QC",13.12.1984,24.7.1987
+49,Hawke Ministry,ALP ,13.12.1984,24.7.1987,"Dawkins, the Hon. John Sydney",13.12.1984,24.7.1987
+49,Hawke Ministry,ALP ,13.12.1984,24.7.1987,"Kerin, the Hon. John Charles",13.12.1984,24.7.1987
+49,Hawke Ministry,ALP ,13.12.1984,24.7.1987,"West, the Hon. Stewart John",13.12.1984,24.7.1987
+49,Hawke Ministry,ALP ,13.12.1984,24.7.1987,"Beazley, the Hon. Kim Christian",13.12.1984,24.7.1987
+49,Hawke Ministry,ALP ,13.12.1984,24.7.1987,"Hurford, the Hon. Christopher John",13.12.1984,24.7.1987
+49,Hawke Ministry,ALP ,13.12.1984,24.7.1987,"Howe, the Hon. Brian Leslie",13.12.1984,24.7.1987
+50,Hawke Ministry,ALP ,24.7.1987,4.4.1990,"Hawke, the Hon. Robert James Lee, AC",24.7.1987,4.4.1990
+50,Hawke Ministry,ALP ,24.7.1987,4.4.1990,"Bowen, the Hon. Lionel Frost",24.7.1987,4.4.1990
+50,Hawke Ministry,ALP ,24.7.1987,4.4.1990,"Button, Senator the Hon. John Norman",24.7.1987,4.4.1990
+50,Hawke Ministry,ALP ,24.7.1987,4.4.1990,"Evans, Senator the Hon. Gareth John, QC",24.7.1987,4.4.1990
+50,Hawke Ministry,ALP ,24.7.1987,4.4.1990,"Keating, the Hon. Paul John",24.7.1987,4.4.1990
+50,Hawke Ministry,ALP ,24.7.1987,4.4.1990,"Young, the Hon. Michael Jerome",24.7.1987,12.2.1988
+50,Hawke Ministry,ALP ,24.7.1987,4.4.1990,"Walsh, Senator the Hon. Peter Alexander",24.7.1987,4.4.1990
+50,Hawke Ministry,ALP ,24.7.1987,4.4.1990,"Hayden, the Hon. William George",24.7.1987,17.8.1988
+50,Hawke Ministry,ALP ,24.7.1987,4.4.1990,"Willis, the Hon. Ralph",24.7.1987,4.4.1990
+50,Hawke Ministry,ALP ,24.7.1987,4.4.1990,"Dawkins, the Hon. John Sydney",24.7.1987,4.4.1990
+50,Hawke Ministry,ALP ,24.7.1987,4.4.1990,"Beazley, the Hon. Kim Christian",24.7.1987,4.4.1990
+50,Hawke Ministry,ALP ,24.7.1987,4.4.1990,"Kerin, the Hon. John Charles",24.7.1987,4.4.1990
+50,Hawke Ministry,ALP ,24.7.1987,4.4.1990,"Howe, the Hon. Brian Leslie",24.7.1987,4.4.1990
+50,Hawke Ministry,ALP ,24.7.1987,4.4.1990,"West, the Hon. Stewart John",24.7.1987,4.4.1990
+50,Hawke Ministry,ALP ,24.7.1987,4.4.1990,"Brown, the Hon. John Joseph",24.7.1987,18.12.1987
+50,Hawke Ministry,ALP ,24.7.1987,4.4.1990,"Blewett, the Hon. Dr Neal",24.7.1987,4.4.1990
+50,Hawke Ministry,ALP ,24.7.1987,4.4.1990,"Ryan, Senator the Hon. Susan Maree",24.7.1987,19.1.1988
+50,Hawke Ministry,ALP ,24.7.1987,4.4.1990,"Duffy, the Hon. Michael John",19.1.1988,4.4.1990
+50,Hawke Ministry,ALP ,24.7.1987,4.4.1990,"Richardson, Senator the Hon. Graham Frederick",19.1.1988,4.4.1990
+50,Hawke Ministry,ALP ,24.7.1987,4.4.1990,"Holding, the Hon. Allan Clyde",15.2.1988,2.9.1988
+50,Hawke Ministry,ALP ,24.7.1987,4.4.1990,"Morris, the Hon. Peter Frederick",2.9.1988,4.4.1990
+50,Hawke Ministry,ALP ,24.7.1987,4.4.1990,"Ray, Senator the Hon. Robert Francis",2.9.1988,4.4.1990
+51,Hawke Ministry,ALP ,4.4.1990,20.12.1991,"Hawke, the Hon. Robert James Lee, AC",4.4.1990,20.12.1991
+51,Hawke Ministry,ALP ,4.4.1990,20.12.1991,"Keating, the Hon. Paul John",4.4.1990,3.6.1991
+51,Hawke Ministry,ALP ,4.4.1990,20.12.1991,"Button, Senator the Hon. John Norman",4.4.1990,20.12.1991
+51,Hawke Ministry,ALP ,4.4.1990,20.12.1991,"Evans, Senator the Hon. Gareth John, QC",4.4.1990,20.12.1991
+51,Hawke Ministry,ALP ,4.4.1990,20.12.1991,"Blewett, the Hon. Dr Neal",4.4.1990,20.12.1991
+51,Hawke Ministry,ALP ,4.4.1990,20.12.1991,"Willis, the Hon. Ralph",4.4.1990,20.12.1991
+51,Hawke Ministry,ALP ,4.4.1990,20.12.1991,"Duffy, the Hon. Michael John",4.4.1990,20.12.1991
+51,Hawke Ministry,ALP ,4.4.1990,20.12.1991,"Dawkins, the Hon. John Sydney",4.4.1990,20.12.1991
+51,Hawke Ministry,ALP ,4.4.1990,20.12.1991,"Beazley, the Hon. Kim Christian",4.4.1990,20.12.1991
+51,Hawke Ministry,ALP ,4.4.1990,20.12.1991,"Kerin, the Hon. John Charles",4.4.1990,20.12.1991
+51,Hawke Ministry,ALP ,4.4.1990,20.12.1991,"Howe, the Hon. Brian Leslie",4.4.1990,20.12.1991
+51,Hawke Ministry,ALP ,4.4.1990,20.12.1991,"Richardson, Senator the Hon. Graham Frederick ",4.4.1990,20.12.1991
+51,Hawke Ministry,ALP ,4.4.1990,20.12.1991,"Ray, Senator the Hon. Robert Francis ",4.4.1990,20.12.1991
+51,Hawke Ministry,ALP ,4.4.1990,20.12.1991,"Hand, the Hon. Gerard Leslie",4.4.1990,20.12.1991
+51,Hawke Ministry,ALP ,4.4.1990,20.12.1991,"Kelly, the Hon. Roslyn Joan",4.4.1990,20.12.1991
+51,Hawke Ministry,ALP ,4.4.1990,20.12.1991,"Cook, Senator the Hon. Peter Francis Salmon",4.4.1990,20.12.1991
+51,Hawke Ministry,ALP ,4.4.1990,20.12.1991,"Bolkus, Senator the Hon. Nick",4.4.1990,20.12.1991
+51,Hawke Ministry,ALP ,4.4.1990,20.12.1991,"Crean, the Hon. Simon Findlay",4.6.1991,20.12.1991
+52,Keating Ministry,ALP ,20.12.1991,24.3.1993,"Keating, the Hon. Paul John",20.12.1991,24.3.1993
+52,Keating Ministry,ALP ,20.12.1991,24.3.1993,"Button, Senator the Hon. John Norman",20.12.1991,24.3.1993
+52,Keating Ministry,ALP ,20.12.1991,24.3.1993,"Evans, Senator the Hon. Gareth John, QC",20.12.1991,24.3.1993
+52,Keating Ministry,ALP ,20.12.1991,24.3.1993,"Blewett, the Hon. Dr Neal",20.12.1991,24.3.1993
+52,Keating Ministry,ALP ,20.12.1991,24.3.1993,"Willis, the Hon. Ralph",20.12.1991,24.3.1993
+52,Keating Ministry,ALP ,20.12.1991,24.3.1993,"Duffy, the Hon. Michael John",20.12.1991,24.3.1993
+52,Keating Ministry,ALP ,20.12.1991,24.3.1993,"Dawkins, the Hon. John Sydney",20.12.1991,24.3.1993
+52,Keating Ministry,ALP ,20.12.1991,24.3.1993,"Beazley, the Hon. Kim Christian",20.12.1991,24.3.1993
+52,Keating Ministry,ALP ,20.12.1991,24.3.1993,"Kerin, the Hon. John Charles",20.12.1991,27.12.1991
+52,Keating Ministry,ALP ,20.12.1991,24.3.1993,"Howe, the Hon. Brian Leslie",20.12.1991,24.3.1993
+52,Keating Ministry,ALP ,20.12.1991,24.3.1993,"Richardson, Senator the Hon. Graham Frederick",20.12.1991,18.5.1992
+52,Keating Ministry,ALP ,20.12.1991,24.3.1993,"Ray, Senator the Hon. Robert Francis ",20.12.1991,24.3.1993
+52,Keating Ministry,ALP ,20.12.1991,24.3.1993,"Hand, the Hon. Gerard Leslie",20.12.1991,24.3.1993
+52,Keating Ministry,ALP ,20.12.1991,24.3.1993,"Kelly, the Hon. Roslyn Joan",20.12.1991,24.3.1993
+52,Keating Ministry,ALP ,20.12.1991,24.3.1993,"Cook, Senator the Hon. Peter Francis Salmon",20.12.1991,24.3.1993
+52,Keating Ministry,ALP ,20.12.1991,24.3.1993,"Bolkus, Senator the Hon. Nick",20.12.1991,24.3.1993
+52,Keating Ministry,ALP ,20.12.1991,24.3.1993,"Crean, the Hon. Simon Findlay",20.12.1991,24.3.1993
+52,Keating Ministry,ALP ,20.12.1991,24.3.1993,"Griffiths, the Hon. Alan Gordon",27.12.1991,24.3.1993
+52,Keating Ministry,ALP ,20.12.1991,24.3.1993,"Collins, Senator the Hon. Robert Lindsay",27.12.1991,24.3.1993
+52,Keating Ministry,ALP ,20.12.1991,24.3.1993,"Humphreys, the Hon. Benjamin Charles",27.5.1992,24.3.1993
+53,Keating Ministry,ALP ,24.3.1993,11.3.1996,"Keating, the Hon. Paul John",24.3.1993,11.3.1996
+53,Keating Ministry,ALP ,24.3.1993,11.3.1996,"Howe, the Hon. Brian Leslie",24.3.1993,11.3.1996
+53,Keating Ministry,ALP ,24.3.1993,11.3.1996,"Evans, Senator the Hon. Gareth John, QC",24.3.1993,11.3.1996
+53,Keating Ministry,ALP ,24.3.1993,11.3.1996,"Ray, Senator the Hon. Robert Francis",24.3.1993,11.3.1996
+53,Keating Ministry,ALP ,24.3.1993,11.3.1996,"Dawkins, the Hon. John Sydney",24.3.1993,23.12.1993
+53,Keating Ministry,ALP ,24.3.1993,11.3.1996,"Willis, the Hon. Ralph",24.3.1993,11.3.1996
+53,Keating Ministry,ALP ,24.3.1993,11.3.1996,"Beazley, the Hon. Kim Christian",24.3.1993,11.3.1996
+53,Keating Ministry,ALP ,24.3.1993,11.3.1996,"Richardson, Senator the Hon. Graham Frederick",24.3.1993,25.3.1994
+53,Keating Ministry,ALP ,24.3.1993,11.3.1996,"Kelly, the Hon. Roslyn Joan",24.3.1993,1.3.1994
+53,Keating Ministry,ALP ,24.3.1993,11.3.1996,"Cook, Senator the Hon. Peter Francis Salmon",24.3.1993,11.3.1996
+53,Keating Ministry,ALP ,24.3.1993,11.3.1996,"Bolkus, Senator the Hon. Nick",24.3.1993,11.3.1996
+53,Keating Ministry,ALP ,24.3.1993,11.3.1996,"Crean, the Hon. Simon Findlay",24.3.1993,11.3.1996
+53,Keating Ministry,ALP ,24.3.1993,11.3.1996,"Griffiths, the Hon. Alan Gordon",24.3.1993,23.1.1994
+53,Keating Ministry,ALP ,24.3.1993,11.3.1996,"Collins, Senator the Hon. Robert Lindsay",24.3.1993,11.3.1996
+53,Keating Ministry,ALP ,24.3.1993,11.3.1996,"Baldwin, the Hon. Peter Jeremy",24.3.1993,11.3.1996
+53,Keating Ministry,ALP ,24.3.1993,11.3.1996,"McMullan, Senator the Hon. Robert Francis",24.3.1993,11.3.1996
+53,Keating Ministry,ALP ,24.3.1993,11.3.1996,"Brereton, the Hon. Laurence John",24.3.1993,11.3.1996
+53,Keating Ministry,ALP ,24.3.1993,11.3.1996,"Lee, the Hon. Michael John",24.3.1993,11.3.1996
+53,Keating Ministry,ALP ,24.3.1993,11.3.1996,"Lavarch, the Hon. Michael Hugh",27.4.1993,11.3.1996
+53,Keating Ministry,ALP ,24.3.1993,11.3.1996,"Faulkner, the Hon. John Philip",25.3.1994,11.3.1996
+53,Keating Ministry,ALP ,24.3.1993,11.3.1996,"Lawrence, the Hon. Dr Carmen Mary",25.3.1994,11.3.1996
+54,Howard Ministry,LIB-NPA Coalition ,11.3.1996,21.10.1998,"Howard, the Hon. John Winston",11.3.1996,21.10.1998
+54,Howard Ministry,LIB-NPA Coalition ,11.3.1996,21.10.1998,"Fischer, the Hon. Timothy Andrew",11.3.1996,21.10.1998
+54,Howard Ministry,LIB-NPA Coalition ,11.3.1996,21.10.1998,"Costello, the Hon. Peter Howard",11.3.1996,21.10.1998
+54,Howard Ministry,LIB-NPA Coalition ,11.3.1996,21.10.1998,"Anderson, the Hon. John Duncan",11.3.1996,21.10.1998
+54,Howard Ministry,LIB-NPA Coalition ,11.3.1996,21.10.1998,"Hill, Senator the Hon. Robert",11.3.1996,21.10.1998
+54,Howard Ministry,LIB-NPA Coalition ,11.3.1996,21.10.1998,"Alston, Senator the Hon. Richard Kenneth Robert",11.3.1996,21.10.1998
+54,Howard Ministry,LIB-NPA Coalition ,11.3.1996,21.10.1998,"Reith, the Hon. Peter Keaston",11.3.1996,21.10.1998
+54,Howard Ministry,LIB-NPA Coalition ,11.3.1996,21.10.1998,"Newman, Senator the Hon. Jocelyn Margaret",11.3.1996,21.10.1998
+54,Howard Ministry,LIB-NPA Coalition ,11.3.1996,21.10.1998,"Downer, the Hon. Alexander John Gosse",11.3.1996,21.10.1998
+54,Howard Ministry,LIB-NPA Coalition ,11.3.1996,21.10.1998,"Moore, the Hon. John Colinton",11.3.1996,21.10.1998
+54,Howard Ministry,LIB-NPA Coalition ,11.3.1996,21.10.1998,"McLachlan, the Hon. Ian Murray, AO",11.3.1996,21.10.1998
+54,Howard Ministry,LIB-NPA Coalition ,11.3.1996,21.10.1998,"Sharp, the Hon. John Randall",11.3.1996,25.9.1997 
+54,Howard Ministry,LIB-NPA Coalition ,11.3.1996,21.10.1998,"Wooldridge, the Hon. Michael Richard Lewis",11.3.1996,21.10.1998
+54,Howard Ministry,LIB-NPA Coalition ,11.3.1996,21.10.1998,"Fahey, the Hon. John Joseph",11.3.1996,21.10.1998
+54,Howard Ministry,LIB-NPA Coalition ,11.3.1996,21.10.1998,"Vanstone, Senator the Hon. Amanda Eloise",11.3.1996,9.10.1997
+54,Howard Ministry,LIB-NPA Coalition ,11.3.1996,21.10.1998,"Kemp, the Hon. David Alistair",9.10.1997,21.10.1998
+54,Howard Ministry,LIB-NPA Coalition ,11.3.1996,21.10.1998,"Vaile, the Hon. Mark Anthony James",9.10.1997,21.10.1998
+54,Howard Ministry,LIB-NPA Coalition ,11.3.1996,21.10.1998,"Williams, the Hon. Daryl Robert, AM, QC",9.10.1997,21.10.1998
+55,Howard Ministry,LIB-NPA Coalition ,21.10.1998,26.11.2001,"Howard, the Hon. John Winston",21.10.1998,26.11.2001
+55,Howard Ministry,LIB-NPA Coalition ,21.10.1998,26.11.2001,"Fischer, the Hon. Timothy Andrew",21.10.1998,20.7.1999
+55,Howard Ministry,LIB-NPA Coalition ,21.10.1998,26.11.2001,"Downer, the Hon. Alexander John Gosse",21.10.1998,26.11.2001
+55,Howard Ministry,LIB-NPA Coalition ,21.10.1998,26.11.2001,"Costello, the Hon. Peter Howard",21.10.1998,26.11.2001
+55,Howard Ministry,LIB-NPA Coalition ,21.10.1998,26.11.2001,"Anderson, the Hon. John Duncan",21.10.1998,26.11.2001
+55,Howard Ministry,LIB-NPA Coalition ,21.10.1998,26.11.2001,"Hill, Senator the Hon. Robert",21.10.1998,26.11.2001
+55,Howard Ministry,LIB-NPA Coalition ,21.10.1998,26.11.2001,"Alston, Senator the Hon. Richard Kenneth Robert",21.10.1998,26.11.2001
+55,Howard Ministry,LIB-NPA Coalition ,21.10.1998,26.11.2001,"Reith, the Hon. Peter Keaston",21.10.1998,26.11.2001
+55,Howard Ministry,LIB-NPA Coalition ,21.10.1998,26.11.2001,"Newman, Senator the Hon. Jocelyn Margaret",21.10.1998,30.1.2001
+55,Howard Ministry,LIB-NPA Coalition ,21.10.1998,26.11.2001,"Moore, the Hon. John Colinton",21.10.1998,30.1.2001
+55,Howard Ministry,LIB-NPA Coalition ,21.10.1998,26.11.2001,"Wooldridge, the Hon. Michael Richard Lewis",21.10.1998,26.11.2001
+55,Howard Ministry,LIB-NPA Coalition ,21.10.1998,26.11.2001,"Fahey, the Hon. John Joseph",21.10.1998,26.11.2001
+55,Howard Ministry,LIB-NPA Coalition ,21.10.1998,26.11.2001,"Kemp, the Hon. David Alistair",21.10.1998,26.11.2001
+55,Howard Ministry,LIB-NPA Coalition ,21.10.1998,26.11.2001,"Minchin, Senator the Hon. Nicholas Hugh",21.10.1998,26.11.2001
+55,Howard Ministry,LIB-NPA Coalition ,21.10.1998,26.11.2001,"Williams, the Hon. Daryl Robert, AM, QC",21.10.1998,26.11.2001
+55,Howard Ministry,LIB-NPA Coalition ,21.10.1998,26.11.2001,"Vaile, the Hon. Mark Anthony James",21.10.1998,26.11.2001
+55,Howard Ministry,LIB-NPA Coalition ,21.10.1998,26.11.2001,"Ruddock, the Hon. Philip Maxwell",21.10.1998,26.11.2001
+55,Howard Ministry,LIB-NPA Coalition ,21.10.1998,26.11.2001,"Truss, the Hon. Warren Errol",20.7.1999,26.11.2001
+55,Howard Ministry,LIB-NPA Coalition ,21.10.1998,26.11.2001,"Vanstone, Senator the Hon. Amanda Eloise",30.1.2001,26.11.2001
+55,Howard Ministry,LIB-NPA Coalition ,21.10.1998,26.11.2001,"Abbott, the Hon. Anthony John",30.1.2001,26.11.2001
+56,Howard Ministry,LIB-NPA* Coalition ,26.11.2001,26.10.2004,"Howard, the Hon. John Winston",26.11.2001,26.10.2004
+56,Howard Ministry,LIB-NPA* Coalition ,26.11.2001,26.10.2004,"Anderson, the Hon. John Duncan",26.11.2001,26.10.2004
+56,Howard Ministry,LIB-NPA* Coalition ,26.11.2001,26.10.2004,"Costello, the Hon. Peter Howard",26.11.2001,26.10.2004
+56,Howard Ministry,LIB-NPA* Coalition ,26.11.2001,26.10.2004,"Vaile, the Hon. Mark Anthony James",26.11.2001,26.10.2004
+56,Howard Ministry,LIB-NPA* Coalition ,26.11.2001,26.10.2004,"Hill, Senator the Hon. Robert",26.11.2001,26.10.2004
+56,Howard Ministry,LIB-NPA* Coalition ,26.11.2001,26.10.2004,"Alston, Senator the Hon. Richard Kenneth Robert",26.11.2001,7.10.2003
+56,Howard Ministry,LIB-NPA* Coalition ,26.11.2001,26.10.2004,"Downer, the Hon. Alexander John Gosse",26.11.2001,26.10.2004
+56,Howard Ministry,LIB-NPA* Coalition ,26.11.2001,26.10.2004,"Abbott, the Hon. Anthony John",26.11.2001,26.10.2004
+56,Howard Ministry,LIB-NPA* Coalition ,26.11.2001,26.10.2004,"Ruddock, the Hon. Philip Maxwell",26.11.2001,26.10.2004
+56,Howard Ministry,LIB-NPA* Coalition ,26.11.2001,26.10.2004,"Kemp, the Hon. David Alistair",26.11.2001,18.7.2004
+56,Howard Ministry,LIB-NPA* Coalition ,26.11.2001,26.10.2004,"Williams, the Hon. Daryl Robert, AM, QC",26.11.2001,18.7.2004
+56,Howard Ministry,LIB-NPA* Coalition ,26.11.2001,26.10.2004,"Minchin, Senator the Hon. Nicholas Hugh",26.11.2001,26.10.2004
+56,Howard Ministry,LIB-NPA* Coalition ,26.11.2001,26.10.2004,"Truss, the Hon. Warren Errol ",26.11.2001,26.10.2004
+56,Howard Ministry,LIB-NPA* Coalition ,26.11.2001,26.10.2004,"Vanstone, Senator the Hon. Amanda Eloise",26.11.2001,26.10.2004
+56,Howard Ministry,LIB-NPA* Coalition ,26.11.2001,26.10.2004,"Nelson, the Hon. Dr Brendan John",26.11.2001,26.10.2004
+56,Howard Ministry,LIB-NPA* Coalition ,26.11.2001,26.10.2004,"Patterson, Senator the Hon. Kay Christine Lesley",26.11.2001,26.10.2004
+56,Howard Ministry,LIB-NPA* Coalition ,26.11.2001,26.10.2004,"Macfarlane, the Hon. Ian Elgin",26.11.2001,26.10.2004
+56,Howard Ministry,LIB-NPA* Coalition ,26.11.2001,26.10.2004,"Andrews, the Hon. Kevin James",7.10.2003,26.10.2004
+56,Howard Ministry,LIB-NPA* Coalition ,26.11.2001,26.10.2004,"Coonan, Senator the Hon. Helen Lloyd",18.7.2004,26.10.2004
+56,Howard Ministry,LIB-NPA* Coalition ,26.11.2001,26.10.2004,"Campbell, Senator the Hon. Ian Gordon",18.7.2004,26.10.2004
+57,Howard Ministry,LIB-NP Coalition ,26.10.2004,3.12.2007,"Howard, the Hon. John Winston",26.10.2004,3.12.2007
+57,Howard Ministry,LIB-NP Coalition ,26.10.2004,3.12.2007,"Anderson, the Hon. John Duncan",26.10.2004,6.7.2005
+57,Howard Ministry,LIB-NP Coalition ,26.10.2004,3.12.2007,"Costello, the Hon. Peter Howard",26.10.2004,3.12.2007
+57,Howard Ministry,LIB-NP Coalition ,26.10.2004,3.12.2007,"Vaile, the Hon. Mark Anthony James",26.10.2004,3.12.2007
+57,Howard Ministry,LIB-NP Coalition ,26.10.2004,3.12.2007,"Hill, Senator the Hon. Robert",26.10.2004,20.1.2006
+57,Howard Ministry,LIB-NP Coalition ,26.10.2004,3.12.2007,"Downer, the Hon. Alexander John Gosse",26.10.2004,3.12.2007
+57,Howard Ministry,LIB-NP Coalition ,26.10.2004,3.12.2007,"Abbott, the Hon. Anthony John",26.10.2004,3.12.2007
+57,Howard Ministry,LIB-NP Coalition ,26.10.2004,3.12.2007,"Ruddock, the Hon. Philip Maxwell",26.10.2004,3.12.2007
+57,Howard Ministry,LIB-NP Coalition ,26.10.2004,3.12.2007,"Minchin, Senator the Hon. Nicholas Hugh",26.10.2004,3.12.2007
+57,Howard Ministry,LIB-NP Coalition ,26.10.2004,3.12.2007,"Truss, the Hon. Warren Errol",26.10.2004,3.12.2007
+57,Howard Ministry,LIB-NP Coalition ,26.10.2004,3.12.2007,"Vanstone, Senator the Hon. Amanda Eloise",26.10.2004,30.1.2007
+57,Howard Ministry,LIB-NP Coalition ,26.10.2004,3.12.2007,"Nelson, the Hon. Dr Brendan John",26.10.2004,3.12.2007
+57,Howard Ministry,LIB-NP Coalition ,26.10.2004,3.12.2007,"Patterson, Senator the Hon. Kay Christine Lesley",26.10.2004,27.1.2006 
+57,Howard Ministry,LIB-NP Coalition ,26.10.2004,3.12.2007,"Macfarlane, the Hon. Ian Elgin",26.10.2004,3.12.2007
+57,Howard Ministry,LIB-NP Coalition ,26.10.2004,3.12.2007,"Andrews, the Hon. Kevin James",26.10.2004,3.12.2007
+57,Howard Ministry,LIB-NP Coalition ,26.10.2004,3.12.2007,"Coonan, Senator the Hon. Helen Lloyd",26.10.2004,3.12.2007
+57,Howard Ministry,LIB-NP Coalition ,26.10.2004,3.12.2007,"Campbell, Senator the Hon. Ian Gordon",26.10.2004,9.3.2007
+57,Howard Ministry,LIB-NP Coalition ,26.10.2004,3.12.2007,"McGauran, the Hon. Peter John",6.7.2005,3.12.2007
+57,Howard Ministry,LIB-NP Coalition ,26.10.2004,3.12.2007,"Bishop, the Hon. Julie Isabel",27.1.2006,3.12.2007
+57,Howard Ministry,LIB-NP Coalition ,26.10.2004,3.12.2007,"Brough, the Hon. Malcolm Thomas",27.1.2006,3.12.2007
+57,Howard Ministry,LIB-NP Coalition ,26.10.2004,3.12.2007,"Hockey, the Hon. Joseph Benedict",30.1.2007,3.12.2007
+57,Howard Ministry,LIB-NP Coalition ,26.10.2004,3.12.2007,"Turnbull, the Hon. Malcolm Bligh",30.1.2007,3.12.2007
+57,Howard Ministry,LIB-NP Coalition ,26.10.2004,3.12.2007,"Ellison, the Hon. Christopher Martin",9.3.2007,3.12.2007
+58,Rudd Ministry,ALP ,3.12.2007,24.6.2010,"Rudd, the Hon. Kevin Michael",3.12.2007,24.6.2010
+58,Rudd Ministry,ALP ,3.12.2007,24.6.2010,"Gillard, the Hon. Julia Eileen",3.12.2007,24.6.2010
+58,Rudd Ministry,ALP ,3.12.2007,24.6.2010,"Swan, the Hon. Wayne Maxwell",3.12.2007,24.6.2010
+58,Rudd Ministry,ALP ,3.12.2007,24.6.2010,"Evans, Senator the Hon. Christopher Vaughan",3.12.2007,24.6.2010
+58,Rudd Ministry,ALP ,3.12.2007,24.6.2010,"Faulkner, Senator the Hon. John Philip",3.12.2007,24.6.2010
+58,Rudd Ministry,ALP ,3.12.2007,24.6.2010,"Tanner, the Hon. Lindsay James",3.12.2007,24.6.2010
+58,Rudd Ministry,ALP ,3.12.2007,24.6.2010,"Crean, the Hon. Simon Findlay",3.12.2007,24.6.2010
+58,Rudd Ministry,ALP ,3.12.2007,24.6.2010,"Smith, the Hon. Stephen Francis",3.12.2007,24.6.2010
+58,Rudd Ministry,ALP ,3.12.2007,24.6.2010,"Fitzgibbon, the Hon. Joel Andrew",3.12.2007,9.6.2009
+58,Rudd Ministry,ALP ,3.12.2007,24.6.2010,"Roxon, the Hon. Nicola Louise",3.12.2007,24.6.2010
+58,Rudd Ministry,ALP ,3.12.2007,24.6.2010,"Macklin, the Hon. Jennifer Louise",3.12.2007,24.6.2010
+58,Rudd Ministry,ALP ,3.12.2007,24.6.2010,"Albanese, the Hon. Anthony Norman",3.12.2007,24.6.2010
+58,Rudd Ministry,ALP ,3.12.2007,24.6.2010,"Conroy, Senator the Hon. Stephen Michael ",3.12.2007,24.6.2010
+58,Rudd Ministry,ALP ,3.12.2007,24.6.2010,"Carr, Senator the Hon. Kim John",3.12.2007,24.6.2010
+58,Rudd Ministry,ALP ,3.12.2007,24.6.2010,"Wong, Senator the Hon. Penelope Ying",Yen,24.6.2010
+58,Rudd Ministry,ALP ,3.12.2007,24.6.2010,"Garrett, the Hon. Peter Robert, AM",3.12.2007,24.6.2010
+58,Rudd Ministry,ALP ,3.12.2007,24.6.2010,"McClelland, the Hon. Robert Bruce",3.12.2007,24.6.2010
+58,Rudd Ministry,ALP ,3.12.2007,24.6.2010,"Ludwig, Senator the Hon. Joseph William",3.12.2007,24.6.2010
+58,Rudd Ministry,ALP ,3.12.2007,24.6.2010,"Burke, the Hon. Anthony Stephen",3.12.2007,24.6.2010
+58,Rudd Ministry,ALP ,3.12.2007,24.6.2010,"Ferguson, the Hon. Martin John, AM",3.12.2007,24.6.2010
+58,Rudd Ministry,ALP ,3.12.2007,24.6.2010,"Bowen, the Hon. Christopher Eyles",9.6.2009,24.6.2010
+59,Gillard Ministry,ALP ,24.6.2010,14.9.2010,"Gillard, the Hon. Julia Eileen",24.6.2010,14.9.2010
+59,Gillard Ministry,ALP ,24.6.2010,14.9.2010,"Swan, the Hon. Wayne Maxwell",24.6.2010,14.9.2010
+59,Gillard Ministry,ALP ,24.6.2010,14.9.2010,"Evans, Senator the Hon. Christopher Vaughan",24.6.2010,14.9.2010
+59,Gillard Ministry,ALP ,24.6.2010,14.9.2010,"Faulkner, Senator the Hon. John Philip",24.6.2010,14.9.2010
+59,Gillard Ministry,ALP ,24.6.2010,14.9.2010,"Crean, the Hon. Simon Findlay",24.6.2010,14.9.2010
+59,Gillard Ministry,ALP ,24.6.2010,14.9.2010,"Smith, the Hon. Stephen Francis",24.6.2010,14.9.2010
+59,Gillard Ministry,ALP ,24.6.2010,14.9.2010,"Roxon, the Hon. Nicola Louise",24.6.2010,14.9.2010
+59,Gillard Ministry,ALP ,24.6.2010,14.9.2010,"Macklin, the Hon. Jennifer Louise",24.6.2010,14.9.2010
+59,Gillard Ministry,ALP ,24.6.2010,14.9.2010,"Tanner, the Hon. Lindsay James",24.6.2010,3.9.2010
+59,Gillard Ministry,ALP ,24.6.2010,14.9.2010,"Albanese, the Hon. Anthony Norman",24.6.2010,14.9.2010
+59,Gillard Ministry,ALP ,24.6.2010,14.9.2010,"Conroy, Senator the Hon. Stephen Michael ",24.6.2010,14.9.2010
+59,Gillard Ministry,ALP ,24.6.2010,14.9.2010,"Carr, Senator the Hon. Kim John",24.6.2010,14.9.2010
+59,Gillard Ministry,ALP ,24.6.2010,14.9.2010,"Wong, Senator the Hon. Penelope Ying-Yen",24.6.2010,14.9.2010
+59,Gillard Ministry,ALP ,24.6.2010,14.9.2010,"Garrett, the Hon. Peter Robert, AM",24.6.2010,14.9.2010
+59,Gillard Ministry,ALP ,24.6.2010,14.9.2010,"McClelland, the Hon. Robert Bruce",24.6.2010,14.9.2010
+59,Gillard Ministry,ALP ,24.6.2010,14.9.2010,"Ludwig, Senator the Hon. Joseph William",24.6.2010,14.9.2010
+59,Gillard Ministry,ALP ,24.6.2010,14.9.2010,"Burke, the Hon. Anthony Stephen",24.6.2010,14.9.2010
+59,Gillard Ministry,ALP ,24.6.2010,14.9.2010,"Ferguson, the Hon. Martin John, AM",24.6.2010,14.9.2010
+59,Gillard Ministry,ALP ,24.6.2010,14.9.2010,"Bowen, the Hon. Christopher Eyles",24.6.2010,14.9.2010
+60,Gillard Ministry,ALP ,14.9.2010,27.6.2013,"Gillard, the Hon. Julia Eileen",14.9.2010,27.6.2013
+60,Gillard Ministry,ALP ,14.9.2010,27.6.2013,"Swan, the Hon. Wayne Maxwell",14.9.2010,27.6.2013
+60,Gillard Ministry,ALP ,14.9.2010,27.6.2013,"Crean, the Hon. Simon Findlay",14.9.2010,21.3.2013
+60,Gillard Ministry,ALP ,14.9.2010,27.6.2013,"Evans, Senator the Hon. Christopher Vaughan",14.9.2010,4.2.2013
+60,Gillard Ministry,ALP ,14.9.2010,27.6.2013,"Garrett, the Hon. Peter Robert, AM",14.9.2010,27.6.2013
+60,Gillard Ministry,ALP ,14.9.2010,27.6.2013,"Conroy, Senator the Hon. Stephen Michael ",14.9.2010,27.6.2013
+60,Gillard Ministry,ALP ,14.9.2010,27.6.2013,"Rudd, the Hon. Kevin Michael",14.9.2010,26.2.2012
+60,Gillard Ministry,ALP ,14.9.2010,27.6.2013,"Emerson, the Hon. Dr Craig Anthony",14.9.2010,27.6.2013
+60,Gillard Ministry,ALP ,14.9.2010,27.6.2013,"Smith, the Hon. Stephen Francis",14.9.2010,27.6.2013
+60,Gillard Ministry,ALP ,14.9.2010,27.6.2013,"Bowen, the Hon. Christopher Eyles",14.9.2010,25.3.2013
+60,Gillard Ministry,ALP ,14.9.2010,27.6.2013,"Albanese, the Hon. Anthony Norman",14.9.2010,27.6.2013
+60,Gillard Ministry,ALP ,14.9.2010,27.6.2013,"Roxon, the Hon. Nicola Louise",14.9.2010,4.2.2013
+60,Gillard Ministry,ALP ,14.9.2010,27.6.2013,"Macklin, the Hon. Jennifer Louise",14.9.2010,27.6.2013
+60,Gillard Ministry,ALP ,14.9.2010,27.6.2013,"Burke, the Hon. Anthony Stephen",14.9.2010,27.6.2013
+60,Gillard Ministry,ALP ,14.9.2010,27.6.2013,"Wong, Senator the Hon. Penelope Ying-Yen",14.9.2010,27.6.2013
+60,Gillard Ministry,ALP ,14.9.2010,27.6.2013,"Carr, Senator the Hon. Kim John",14.9.2010,14.12.2011
+60,Gillard Ministry,ALP ,14.9.2010,27.6.2013,"McClelland, the Hon. Robert Bruce",14.9.2010,5.3.2012
+60,Gillard Ministry,ALP ,14.9.2010,27.6.2013,"Ludwig, Senator the Hon. Joseph William",14.9.2010,27.6.2013
+60,Gillard Ministry,ALP ,14.9.2010,27.6.2013,"Ferguson, the Hon. Martin John, AM",14.9.2010,25.3.2013
+60,Gillard Ministry,ALP ,14.9.2010,27.6.2013,"Combet, the Hon. Gregory Ivan, AM",14.9.2010,27.6.2013
+60,Gillard Ministry,ALP ,14.9.2010,27.6.2013,"Butler, the Hon. Mark Christopher",14.12.2011,27.6.2013
+60,Gillard Ministry,ALP ,14.9.2010,27.6.2013,"Plibersek, the Hon. Tanya Joan",14.12.2011,27.6.2013
+60,Gillard Ministry,ALP ,14.9.2010,27.6.2013,"Shorten, the Hon. William Robert",14.12.2011,27.6.2013
+60,Gillard Ministry,ALP ,14.9.2010,27.6.2013,"O'Connor, the Hon. Brendan Patrick",5.3.2012,27.6.2013
+60,Gillard Ministry,ALP ,14.9.2010,27.6.2013,"Carr, Senator the Hon. Robert John",13.3.2012,27.6.2013
+60,Gillard Ministry,ALP ,14.9.2010,27.6.2013,"Dreyfus, the Hon. Mark Alfred, QC",4.2.2013,27.6.2013
+60,Gillard Ministry,ALP ,14.9.2010,27.6.2013,"Clare, the Hon. Jason Dean",25.3.2013,27.6.2013
+60,Gillard Ministry,ALP ,14.9.2010,27.6.2013,"Gray, the Hon. Gary",25.3.2013,27.6.2013

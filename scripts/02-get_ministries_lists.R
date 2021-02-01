@@ -16,8 +16,7 @@ library(tidyverse)
 
 
 #### Download data ####
-# The first page is here:
-# https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/Parliamentary_Handbook/Current_Ministry_List/Ministry_26_November_2018_to_18_December_2018
+# The current page is here:
 current <- 
   read_html("https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/Parliamentary_Handbook/Current_Ministry_List")
 
@@ -79,4 +78,12 @@ download_ministries_pages <- function(address_to_download, save_location){
 # This will take a while
 # Commented to prevent accidentally running
 walk2(links_and_savenames$address, links_and_savenames$save_name, download_ministries_pages)
+
+
+
+
+# Um, lol, I forgot to get the current one:
+raw_page <- read_html("https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/Parliamentary_Handbook/Current_Ministry_List")
+# Save it locally
+write_html(raw_page, "inputs/ministry_lists/2020-02-06-current.html")
 

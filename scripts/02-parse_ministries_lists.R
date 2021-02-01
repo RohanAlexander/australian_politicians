@@ -91,14 +91,10 @@ raw_data <-
                            "Minister Assisting"),
   )
 
-raw_data$raw[1342]
-
 # Sometimes two folks are in the one row
 raw_data <- 
   raw_data %>% 
   separate_rows(raw, sep = "\\\n") 
-
-# raw_data$raw[289]
 
 # Split into the title and the person
 raw_data <- 
@@ -123,8 +119,14 @@ raw_data <-
                        "Senate", "Visit Parliament", "Website features",
                        "Ministry", "Outer Ministry", "Parliamentary Secretaries") 
   ) %>% 
-  mutate(date = if_else(str_detect(title, "201[:digit:]{1}"), title, NA_character_))
+  mutate(date = if_else(str_detect(title, "20[:digit:]{2}"), title, NA_character_))
 
+raw_data <- 
+  raw_data %>% 
+  mutate(date = str_replace(date, "The Ministry list was amended on 30 September 2015.", NA_character_),
+         date = str_replace(date, "28 October - 4 February 2013", "28 October 2012 - 4 February 2013"),
+         date = str_replace(date, "4 February - 25 March 2013", "4 February 2013 - 25 March 2013")
+         )
 
 raw_data <- 
   raw_data %>% 
@@ -148,7 +150,10 @@ raw_data <-
   filter(!title %in% c("The following members of Cabinet were sworn in on 27th June", 
                        "The full Ministry was announced and sworn in on 1st July", 
                        "The following members of Cabinet were sworn in on 18th September",
-                       "Assistant Ministers are designated as Parliamentary Secretaries under the Ministers of State Act 1952.")) %>% 
+                       "Assistant Ministers are designated as Parliamentary Secretaries under the Ministers of State Act 1952.",
+                       "Previous Ministry List",
+                       "PDF [33 KB]",
+                       "6 February 2020 –")) %>% 
   filter(!is.na(title))
 
 rm(read_and_parse, all_html_files)
@@ -259,6 +264,10 @@ prepared_data <-
   prepared_data %>% 
   left_join(both)
 
+prepared_data <- 
+  prepared_data %>% 
+  mutate(date = str_replace(date, " – ", " - "))
+
 
 #### Clean up ####
 prepared_data %>% 
@@ -269,7 +278,6 @@ prepared_data <-
   mutate(title = str_remove(title, "\\("),
          title = str_remove(title, "\\)"))
 
-  
 write_csv(prepared_data, "intermediates/recent_ministries.csv")
 
 
