@@ -2,7 +2,7 @@ uniqueID,partyAbbrev,partyName,partyFrom,partyTo,partyChangedName,partySimplifie
 Abbott1859,CP,Australian Country Party,NA,NA,NA,Nationals,NA,NA
 Abbott1869,CP,Australian Country Party,1919-11-03,NA,NA,Nationals,NA,NA
 Abbott1869,LIB,Liberal Party of Australia,NA,1917-02-17,NA,Liberals,NA,NA
-Abbott1869,NAT,Nationalist Party,1917-02-17,1919-11-03,NA,Nationalist Party,NA,NA
+Abbott1869,"NAT",Nationalist Party,1917-02-17,1919-11-03,NA,Nationalist Party,NA,NA
 Abbott1877,CP,Australian Country Party,NA,NA,NA,Nationals,NA,NA
 Abbott1886,CP,Australian Country Party,NA,NA,NA,Nationals,NA,NA
 Abbott1891,CP,Australian Country Party,NA,NA,NA,Nationals,NA,NA
@@ -11,7 +11,7 @@ Abel1939,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Abetz1958,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Adams1943,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Adams1951,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
-Adamson1857,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Adamson1857,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
 Adermann1896,CP,Australian Country Party,NA,NA,NA,Nationals,NA,NA
 Adermann1927,CP,Australian Country Party,NA,1975-05-03,1,Nationals,NA,NA
 Adermann1927,NCP,National Country Party,1975-05-03,1982-10-17,1,Nationals,NA,NA
@@ -57,7 +57,7 @@ Archer1871,ANTI-SOC,Anti-Socialist Party,NA,NA,NA,Anti-Socialist Party,NA,NA
 Archer1929,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Archer1975,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Archibald1852,ALP,Australian Labor Party,NA,1917-02-17,NA,Labor,NA,NA
-Archibald1852,NAT,Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
+Archibald1852,"NAT",Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
 Arkins1888,UAP,United Australia Party,NA,NA,NA,United Australia Party,NA,NA
 Armitage1920,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Armstrong1908,ALP,Australian Labor Party,NA,1940-01-01,NA,Labor,NA,NA
@@ -75,8 +75,8 @@ Aston1916,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Atkinson1867,ANTI-SOC,Anti-Socialist Party,NA,1910-01-01,NA,Anti-Socialist Party,NA,NA
 Atkinson1867,CP,Australian Country Party,1923-01-01,1925-01-01,NA,Nationals,NA,NA
 Atkinson1867,LIB,Liberal Party of Australia,1910-01-01,1917-02-17,NA,Liberal Party of Australia,NA,NA
-Atkinson1867,NAT,Nationalist Party,1917-02-17,1923-01-01,NA,Nationalist Party,NA,NA
-Atkinson1867,NAT,Nationalist Party,1925-01-01,NA,NA,Nationalist Party,NA,NA
+Atkinson1867,"NAT",Nationalist Party,1917-02-17,1923-01-01,NA,Nationalist Party,NA,NA
+Atkinson1867,"NAT",Nationalist Party,1925-01-01,NA,NA,Nationalist Party,NA,NA
 Atkinson1948,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Aulich1945,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Aylett1900,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
@@ -96,7 +96,7 @@ Bakhap1866,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Baldwin1951,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Baldwin1955,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Bamford1849,ALP,Australian Labor Party,NA,1917-02-17,NA,Labor,NA,NA
-Bamford1849,NAT,Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
+Bamford1849,"NAT",Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
 Bandidt1906,CP,Australian Country Party,NA,NA,NA,Nationals,NA,NA
 Bandt1972,GRN,Australian Greens,NA,NA,NA,Australian Greens,NA,NA
 Banks1962,IND,Independent,2018-11-27,NA,NA,Independent,NA,NA
@@ -113,14 +113,14 @@ Barrett1858,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Bartlett1949,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Bartlett1964,AD,Australian Democrats,NA,NA,NA,Australian Democrats,NA,NA
 Barton1849,PROT,Protectionist Party,NA,NA,NA,Protectionist Party,NA,NA
-Barwell1877,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Barwell1877,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
 Barwick1903,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Batchelor1865,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Bate1906,IND,Independent,1972-10-01,NA,NA,Independent,NA,NA
 Bate1906,LIB,Liberal Party of Australia,NA,1972-10-01,NA,Liberals,NA,NA
 Baume1930,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Baume1935,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
-Bayley1882,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Bayley1882,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
 Beahan1937,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Beale1898,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Beale1934,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
@@ -136,7 +136,7 @@ Beazley1948,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Beck1882,UAP,United Australia Party,NA,NA,NA,United Australia Party,NA,NA
 Beddall1948,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Beerworth1886,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
-Bell1872,NAT,Nationalist Party,NA,1931-01-01,NA,Nationalist Party,NA,NA
+Bell1872,"NAT",Nationalist Party,NA,1931-01-01,NA,Nationalist Party,NA,NA
 Bell1872,UAP,United Australia Party,1931-01-01,NA,NA,United Australia Party,NA,NA
 Bell1950,AD,Australian Democrats,NA,NA,NA,Australian Democrats,NA,NA
 Bell1968,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
@@ -144,7 +144,7 @@ Benn1897,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Bennett1872,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Bennett1874,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Bennett1933,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
-Benny1869,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Benny1869,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
 Benson1909,ALP,Australian Labor Party,NA,1966-08-01,NA,Labor,NA,NA
 Benson1909,IND,Independent,1966-08-01,NA,NA,Independent,NA,NA
 Berinson1932,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
@@ -154,7 +154,7 @@ Bernardi1969,ACP,Australian Conservative Party,NA,NA,NA,Conservative,NA,NA
 Berry1907,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Bessell1923,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Best1856,LIB,Liberal Party of Australia,1909-05-01,1917-02-17,NA,Liberal Party of Australia,NA,NA
-Best1856,NAT,Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
+Best1856,"NAT",Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
 Best1856,PROT,Protectionist Party,NA,1909-05-01,NA,Protectionist Party,NA,NA
 Bevis1955,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Bidgood1959,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
@@ -186,10 +186,10 @@ Blakey1879,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Blanchard1929,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Bland1882,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Blewett1933,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
-Blundell1871,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Blundell1871,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
 Blunt1951,NPA,National Party of Australia,NA,NA,NA,Nationals,NA,NA
 Bolkus1950,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
-Bolton1860,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Bolton1860,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
 Bonner1922,IND,Independent,1983-02-01,NA,NA,Independent,NA,NA
 Bonner1922,LIB,Liberal Party of Australia,NA,1983-02-01,NA,Liberals,NA,NA
 Bonnett1916,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
@@ -203,14 +203,14 @@ Bourke1913,ALP,Australian Labor Party,NA,1955-04-01,NA,Labor,NA,NA
 Bourke1913,ALP (A-C),Australian Labor Party (Anti-Communist),1955-04-01,NA,NA,Australian Labor Party (Anti-Communist),NA,NA
 Bourne1954,AD,Australian Democrats,NA,NA,NA,Australian Democrats,NA,NA
 Bowden1871,ANTI-SOC,Anti-Socialist Party,NA,1910-04-13,NA,Anti-Socialist Party,NA,NA
-Bowden1871,NAT,Nationalist Party,1919-12-13,NA,NA,Nationalist Party,NA,NA
+Bowden1871,"NAT",Nationalist Party,1919-12-13,NA,NA,Nationalist Party,NA,NA
 Bowden1888,CP,Australian Country Party,NA,NA,NA,Nationals,NA,NA
 Bowen1911,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Bowen1922,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Bowen1973,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Boyce1951,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Boyd1867,LIB,Liberal Party of Australia,NA,1917-02-17,NA,Liberals,NA,NA
-Boyd1867,NAT,Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
+Boyd1867,"NAT",Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
 Bradbury1976,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Braddon1829,FT,Free Trade,NA,NA,NA,Free Trade,NA,NA
 Bradfield1933,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
@@ -253,7 +253,7 @@ Brown1963,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Brownbill1914,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Browne1924,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Brownhill1935,NPA,National Party of Australia,NA,NA,NA,Nationals,NA,NA
-Bruce1883,NAT,Nationalist Party,NA,1931-12-19,NA,Nationalist Party,NA,NA
+Bruce1883,"NAT",Nationalist Party,NA,1931-12-19,NA,Nationalist Party,NA,NA
 Bruce1883,UAP,United Australia Party,1931-12-19,NA,NA,United Australia Party,NA,NA
 Bruce1884,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Brumby1953,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
@@ -269,7 +269,7 @@ Bullock1955,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Bungey1934,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Bunton1902,IND,Independent,NA,NA,NA,Independent,NA,NA
 Burchell1883,ALP,Australian Labor Party,NA,1917-02-17,NA,Labor,NA,NA
-Burchell1883,NAT,Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
+Burchell1883,"NAT",Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
 Burke1910,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Burke1966,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Burke1969,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
@@ -287,7 +287,7 @@ Butler1977,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Buttfield1912,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Button1932,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Buzacott1867,ALP,Australian Labor Party,NA,1917-02-17,NA,Labor,NA,NA
-Buzacott1867,NAT,Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
+Buzacott1867,"NAT",Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
 Byrne1910,ALP,Australian Labor Party,NA,1957-01-01,NA,Labor,1,NA
 Byrne1910,DLP,Democratic Labor Party,1968-01-01,NA,NA,Democratic Labor Party,1,NA
 Byrne1910,QLP,Queensland Labor Party,1957-01-01,1968-01-01,NA,Queensland Labor Party,1,NA
@@ -302,10 +302,10 @@ Calwell1896,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Cameron1851,FT,Free Trade,NA,NA,NA,Free Trade,NA,NA
 Cameron1857,PROT,Protectionist Party,NA,NA,NA,Protectionist Party,NA,NA
 Cameron1873,LIB,Liberal Party of Australia,NA,1925-01-01,NA,Liberals,NA,NA
-Cameron1873,NAT,Nationalist Party,1925-01-01,1931-01-01,NA,Nationalist Party,NA,NA
+Cameron1873,"NAT",Nationalist Party,1925-01-01,1931-01-01,NA,Nationalist Party,NA,NA
 Cameron1873,UAP,United Australia Party,1931-01-01,NA,NA,United Australia Party,NA,NA
 Cameron1878,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
-Cameron1879,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Cameron1879,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
 Cameron1895,CP,Australian Country Party,NA,1944-01-01,NA,Nationals,NA,NA
 Cameron1895,LCL,Liberal Country League,1951-01-01,1954-01-01,NA,Liberal Country League,NA,NA
 Cameron1895,LIB,Liberal Party of Australia,1944-01-01,1951-01-01,NA,Liberal Party of Australia,NA,NA
@@ -334,7 +334,7 @@ Carige1938,NCP,National Country Party,NA,NA,NA,Nationals,NA,NA
 Carlton1935,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Carpenter1863,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Carr1875,ALP,Australian Labor Party,NA,1917-02-01,NA,Labor,NA,NA
-Carr1875,NAT,Nationalist Party,1917-02-01,NA,NA,Nationalist Party,NA,NA
+Carr1875,"NAT",Nationalist Party,1917-02-01,NA,NA,Nationalist Party,NA,NA
 Carr1947,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Carr1955,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Carrick1918,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
@@ -358,11 +358,11 @@ Chandler1990,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Chaney1914,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Chaney1941,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Chanter1845,ALP,Australian Labor Party,1910-01-01,1917-02-17,NA,Labor,NA,NA
-Chanter1845,NAT,Nationalist Party,1917-02-17,1919-01-01,NA,Nationalist Party,NA,NA
-Chanter1845,NAT & FARMERS,Nationalist and Farmers,1919-01-01,NA,NA,Nationalist and Farmers,NA,NA
+Chanter1845,"NAT",Nationalist Party,1917-02-17,1919-01-01,NA,Nationalist Party,NA,NA
+Chanter1845,"NAT & FARMERS",Nationalist and Farmers,1919-01-01,NA,NA,Nationalist and Farmers,NA,NA
 Chanter1845,PROT,Protectionist Party,NA,1910-01-01,NA,Protectionist Party,NA,NA
 Chapman1864,LIB,Liberal Party of Australia,1910-01-01,1917-02-17,NA,Liberal Party of Australia,NA,NA
-Chapman1864,NAT,Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
+Chapman1864,"NAT",Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
 Chapman1864,PROT,Protectionist Party,NA,1910-01-01,NA,Protectionist Party,NA,NA
 Chapman1879,CP,Australian Country Party,NA,NA,NA,Nationals,NA,NA
 Chapman1949,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
@@ -416,7 +416,7 @@ Colbeck1958,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Cole1908,ALP,Australian Labor Party,NA,1955-04-01,NA,Labor,NA,NA
 Cole1908,ALP (A-C),Australian Labor Party (Anti-Communist),1955-04-01,1957-01-01,NA,Australian Labor Party (Anti-Communist),NA,NA
 Cole1908,DLP,Democratic Labor Party,1957-01-01,NA,NA,Democratic Labor Party,NA,NA
-Colebatch1872,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Colebatch1872,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
 Coleman1892,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Coleman1928,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Coleman1931,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
@@ -425,7 +425,7 @@ Coles1892,IND,Independent,NA,NA,NA,Independent,NA,NA
 Collard1912,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Collard1936,NCP,National Country Party,NA,1982-10-17,1,Nationals,NA,NA
 Collard1936,NPA,National Party of Australia,1982-10-17,NA,NA,Nationals,NA,NA
-Collett1877,NAT,Nationalist Party,NA,1937-01-01,NA,Nationalist Party,1,NA
+Collett1877,"NAT",Nationalist Party,NA,1937-01-01,NA,Nationalist Party,1,NA
 Collett1877,UAP,United Australia Party,1937-01-01,NA,NA,United Australia Party,1,NA
 Collings1865,ALP,Australian Labor Party,1937-01-01,NA,NA,Australian Labor Party,1,NA
 Collings1865,FLP,Federal Labor Party,NA,1937-01-01,NA,Federal Labor Party,1,NA
@@ -453,7 +453,7 @@ Considine1885,IND LAB,Independent Labor,1920-01-01,NA,NA,Independent Labor,NA,NA
 Cook1860,ANTI-SOC,Anti-Socialist Party,1906-01-01,1910-01-01,NA,Anti-Socialist Party,NA,Name change
 Cook1860,FT,Free Trade,NA,1906-01-01,NA,Free Trade,NA,NA
 Cook1860,LIB,Liberal Party of Australia,1910-01-01,1917-02-17,NA,Liberal Party of Australia,NA,NA
-Cook1860,NAT,Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
+Cook1860,"NAT",Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
 Cook1868,CP,Australian Country Party,1920-01-01,NA,NA,Nationals,NA,NA
 Cook1868,VFU,Victorian Farmers Union,NA,1920-01-01,NA,Victorian Farmers Union,NA,NA
 Cook1943,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
@@ -464,7 +464,7 @@ Coon1869,PROT,Protectionist Party,NA,NA,NA,Protectionist Party,NA,NA
 Coonan1947,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Cooney1934,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Cooper1888,CP,Australian Country Party,1935-07-01,NA,NA,Nationals,NA,NA
-Cooper1888,NAT,Nationalist Party,NA,1932-06-30,NA,Nationalist Party,NA,NA
+Cooper1888,"NAT",Nationalist Party,NA,1932-06-30,NA,Nationalist Party,NA,NA
 Cope1907,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Corbett1906,CP,Australian Country Party,NA,1975-05-03,1,Nationals,NA,NA
 Corbett1906,NCP,National Country Party,1975-05-03,NA,NA,Nationals,NA,NA
@@ -473,7 +473,7 @@ Corcoran1951,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Cormack1906,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Cormann1970,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Corser1852,LIB,Liberal Party of Australia,NA,1917-02-17,NA,Liberals,NA,NA
-Corser1852,NAT,Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
+Corser1852,"NAT",Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
 Corser1882,CP,Australian Country Party,NA,NA,NA,Nationals,NA,NA
 Costa1900,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Costello1957,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
@@ -488,12 +488,13 @@ Courtnay1903,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Coutts1908,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Cowan1926,NCP,National Country Party,NA,1982-10-17,1,Nationals,NA,NA
 Cowan1926,NPA,National Party of Australia,1982-10-17,NA,NA,Nationals,NA,NA
-Cox1863,NAT,Nationalist Party,NA,1931-01-01,NA,Nationalist Party,1,NA
+Cox1863,"NAT",Nationalist Party,NA,1931-01-01,NA,Nationalist Party,1,NA
 Cox1863,UAP,United Australia Party,1931-01-01,NA,NA,United Australia Party,1,NA
 Cox1954,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
+Cox1977,GRN,Australian Greens,NA,NA,NA,Liberals,NA,NA
 Cramer1897,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Crane1941,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
-Crawford1865,NAT,Nationalist Party,NA,1931-01-01,NA,Nationalist Party,1,NA
+Crawford1865,"NAT",Nationalist Party,NA,1931-01-01,NA,Nationalist Party,1,NA
 Crawford1865,UAP,United Australia Party,1931-01-01,NA,NA,United Australia Party,1,NA
 Crawford1947,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Crean1916,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
@@ -505,7 +506,7 @@ CrichtonBrowne1944,IND LIB,Independent Liberal,1995-09-01,NA,NA,Independent Libe
 CrichtonBrowne1944,LIB,Liberal Party of Australia,NA,1995-09-01,NA,Liberals,1,NA
 Critchley1892,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Croft1871,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
-Crook1959,NATS WA,National Party of Australia (WA),NA,NA,NA,Nationals,NA,NA
+Crook1959,"NATS WA",National Party of Australia (WA),NA,NA,NA,Nationals,NA,NA
 Crosio1939,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Cross1929,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Crossin1956,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
@@ -529,7 +530,7 @@ Daly1891,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Daly1912,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Danby1955,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Dankel1864,ALP,Australian Labor Party,NA,1917-02-17,NA,Labor,NA,NA
-Dankel1864,NAT,Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
+Dankel1864,"NAT",Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
 Darcey1870,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Dargavel1966,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Darling1936,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
@@ -555,7 +556,7 @@ Dedman1896,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Dein1889,UAP,United Australia Party,NA,NA,NA,United Australia Party,NA,NA
 Dein1889,UAP,United Australia Party,NA,NA,NA,United Australia Party,NA,NA
 deLargie1859,ALP,Australian Labor Party,NA,1917-01-01,NA,Labor,1,NA
-deLargie1859,NAT,Nationalist Party,1917-01-01,NA,NA,Nationalist Party,1,NA
+deLargie1859,"NAT",Nationalist Party,1917-01-01,NA,NA,Nationalist Party,1,NA
 Denman1937,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Dennis1870,UAP,United Australia Party,NA,NA,NA,United Australia Party,NA,NA
 Devereux1946,ALP,Australian Labor Party,NA,1994-12-01,NA,Labor,1,NA
@@ -579,7 +580,7 @@ Downer1910,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Downer1951,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Doyle1922,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Drake1850,PROT,Protectionist Party,NA,NA,NA,Protectionist Party,NA,NA
-DrakeBrockman1884,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+DrakeBrockman1884,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
 DrakeBrockman1919,CP,Australian Country Party,NA,1975-05-03,1,Nationals,NA,NA
 DrakeBrockman1919,NCP,National Country Party,1975-05-03,NA,NA,Nationals,NA,NA
 Drakeford1878,ALP,Australian Labor Party,1936-01-01,NA,NA,Labor,NA,NA
@@ -593,10 +594,10 @@ Drury1911,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Drury1912,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Dubois1940,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Duffy1938,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
-Duncan1883,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Duncan1883,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
 Duncan1945,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 DuncanHughes1882,LIB,Liberal Party of Australia,NA,1925-01-01,NA,Liberals,NA,NA
-DuncanHughes1882,NAT,Nationalist Party,1925-01-01,1932-01-01,NA,Nationalist Party,1,NA
+DuncanHughes1882,"NAT",Nationalist Party,1925-01-01,1932-01-01,NA,Nationalist Party,1,NA
 DuncanHughes1882,UAP,United Australia Party,1932-01-01,NA,NA,United Australia Party,1,NA
 Duniam1982,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Dunn1887,ALP,Australian Labor Party,NA,1931-03-01,NA,Labor,NA,NA
@@ -606,7 +607,7 @@ Dunn1948,NDP,Nuclear Disarmament Party,NA,1988-08-01,NA,Nuclear Disarmament Part
 Durack1926,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Duthie1912,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Dutton1970,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
-Earle1865,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Earle1865,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
 Easson1955,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Edmonds1903,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Edwards1842,ANTI-SOC,Anti-Socialist Party,1906-01-01,1910-01-01,NA,Anti-Socialist Party,NA,Name change
@@ -626,7 +627,7 @@ Eldridge1872,ALP,Australian Labor Party,NA,1931-03-01,NA,Labor,NA,NA
 Eldridge1872,LANG LAB,Lang Labor Party,1931-03-01,NA,NA,Lang Labor Party,NA,NA
 Ellicott1927,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Elliot1967,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
-Elliott1878,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Elliott1878,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
 Elliott1884,CP,Australian Country Party,NA,NA,NA,Nationals,NA,NA
 Elliott1954,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Ellis1946,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
@@ -658,7 +659,7 @@ Fahey1945,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Failes1899,CP,Australian Country Party,NA,NA,NA,Nationals,NA,NA
 Fairbairn1855,IND PROT,Independent Protectionist,NA,1910-01-01,NA,Independent Protectionist,NA,NA
 Fairbairn1855,LIB,Liberal Party of Australia,1910-01-01,1917-07-01,NA,Liberal Party of Australia,NA,NA
-Fairbairn1855,NAT,Nationalist Party,1917-07-01,NA,NA,Nationalist Party,NA,NA
+Fairbairn1855,"NAT",Nationalist Party,1917-07-01,NA,NA,Nationalist Party,NA,NA
 Fairbairn1897,UAP,United Australia Party,NA,NA,NA,United Australia Party,NA,NA
 Fairbairn1917,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Fairhall1909,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
@@ -666,7 +667,7 @@ Falconer1943,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Falinski1970,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Falkinder1921,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Falkiner1867,LIB,Liberal Party of Australia,NA,1914-09-05,NA,Liberals,NA,NA
-Falkiner1867,NAT,Nationalist Party,1917-05-05,NA,NA,Nationalist Party,NA,NA
+Falkiner1867,"NAT",Nationalist Party,1917-05-05,NA,NA,Nationalist Party,NA,NA
 Falstein1914,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Farmer1962,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Farrell1954,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
@@ -708,12 +709,12 @@ Fitzgibbon1962,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 FitzPatrick1915,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Fleming1874,CP,Australian Country Party,1921-01-01,NA,NA,Nationals,NA,NA
 Fleming1874,LIB,Liberal Party of Australia,NA,1917-02-17,NA,Liberals,NA,NA
-Fleming1874,NAT,Nationalist Party,1917-02-17,1919-01-01,NA,Nationalist Party,NA,NA
-Fleming1874,NAT & FARMERS,Nationalist and Farmers,1919-01-01,1921-01-01,NA,Nationalist and Farmers,NA,NA
+Fleming1874,"NAT",Nationalist Party,1917-02-17,1919-01-01,NA,Nationalist Party,NA,NA
+Fleming1874,"NAT & FARMERS",Nationalist and Farmers,1919-01-01,1921-01-01,NA,Nationalist and Farmers,NA,NA
 Fletcher1965,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Flint1978,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
-Foley1872,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
-Foll1890,NAT,Nationalist Party,NA,1931-01-01,NA,Nationalist Party,1,NA
+Foley1872,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Foll1890,"NAT",Nationalist Party,NA,1931-01-01,NA,Nationalist Party,1,NA
 Foll1890,UAP,United Australia Party,1931-01-01,NA,NA,United Australia Party,1,NA
 Forbes1923,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Ford1936,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
@@ -722,7 +723,7 @@ Forde1890,ALP,Australian Labor Party,1936-01-01,NA,NA,Labor,NA,NA
 Forde1890,FLP,Federal Labor Party,1931-01-01,1936-01-01,NA,Federal Labor Party,NA,NA
 Foreman1933,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Forrest1847,LIB,Liberal Party of Australia,1910-01-01,1917-02-17,NA,Liberal Party of Australia,NA,NA
-Forrest1847,NAT,Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
+Forrest1847,"NAT",Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
 Forrest1847,PROT,Protectionist Party,NA,1906-01-01,NA,Protectionist Party,NA,NA
 Forrest1847,WAP,Western Australia Party,1906-01-01,1910-01-01,NA,Western Australia Party,NA,NA
 Forrest1949,NP,The Nationals,2003-10-01,NA,NA,Nationals,NA,NA
@@ -731,21 +732,21 @@ Forshaw1952,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Foster1856,ANTI-SOC,Anti-Socialist Party,NA,1910-01-01,NA,Anti-Socialist Party,NA,NA
 Foster1856,LIB,Liberal Party of Australia,1910-01-01,1917-02-17,NA,Liberal Party of Australia,NA,NA
 Foster1856,LIB,Liberal Party of Australia,1922-01-01,1925-01-01,NA,Liberal Party of Australia,NA,NA
-Foster1856,NAT,Nationalist Party,1917-02-17,1922-01-01,NA,Nationalist Party,NA,NA
-Foster1856,NAT,Nationalist Party,1925-01-01,NA,NA,Nationalist Party,NA,NA
+Foster1856,"NAT",Nationalist Party,1917-02-17,1922-01-01,NA,Nationalist Party,NA,NA
+Foster1856,"NAT",Nationalist Party,1925-01-01,NA,NA,Nationalist Party,NA,NA
 Foster1872,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
-Foster1884,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Foster1884,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
 Foster1921,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Fowler1865,ALP,Australian Labor Party,NA,1910-01-01,NA,Labor,NA,NA
 Fowler1865,LIB,Liberal Party of Australia,1910-01-01,1917-02-17,NA,Liberal Party of Australia,NA,NA
-Fowler1865,NAT,Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
+Fowler1865,"NAT",Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
 Fox1912,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Foxton1849,ANTI-SOC,Anti-Socialist Party,NA,NA,NA,Anti-Socialist Party,NA,NA
-Francis1873,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Francis1873,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
 Francis1881,IND NAT,Independent National(ist),NA,1922-01-01,NA,Independent National(ist),NA,NA
-Francis1881,NAT,Nationalist Party,1922-01-01,NA,NA,Nationalist Party,NA,NA
+Francis1881,"NAT",Nationalist Party,1922-01-01,NA,NA,Nationalist Party,NA,NA
 Francis1890,LIB,Liberal Party of Australia,1941-01-01,NA,NA,Liberal Party of Australia,NA,NA
-Francis1890,NAT,Nationalist Party,NA,1931-01-01,NA,Nationalist Party,NA,NA
+Francis1890,"NAT",Nationalist Party,NA,1931-01-01,NA,Nationalist Party,NA,NA
 Francis1890,UAP,United Australia Party,1931-01-01,1941-01-01,NA,United Australia Party,NA,NA
 Fraser1832,ANTI-SOC,Anti-Socialist Party,1906-01-01,NA,NA,Anti-Socialist Party,1,NA
 Fraser1832,PROT,Protectionist Party,NA,1906-01-01,NA,Protectionist Party,1,NA
@@ -788,17 +789,17 @@ Garden1882,ALP,Australian Labor Party,1936-01-01,NA,NA,Labor,NA,NA
 Garden1882,LANG LAB,Lang Labor Party,NA,1936-01-01,NA,Lang Labor Party,NA,NA
 Gardiner1867,ALP,Australian Labor Party,NA,1926-06-30,NA,Labor,NA,NA
 Gardiner1867,PROG LAB,Progressive Labor,1928-06-05,NA,NA,Progressive Labor,NA,NA
-Gardner1884,NAT,Nationalist Party,NA,1931-01-01,NA,Nationalist Party,NA,NA
+Gardner1884,"NAT",Nationalist Party,NA,1931-01-01,NA,Nationalist Party,NA,NA
 Gardner1884,UAP,United Australia Party,1931-01-01,NA,NA,United Australia Party,NA,NA
 Garland1934,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
-Garling1870,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Garling1870,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
 Garrett1953,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Garrick1918,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Gash1944,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Gayler1943,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Gear1947,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Gee1968,NP,The Nationals,NA,NA,NA,The Nationals,NA,NA
-Gellibrand1872,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Gellibrand1872,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
 Georganas1959,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 George1947,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Georges1920,ALP,Australian Labor Party,NA,1986-12-01,NA,Labor,1,NA
@@ -830,13 +831,13 @@ Gillard1961,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Gillespie1957,NP,The Nationals,NA,NA,NA,The Nationals,NA,NA
 Gilmore1908,CP,Australian Country Party,NA,NA,NA,Nationals,NA,NA
 Givens1864,ALP,Australian Labor Party,NA,1917-01-01,NA,Labor,1,NA
-Givens1864,NAT,Nationalist Party,1917-01-01,NA,NA,Nationalist Party,1,NA
-Glasgow1876,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Givens1864,"NAT",Nationalist Party,1917-01-01,NA,NA,Nationalist Party,1,NA
+Glasgow1876,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
 Glassey1844,PROT,Protectionist Party,NA,NA,NA,Protectionist Party,NA,NA
 Glynn1855,ANTI-SOC,Anti-Socialist Party,1906-01-01,1910-01-01,NA,Anti-Socialist Party,NA,Name change
 Glynn1855,FT,Free Trade,NA,1906-01-01,NA,Free Trade,NA,NA
 Glynn1855,LIB,Liberal Party of Australia,1910-01-01,1917-02-17,NA,Liberal Party of Australia,NA,NA
-Glynn1855,NAT,Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
+Glynn1855,"NAT",Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
 Goodenough1975,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Goodluck1933,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Gordon1865,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
@@ -853,7 +854,7 @@ Grace1940,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Graham1867,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Graham1919,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Grant1857,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
-Grant1878,NAT,Nationalist Party,NA,1931-01-01,NA,Nationalist Party,1,NA
+Grant1878,"NAT",Nationalist Party,NA,1931-01-01,NA,Nationalist Party,1,NA
 Grant1878,UAP,United Australia Party,1931-01-01,NA,NA,United Australia Party,1,NA
 Grant1888,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Grassby1926,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
@@ -870,7 +871,7 @@ Greenup1902,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Greenwood1926,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Gregory1860,CP,Australian Country Party,1920-01-01,NA,NA,Nationals,NA,NA
 Gregory1860,LIB,Liberal Party of Australia,NA,1917-02-17,NA,Liberals,NA,NA
-Gregory1860,NAT,Nationalist Party,1917-02-17,1920-01-01,NA,Nationalist Party,NA,NA
+Gregory1860,"NAT",Nationalist Party,1917-02-17,1920-01-01,NA,Nationalist Party,NA,NA
 Greig1966,AD,Australian Democrats,NA,NA,NA,Australian Democrats,NA,NA
 Grierson1951,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Griff1957,CA,Centre Alliance,2018-04-10,NA,NA,Centre Alliance,NA,NA
@@ -880,22 +881,23 @@ Griffiths1903,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Griffiths1952,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Griggs1969,CLP,Country Liberal Party (Northern Territory),NA,NA,NA,Country Liberal Party (Northern Territory),NA,NA
 Grimes1937,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
+Grogan,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Groom1833,PROT,Protectionist Party,NA,NA,NA,Protectionist Party,NA,NA
 Groom1852,FT,Free Trade,NA,NA,NA,Free Trade,NA,NA
 Groom1867,IND,Independent,1931-12-19,1934-01-01,NA,Independent,NA,NA
 Groom1867,LIB,Liberal Party of Australia,1910-01-01,1917-02-17,NA,Liberal Party of Australia,NA,NA
-Groom1867,NAT,Nationalist Party,1917-02-17,1929-10-12,NA,Nationalist Party,NA,NA
+Groom1867,"NAT",Nationalist Party,1917-02-17,1929-10-12,NA,Nationalist Party,NA,NA
 Groom1867,PROT,Protectionist Party,NA,1910-01-01,NA,Protectionist Party,NA,NA
 Groom1867,UAP,United Australia Party,1934-01-01,NA,NA,United Australia Party,NA,NA
 Groom1944,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Guilfoyle1926,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
-Gullett1878,NAT,Nationalist Party,NA,1931-01-01,NA,Nationalist Party,NA,NA
+Gullett1878,"NAT",Nationalist Party,NA,1931-01-01,NA,Nationalist Party,NA,NA
 Gullett1878,UAP,United Australia Party,1931-01-01,NA,NA,United Australia Party,NA,NA
 Gullett1914,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Gun1936,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Guthrie1856,ALP,Australian Labor Party,NA,1917-01-01,NA,Labor,1,NA
-Guthrie1856,NAT,Nationalist Party,1917-01-01,NA,NA,Nationalist Party,1,NA
-Guthrie1872,NAT,Nationalist Party,NA,1931-01-01,NA,Nationalist Party,1,NA
+Guthrie1856,"NAT",Nationalist Party,1917-01-01,NA,NA,Nationalist Party,1,NA
+Guthrie1872,"NAT",Nationalist Party,NA,1931-01-01,NA,Nationalist Party,1,NA
 Guthrie1872,UAP,United Australia Party,1931-01-01,NA,NA,United Australia Party,1,NA
 Guy1860,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Guy1890,ALP,Australian Labor Party,NA,1931-01-01,NA,Labor,NA,NA
@@ -925,7 +927,7 @@ Hannaford1903,IND,Independent,1967-02-01,NA,NA,Independent,1,NA
 Hannaford1903,LIB,Liberal Party of Australia,NA,1967-02-01,NA,Liberals,1,NA
 Hannan1873,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Hannan1910,LIB,Liberal Party of Australia,NA,1974-03-01,NA,Liberals,1,NA
-Hannan1910,NAT LIB,National Liberal Party,1974-03-01,NA,NA,National Liberal Party,1,NA
+Hannan1910,"NAT LIB",National Liberal Party,1974-03-01,NA,NA,National Liberal Party,1,NA
 Hansen1922,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Hanson1954,IND,Independent,NA,1997-06-01,NA,Independent,NA,NA
 Hanson1954,PHON,Pauline Hansons One Nation,1997-06-01,NA,NA,Pauline Hansons One Nation,NA,NA
@@ -956,30 +958,30 @@ Hatton1951,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Haviland1952,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Hawke1929,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Hawke1977,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
-Hawker1894,NAT,Nationalist Party,NA,1931-01-01,NA,Nationalist Party,NA,NA
+Hawker1894,"NAT",Nationalist Party,NA,1931-01-01,NA,Nationalist Party,NA,NA
 Hawker1894,UAP,United Australia Party,1931-01-01,NA,NA,United Australia Party,NA,NA
 Hawker1949,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Haworth1905,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Hay1865,CP,Australian Country Party,1920-01-01,1922-10-01,NA,Nationals,NA,NA
 Hay1865,IND,Independent,1922-10-01,NA,NA,Independent,NA,NA
-Hay1865,NAT & FARMERS,Nationalist and Farmers,NA,1920-01-01,NA,Nationalist and Farmers,NA,NA
+Hay1865,"NAT & FARMERS",Nationalist and Farmers,NA,1920-01-01,NA,Nationalist and Farmers,NA,NA
 Hayden1933,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Hayes1868,LIB,Liberal Party of Australia,1944-01-01,NA,NA,Liberal Party of Australia,1,NA
-Hayes1868,NAT,Nationalist Party,NA,1931-01-01,NA,Nationalist Party,1,NA
+Hayes1868,"NAT",Nationalist Party,NA,1931-01-01,NA,Nationalist Party,1,NA
 Hayes1868,UAP,United Australia Party,1931-01-01,1944-01-01,NA,United Australia Party,1,NA
 Hayes1955,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Haylen1898,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Hays1869,LIB,Liberal Party of Australia,1944-01-01,NA,NA,Liberal Party of Australia,1,NA
-Hays1869,NAT,Nationalist Party,NA,1931-01-01,NA,Nationalist Party,1,NA
+Hays1869,"NAT",Nationalist Party,NA,1931-01-01,NA,Nationalist Party,1,NA
 Hays1869,UAP,United Australia Party,1931-01-01,1944-01-01,NA,United Australia Party,1,NA
 Hearn1921,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Heatley1920,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Hedges1856,LIB,Liberal Party of Australia,1910-01-01,NA,NA,Liberal Party of Australia,NA,NA
 Hedges1856,WAP,Western Australia Party,NA,1910-01-01,NA,Western Australia Party,NA,NA
 Heffernan1943,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
-Heitmann1878,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Heitmann1878,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
 Henderson1857,ALP,Australian Labor Party,NA,1917-01-01,NA,Labor,1,NA
-Henderson1857,NAT,Nationalist Party,1917-01-01,NA,NA,Nationalist Party,1,NA
+Henderson1857,"NAT",Nationalist Party,1917-01-01,NA,NA,Nationalist Party,1,NA
 Henderson1964,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Hendrickson1897,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Hendy1962,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
@@ -995,7 +997,7 @@ Hicks1940,NPA,National Party of Australia,1982-10-17,NA,NA,Nationals,NA,NA
 Higgins1851,PROT,Protectionist Party,NA,NA,NA,Protectionist Party,NA,NA
 Higgs1862,ALP,Australian Labor Party,NA,1920-01-15,NA,Labor,NA,NA
 Higgs1862,IND,Independent,1920-01-15,1920-09-01,NA,Independent,NA,NA
-Higgs1862,NAT,Nationalist Party,1920-09-01,NA,NA,Nationalist Party,NA,NA
+Higgs1862,"NAT",Nationalist Party,1920-09-01,NA,NA,Nationalist Party,NA,NA
 Hill1866,CP,Australian Country Party,1920-01-01,NA,NA,Nationals,NA,NA
 Hill1866,VFU,Victorian Farmers Union,NA,1920-01-01,NA,Victorian Farmers Union,NA,NA
 Hill1946,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
@@ -1028,15 +1030,15 @@ Howard1939,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Howarth1972,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Howe1861,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Howe1936,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
-Howroyd1867,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
-Howse1863,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Howroyd1867,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Howse1863,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
 Howse1913,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Howson1919,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Hughes,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Hughes1862,ALP,Australian Labor Party,NA,1917-05-05,NA,Labor,NA,NA
 Hughes1862,IND NAT,Independent National(ist),1929-05-01,1931-05-01,NA,Independent National(ist),NA,NA
 Hughes1862,LIB,Liberal Party of Australia,1944-05-01,NA,NA,Liberal Party of Australia,NA,NA
-Hughes1862,NAT,Nationalist Party,1917-05-05,1929-05-01,NA,Nationalist Party,NA,NA
+Hughes1862,"NAT",Nationalist Party,1917-05-05,1929-05-01,NA,Nationalist Party,NA,NA
 Hughes1862,UAP,United Australia Party,1931-05-01,1944-05-01,NA,United Australia Party,NA,NA
 Hughes1923,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Hull1954,NP,The Nationals,2003-10-11,NA,NA,Nationals,NA,NA
@@ -1054,7 +1056,7 @@ Hunt1965,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Hunter1882,CP,Australian Country Party,NA,NA,NA,Nationals,NA,NA
 Hurford1931,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Hurley1955,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
-Hurry1868,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Hurry1868,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
 Husar1980,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Husic1970,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Hutchin1887,UAP,United Australia Party,NA,NA,NA,United Australia Party,NA,NA
@@ -1068,12 +1070,12 @@ Innes1925,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Irons1958,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Irvine1856,ANTI-SOC,Anti-Socialist Party,NA,1910-01-01,NA,Anti-Socialist Party,NA,NA
 Irvine1858,LIB,Liberal Party of Australia,1910-01-01,1917-02-17,NA,Liberal Party of Australia,NA,NA
-Irvine1858,NAT,Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
+Irvine1858,"NAT",Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
 Irwin1898,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Irwin1951,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Isaacs1855,PROT,Protectionist Party,NA,NA,NA,Protectionist Party,NA,NA
 Jack1892,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
-Jackson1889,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Jackson1889,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
 Jackson1962,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Jacobi1928,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Jakobsen1947,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
@@ -1088,7 +1090,7 @@ Jenkins1938,AD,Australian Democrats,NA,NA,NA,Australian Democrats,NA,NA
 Jenkins1952,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Jennings1878,UAP,United Australia Party,NA,NA,NA,United Australia Party,NA,NA
 Jensen1865,ALP,Australian Labor Party,NA,1917-02-17,NA,Labor,NA,NA
-Jensen1865,NAT,Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
+Jensen1865,"NAT",Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
 Jensen1962,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Jess1922,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Jessop1927,IND,Independent,1987-06-01,NA,NA,Independent,1,NA
@@ -1097,7 +1099,7 @@ Johns1952,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Johnson1862,ANTI-SOC,Anti-Socialist Party,1906-01-01,1910-01-01,NA,Anti-Socialist Party,NA,Name change
 Johnson1862,FT,Free Trade,NA,1906-01-01,NA,Free Trade,NA,NA
 Johnson1862,LIB,Liberal Party of Australia,1910-01-01,1917-02-17,NA,Liberal Party of Australia,NA,NA
-Johnson1862,NAT,Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
+Johnson1862,"NAT",Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
 Johnson1871,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Johnson1889,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Johnson1924,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
@@ -1122,7 +1124,7 @@ Joshua1906,ALP,Australian Labor Party,NA,1955-04-01,NA,Labor,NA,NA
 Joshua1906,ALP (A-C),Australian Labor Party (Anti-Communist),1955-04-01,NA,NA,Australian Labor Party (Anti-Communist),NA,NA
 Joske1895,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Jowett1858,CP,Australian Country Party,1920-01-01,NA,NA,Nationals,NA,NA
-Jowett1858,NAT,Nationalist Party,NA,1919-01-01,NA,Nationalist Party,NA,NA
+Jowett1858,"NAT",Nationalist Party,NA,1919-01-01,NA,Nationalist Party,NA,NA
 Jowett1858,VFU,Victorian Farmers Union,1919-01-01,1920-01-01,NA,Victorian Farmers Union,NA,NA
 Joyce1967,NP,The Nationals,NA,NA,NA,The Nationals,NA,NA
 Jull1944,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
@@ -1148,7 +1150,7 @@ Kekwick1910,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Kelly1877,ANTI-SOC,Anti-Socialist Party,1906-01-01,1910-01-01,NA,Anti-Socialist Party,NA,Name change
 Kelly1877,FT,Free Trade,NA,1906-01-01,NA,Free Trade,NA,NA
 Kelly1877,LIB,Liberal Party of Australia,1910-01-01,1917-02-17,NA,Liberal Party of Australia,NA,NA
-Kelly1877,NAT,Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
+Kelly1877,"NAT",Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
 Kelly1912,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Kelly1948,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Kelly1954,NP,The Nationals,2003-10-11,NA,NA,Nationals,NA,NA
@@ -1170,7 +1172,7 @@ Keogh1931,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Keogh1981,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Keon1915,ALP,Australian Labor Party,NA,1955-04-01,NA,Labor,NA,NA
 Keon1915,ALP (A-C),Australian Labor Party (Anti-Communist),1955-04-01,NA,NA,Australian Labor Party (Anti-Communist),NA,NA
-Kerby1885,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Kerby1885,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
 Kerin1937,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Kernot1948,AD,Australian Democrats,NA,1997-10-15,NA,Australian Democrats,NA,NA
 Kernot1948,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
@@ -1186,7 +1188,7 @@ King1952,IND,Independent,2004-09-01,NA,NA,Independent,NA,NA
 King1952,LIB,Liberal Party of Australia,NA,2004-09-01,NA,Liberals,NA,NA
 King1966,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 King1973,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
-Kingsmill1864,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Kingsmill1864,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
 Kingston1850,PROT,Protectionist Party,NA,NA,NA,Protectionist Party,NA,NA
 Kirk1967,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Kirwan1869,FT,Free Trade,NA,NA,NA,Free Trade,NA,NA
@@ -1212,7 +1214,7 @@ Lambie1971,IND,Independent,2014-11-24,2015-05-14,NA,Independent,NA,NA
 Lambie1971,JLN,Jacqui Lambie Network,2015-05-14,NA,NA,Jacqui Lambie Network,NA,NA
 Lambie1971,PUP,Palmer United Party,NA,2014-11-24,NA,Palmer United Party,NA,NA
 Laming1966,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
-Lamond1865,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Lamond1865,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
 Lamp1895,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Landry1962,NP,The Nationals,NA,NA,NA,The Nationals,NA,NA
 Lane1873,UAP,United Australia Party,NA,NA,NA,United Australia Party,NA,NA
@@ -1222,7 +1224,7 @@ Langmore1939,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Langtry1880,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Large1878,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Latham1877,LIB,Liberal Party of Australia,NA,1925-01-01,NA,Liberals,NA,NA
-Latham1877,NAT,Nationalist Party,1925-01-01,1931-01-01,NA,Nationalist Party,NA,NA
+Latham1877,"NAT",Nationalist Party,1925-01-01,1931-01-01,NA,Nationalist Party,NA,NA
 Latham1877,UAP,United Australia Party,1931-01-01,NA,NA,United Australia Party,NA,NA
 Latham1882,CP,Australian Country Party,NA,NA,NA,Nationals,NA,NA
 Latham1961,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
@@ -1236,7 +1238,7 @@ Lawrence1906,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Lawrence1948,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Lawrie1907,CP,Australian Country Party,NA,1975-05-03,1,Nationals,NA,NA
 Lawrie1907,NCP,National Country Party,1975-05-03,NA,NA,Nationals,NA,NA
-Lawson1875,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Lawson1875,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
 Lawson1880,ALP,Australian Labor Party,1936-01-01,NA,NA,Labor,NA,NA
 Lawson1880,FLP,Federal Labor Party,NA,1936-01-01,NA,Federal Labor Party,NA,NA
 Lawson1897,UAP,United Australia Party,NA,NA,NA,United Australia Party,NA,NA
@@ -1245,7 +1247,7 @@ Lazzarini1894,ALP,Australian Labor Party,NA,1931-12-19,NA,Labor,NA,NA
 Lazzarini1894,ALP,Australian Labor Party,1936-01-01,NA,NA,Labor,NA,NA
 Lazzarini1894,LANG LAB,Lang Labor Party,1934-09-15,1936-01-01,NA,Lang Labor Party,NA,NA
 Leckie1872,LIB,Liberal Party of Australia,1944-01-01,NA,NA,Liberal Party of Australia,1,NA
-Leckie1872,NAT,Nationalist Party,NA,1919-12-13,NA,Nationalist Party,NA,NA
+Leckie1872,"NAT",Nationalist Party,NA,1919-12-13,NA,Nationalist Party,NA,NA
 Leckie1872,UAP,United Australia Party,1935-07-01,1944-01-01,NA,United Australia Party,1,NA
 Lee1856,FT,Free Trade,NA,NA,NA,Free Trade,NA,NA
 Lee1920,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
@@ -1259,7 +1261,7 @@ Lemmon1908,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Leslie1900,CP,Australian Country Party,NA,NA,NA,Nationals,NA,NA
 Lewis1882,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Lewis1932,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
-Ley1879,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Ley1879,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
 Ley1961,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Leyonhjelm1952,LDP,Liberal Democratic Party,NA,NA,NA,Liberal Democratic Party,NA,NA
 Liddell1862,ANTI-SOC,Anti-Socialist Party,1906-01-01,NA,NA,Anti-Socialist Party,NA,Name change
@@ -1272,14 +1274,14 @@ Lindsay1905,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Lindsay1942,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Lindsay1944,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Lines1953,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
-Lister1875,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Lister1875,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
 Little1914,DLP,Democratic Labor Party,NA,NA,NA,Democratic Labor Party,NA,NA
-Littleproud1976,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Littleproud1976,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
 Liu1964,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Livermore1969,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Livingston1856,ANTI-SOC,Anti-Socialist Party,NA,1910-01-01,NA,Anti-Socialist Party,NA,NA
 Livingston1856,LIB,Liberal Party of Australia,1910-01-01,1917-02-17,NA,Liberal Party of Australia,NA,NA
-Livingston1856,NAT,Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
+Livingston1856,"NAT",Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
 Lloyd1937,CP,Australian Country Party,NA,1975-05-03,1,Nationals,NA,NA
 Lloyd1937,NCP,National Country Party,1975-05-03,1982-10-17,1,Nationals,NA,NA
 Lloyd1937,NPA,National Party of Australia,1982-10-17,NA,NA,Nationals,NA,NA
@@ -1299,9 +1301,9 @@ Lusher1945,CP,Australian Country Party,NA,1975-05-03,1,Nationals,NA,NA
 Lusher1945,NCP,National Country Party,1975-05-03,1982-10-17,1,Nationals,NA,NA
 Lusher1945,NPA,National Party of Australia,1982-10-17,NA,NA,Nationals,NA,NA
 Lynch1862,ALP,Australian Labor Party,NA,1917-02-17,NA,Labor,NA,NA
-Lynch1862,NAT,Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
+Lynch1862,"NAT",Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
 Lynch1867,ALP,Australian Labor Party,NA,1917-01-01,NA,Labor,1,NA
-Lynch1867,NAT,Nationalist Party,1917-01-01,NA,NA,Nationalist Party,1,NA
+Lynch1867,"NAT",Nationalist Party,1917-01-01,NA,NA,Nationalist Party,1,NA
 Lynch1933,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Lyne1844,IND,Independent,1910-01-01,NA,NA,Independent,NA,NA
 Lyne1844,PROT,Protectionist Party,NA,1910-01-01,NA,Protectionist Party,NA,NA
@@ -1322,7 +1324,7 @@ Macfarlane1844,FT,Free Trade,NA,NA,NA,Free Trade,NA,NA
 Macfarlane1955,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 MacGibbon1934,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Mack1933,IND,Independent,NA,NA,NA,Independent,NA,NA
-Mackay1872,NAT,Nationalist Party,NA,1931-01-01,NA,Nationalist Party,NA,NA
+Mackay1872,"NAT",Nationalist Party,NA,1931-01-01,NA,Nationalist Party,NA,NA
 Mackay1872,UAP,United Australia Party,1931-01-01,NA,NA,United Australia Party,NA,NA
 Mackay1919,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Mackay1960,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
@@ -1352,18 +1354,18 @@ Maloney1854,ALP,Australian Labor Party,NA,1931-01-01,NA,Labor,NA,NA
 Maloney1854,ALP,Australian Labor Party,1936-01-01,NA,NA,Labor,NA,NA
 Maloney1854,FLP,Federal Labor Party,1931-01-01,1936-01-01,NA,Federal Labor Party,NA,NA
 Manifold1867,LIB,Liberal Party of Australia,1913-05-31,1917-02-17,NA,Liberal Party of Australia,NA,NA
-Manifold1867,NAT,Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
+Manifold1867,"NAT",Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
 Manifold1867,PROT,Protectionist Party,NA,1903-12-23,NA,Protectionist Party,NA,NA
-Mann1874,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
-Manning1872,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Mann1874,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Manning1872,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
 Marek1964,NPA,National Party of Australia,NA,NA,NA,Nationals,NA,NA
 Margetts1955,GWA,The Greens (WA) Inc,NA,NA,NA,The Greens (WA) Inc,NA,NA
 Marino1954,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Marks1875,IND NAT,Independent National(ist),1929-01-01,NA,NA,Independent National(ist),NA,NA
-Marks1875,NAT,Nationalist Party,NA,1929-01-01,NA,Nationalist Party,NA,NA
+Marks1875,"NAT",Nationalist Party,NA,1929-01-01,NA,Nationalist Party,NA,NA
 Markus1958,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Marles1967,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
-Marr1880,NAT,Nationalist Party,NA,1931-01-01,NA,Nationalist Party,NA,NA
+Marr1880,"NAT",Nationalist Party,NA,1931-01-01,NA,Nationalist Party,NA,NA
 Marr1880,UAP,United Australia Party,1931-01-01,NA,NA,United Australia Party,NA,NA
 Marriott1913,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Marshall1960,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
@@ -1381,7 +1383,7 @@ Marwick1895,CP,Australian Country Party,NA,NA,NA,Nationals,NA,NA
 Mason1926,AD,Australian Democrats,NA,NA,NA,Australian Democrats,NA,NA
 Mason1962,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 MassyGreene1874,LIB,Liberal Party of Australia,NA,1917-02-17,NA,Liberals,NA,NA
-MassyGreene1874,NAT,Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
+MassyGreene1874,"NAT",Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
 Matheson1861,FT,Free Trade,NA,NA,NA,Free Trade,NA,NA
 Matheson1958,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Mathews1865,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
@@ -1392,7 +1394,7 @@ Maughan1863,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Maunsell1922,CP,Australian Country Party,NA,1975-05-03,1,Nationals,NA,NA
 Maunsell1922,NCP,National Country Party,1975-05-03,NA,NA,Nationals,NA,NA
 Maxwell1859,IND NAT,Independent National(ist),1929-01-01,1931-01-01,NA,Independent National(ist),NA,NA
-Maxwell1859,NAT,Nationalist Party,NA,1929-01-01,NA,Nationalist Party,NA,NA
+Maxwell1859,"NAT",Nationalist Party,NA,1929-01-01,NA,Nationalist Party,NA,NA
 Maxwell1859,UAP,United Australia Party,1931-01-01,NA,NA,United Australia Party,NA,NA
 May1950,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Mayer1932,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
@@ -1459,7 +1461,7 @@ McKiernan1944,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 McKim1965,GRN,Australian Greens,NA,NA,NA,Australian Greens,NA,NA
 McKissock1872,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 McLachlan1870,UAP,United Australia Party,NA,NA,NA,United Australia Party,NA,NA
-McLachlan1872,NAT,Nationalist Party,NA,1931-01-01,NA,Nationalist Party,1,NA
+McLachlan1872,"NAT",Nationalist Party,NA,1931-01-01,NA,Nationalist Party,1,NA
 McLachlan1872,UAP,United Australia Party,1931-01-01,NA,NA,United Australia Party,1,NA
 McLachlan1936,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 McLachlan1966,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
@@ -1498,7 +1500,7 @@ McWilliams1856,ANTI-SOC,Anti-Socialist Party,1906-01-01,1910-01-01,NA,Anti-Socia
 McWilliams1856,CP,Australian Country Party,1920-01-01,1922-12-16,NA,Nationals,NA,NA
 McWilliams1856,IND,Independent,1928-11-17,NA,NA,Independent,NA,NA
 McWilliams1856,LIB,Liberal Party of Australia,1910-01-01,1917-02-17,NA,Liberal Party of Australia,NA,NA
-McWilliams1856,NAT,Nationalist Party,1917-02-17,1920-01-01,NA,Nationalist Party,NA,NA
+McWilliams1856,"NAT",Nationalist Party,1917-02-17,1920-01-01,NA,Nationalist Party,NA,NA
 McWilliams1856,REV TAR,Revenue Tariff,NA,1906-01-01,NA,Revenue Tariff,NA,NA
 Melham1954,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Melzer1926,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
@@ -1513,8 +1515,8 @@ Millar1925,NPA,National Party of Australia,1982-10-17,NA,NA,Nationals,NA,NA
 Millen1860,ANTI-SOC,Anti-Socialist Party,1906-01-01,1913-01-01,NA,Anti-Socialist Party,1,NA
 Millen1860,FT,Free Trade,NA,1906-01-01,NA,Free Trade,1,NA
 Millen1860,LIB,Liberal Party of Australia,1913-01-01,1917-01-01,NA,Liberal Party of Australia,1,NA
-Millen1860,NAT,Nationalist Party,1917-01-01,NA,NA,Nationalist Party,1,NA
-Millen1877,NAT,Nationalist Party,NA,1931-01-01,NA,Nationalist Party,1,NA
+Millen1860,"NAT",Nationalist Party,1917-01-01,NA,NA,Nationalist Party,1,NA
+Millen1877,"NAT",Nationalist Party,NA,1931-01-01,NA,Nationalist Party,1,NA
 Millen1877,UAP,United Australia Party,1931-01-01,NA,NA,United Australia Party,1,NA
 Milliner1911,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Milne1953,GRN,Australian Greens,NA,NA,NA,Australian Greens,NA,NA
@@ -1531,7 +1533,7 @@ Monaghan1921,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Mooney1880,LANG LAB,Lang Labor Party,NA,NA,NA,Lang Labor Party,NA,NA
 Moore1936,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Moore1956,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
-Morgan1881,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Morgan1881,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
 Morgan1897,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Morris1903,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Morris1932,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
@@ -1547,7 +1549,7 @@ Mountford1933,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Mountjoy1906,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Moylan1944,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Muir1980,AMEP,Australian Motoring Enthusiast Party,NA,NA,NA,Australian Motoring Enthusiast Party,NA,NA
-Mulcahy1850,NAT,Nationalist Party,1919-01-15,NA,NA,Nationalist Party,NA,NA
+Mulcahy1850,"NAT",Nationalist Party,1919-01-15,NA,NA,Nationalist Party,NA,NA
 Mulcahy1850,PROT,Protectionist Party,NA,1910-05-10,NA,Protectionist Party,NA,NA
 Mulcahy1882,ALP,Australian Labor Party,1936-01-01,1940-01-01,NA,Labor,NA,NA
 Mulcahy1882,ALP,Australian Labor Party,1943-01-01,NA,NA,Labor,NA,NA
@@ -1568,7 +1570,7 @@ Murray1906,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Murray1915,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Murray1947,AD,Australian Democrats,NA,NA,NA,Australian Democrats,NA,NA
 Mutch1956,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
-Nairn1879,NAT,Nationalist Party,NA,1931-01-01,NA,Nationalist Party,NA,NA
+Nairn1879,"NAT",Nationalist Party,NA,1931-01-01,NA,Nationalist Party,NA,NA
 Nairn1879,UAP,United Australia Party,1931-01-01,NA,NA,United Australia Party,NA,NA
 Nairn1951,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Nash1890,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
@@ -1589,7 +1591,7 @@ Neville1940,NP,The Nationals,2003-10-11,NA,NA,Nationals,NA,NA
 Neville1940,NPA,National Party of Australia,NA,2003-10-11,NA,Nationals,NA,NA
 Newell1952,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Newlands1864,ALP,Australian Labor Party,NA,1917-01-01,NA,Labor,1,NA
-Newlands1864,NAT,Nationalist Party,1917-01-01,NA,NA,Nationalist Party,1,NA
+Newlands1864,"NAT",Nationalist Party,1917-01-01,NA,NA,Nationalist Party,1,NA
 Newman1933,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Newman1937,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Nicholls1885,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
@@ -1601,7 +1603,7 @@ Nixon1928,NCP,National Country Party,1975-05-03,1982-10-17,1,Nationals,NA,NA
 Nixon1928,NPA,National Party of Australia,1982-10-17,NA,NA,Nationals,NA,NA
 Nock1879,CP,Australian Country Party,NA,NA,NA,Nationals,NA,NA
 Nott1888,IND,Independent,1949-12-10,NA,NA,Independent,NA,NA
-Nott1888,NAT,Nationalist Party,NA,1928-12-17,NA,Nationalist Party,NA,NA
+Nott1888,"NAT",Nationalist Party,NA,1928-12-17,NA,Nationalist Party,NA,NA
 Nugent1938,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Oakes1861,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Oakeshott1969,IND,Independent,NA,NA,NA,Independent,NA,NA
@@ -1622,7 +1624,7 @@ ODwyer1977,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 OFlaherty1886,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Ogden1868,ALP,Australian Labor Party,NA,1926-01-01,NA,Labor,1,NA
 Ogden1868,IND,Independent,1926-01-01,1928-01-01,NA,Independent,1,NA
-Ogden1868,NAT,Nationalist Party,1928-01-01,NA,NA,Nationalist Party,1,NA
+Ogden1868,"NAT",Nationalist Party,1928-01-01,NA,NA,Nationalist Party,1,NA
 OHalloran1893,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 OKeefe1864,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 OKeefe1912,CP,Australian Country Party,NA,1975-05-03,1,Nationals,NA,NA
@@ -1640,7 +1642,7 @@ ONeil1980,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 ONeill1961,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Opperman1904,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Orchard1871,LIB,Liberal Party of Australia,NA,1917-02-17,NA,Liberals,NA,NA
-Orchard1871,NAT,Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
+Orchard1871,"NAT",Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
 Organ1956,GRN,Australian Greens,NA,NA,NA,Australian Greens,NA,NA
 Ormonde1901,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Osborne1909,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
@@ -1655,17 +1657,17 @@ Page1861,FT,Free Trade,NA,1903-01-01,NA,Free Trade,NA,NA
 Page1880,CP,Australian Country Party,1920-01-01,NA,NA,Nationals,NA,NA
 Page1880,FSU,Farmers and Settlers Union,NA,1920-01-01,NA,Farmers and Settlers Union,NA,NA
 Palmer1859,LIB,Liberal Party of Australia,1910-01-01,1917-02-17,NA,Liberal Party of Australia,NA,NA
-Palmer1859,NAT,Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
+Palmer1859,"NAT",Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
 Palmer1859,PROT,Protectionist Party,NA,1910-01-01,NA,Protectionist Party,NA,NA
 Palmer1954,PUP,Palmer United Party,NA,NA,NA,Palmer United Party,NA,NA
 Paltridge1910,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Panizza1931,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Parer1936,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Parke1966,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
-Parkhill1879,NAT,Nationalist Party,NA,1931-01-01,NA,Nationalist Party,NA,NA
+Parkhill1879,"NAT",Nationalist Party,NA,1931-01-01,NA,Nationalist Party,NA,NA
 Parkhill1879,UAP,United Australia Party,1931-01-01,NA,NA,United Australia Party,NA,NA
 Parry1960,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
-Parsons1881,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Parsons1881,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
 Pasin1977,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Paterson1844,IND,Independent,NA,NA,NA,Independent,NA,NA
 Paterson1882,CP,Australian Country Party,NA,1937-01-01,NA,Nationals,1,NA
@@ -1677,13 +1679,13 @@ Patrick1967,NXT,Nick Xenophon Team,NA,2018-06-08,1,Nick Xenophon Team,NA,NA
 Patten1859,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Patterson1927,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Patterson1944,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
-Payne1866,NAT,Nationalist Party,NA,1931-01-01,NA,Nationalist Party,NA,NA
+Payne1866,"NAT",Nationalist Party,NA,1931-01-01,NA,Nationalist Party,NA,NA
 Payne1866,UAP,United Australia Party,1931-01-01,NA,NA,United Australia Party,NA,NA
 Payne1964,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Payne1982,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Peacock1939,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Pearce1870,ALP,Australian Labor Party,NA,1917-01-01,NA,Labor,1,NA
-Pearce1870,NAT,Nationalist Party,1917-01-01,1931-01-01,NA,Nationalist Party,1,NA
+Pearce1870,"NAT",Nationalist Party,1917-01-01,1931-01-01,NA,Nationalist Party,1,NA
 Pearce1870,UAP,United Australia Party,1931-01-01,NA,NA,United Australia Party,1,NA
 Pearce1917,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Pearce1963,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
@@ -1691,7 +1693,7 @@ Pearce1967,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Pearsall1920,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Pearson1905,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Peris1971,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
-Perkins1878,NAT,Nationalist Party,NA,1929-12-12,NA,Nationalist Party,NA,NA
+Perkins1878,"NAT",Nationalist Party,NA,1929-12-12,NA,Nationalist Party,NA,NA
 Perkins1878,UAP,United Australia Party,1931-12-19,NA,NA,United Australia Party,NA,NA
 Perrett1966,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Peters1897,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
@@ -1702,10 +1704,10 @@ Phillips1970,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Piesse1848,FT,Free Trade,NA,NA,NA,Free Trade,NA,NA
 Piesse1900,CP,Australian Country Party,NA,NA,NA,Nationals,NA,NA
 Pigott1866,LIB,Liberal Party of Australia,NA,1917-02-17,NA,Liberals,NA,NA
-Pigott1866,NAT,Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
+Pigott1866,"NAT",Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
 Pitt1969,NP,The Nationals,NA,NA,NA,The Nationals,NA,NA
 Pittard1902,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
-Plain1868,NAT,Nationalist Party,NA,1931-01-01,NA,Nationalist Party,1,NA
+Plain1868,"NAT",Nationalist Party,NA,1931-01-01,NA,Nationalist Party,1,NA
 Plain1868,UAP,United Australia Party,1931-01-01,NA,NA,United Australia Party,1,NA
 Playford1837,PROT,Protectionist Party,NA,NA,NA,Protectionist Party,NA,NA
 Plibersek1969,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
@@ -1720,12 +1722,12 @@ Powell1942,IND,Independent,1992-07-01,NA,NA,Independent,1,NA
 Power1883,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Poynton1853,ALP,Australian Labor Party,1903-12-16,1917-02-17,NA,Labor,NA,NA
 Poynton1853,FT,Free Trade,NA,1903-12-16,NA,Free Trade,NA,NA
-Poynton1853,NAT,Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
+Poynton1853,"NAT",Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
 Poyser1915,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Pratt1948,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Pratt1972,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
-Pratten1865,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
-Pratten1899,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Pratten1865,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Pratten1899,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
 Prentice1953,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Price1882,ALP,Australian Labor Party,NA,1931-01-01,NA,Labor,NA,NA
 Price1882,UAP,United Australia Party,1931-01-01,NA,NA,United Australia Party,NA,NA
@@ -1763,7 +1765,7 @@ Reeves1952,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Reid1842,FT,Free Trade,NA,NA,NA,Free Trade,NA,NA
 Reid1845,ANTI-SOC,Anti-Socialist Party,1906-01-01,NA,NA,Anti-Socialist Party,NA,Name change
 Reid1845,FT,Free Trade,NA,1906-01-01,NA,Free Trade,NA,NA
-Reid1856,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Reid1856,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
 Reid1886,CP,Australian Country Party,NA,NA,NA,Nationals,NA,NA
 Reid1916,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Reid1933,CP,Australian Country Party,NA,NA,NA,Nationals,NA,NA
@@ -1802,7 +1804,7 @@ Robertson1882,CP,Australian Country Party,1955-01-01,NA,NA,Australian Country Pa
 Robertson1882,LIB,Liberal Party of Australia,NA,1955-01-01,NA,Liberals,1,NA
 Robertson1929,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Robinson1872,FT,Free Trade,NA,NA,NA,Free Trade,NA,NA
-Robinson1877,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Robinson1877,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
 Robinson1907,CP,Australian Country Party,NA,NA,NA,Nationals,NA,NA
 Robinson1927,CP,Australian Country Party,NA,1975-05-03,1,Nationals,NA,NA
 Robinson1927,NCP,National Country Party,1975-05-03,1982-10-17,1,Nationals,NA,NA
@@ -1811,7 +1813,7 @@ Robinson1929,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Rocher1936,IND,Independent,1995-08-01,NA,NA,Independent,NA,NA
 Rocher1936,LIB,Liberal Party of Australia,NA,1995-08-01,NA,Liberals,NA,NA
 Rodgers1875,LIB,Liberal Party of Australia,NA,1917-02-17,NA,Liberals,NA,NA
-Rodgers1875,NAT,Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
+Rodgers1875,"NAT",Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
 Ronald1861,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Ronaldson1954,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Rosevear1892,ALP,Australian Labor Party,1936-01-01,1940-01-01,NA,Labor,NA,NA
@@ -1819,7 +1821,7 @@ Rosevear1892,ALP,Australian Labor Party,1941-01-01,NA,NA,Labor,NA,NA
 Rosevear1892,ALP (N-C),Australian Labor Party (Non-Communist),1940-01-01,1941-02-01,NA,Australian Labor Party (Non-Communist),NA,NA
 Rosevear1892,LANG LAB,Lang Labor Party,NA,1936-01-01,NA,Lang Labor Party,NA,NA
 Rowe1872,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
-Rowell1851,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Rowell1851,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
 Rowland1971,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Roxon1967,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Roy1990,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
@@ -1827,7 +1829,7 @@ Rudd1957,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Ruddock1943,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Russell1842,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Russell1878,ALP,Australian Labor Party,NA,1917-01-01,NA,Labor,1,NA
-Russell1878,NAT,Nationalist Party,1917-01-01,NA,NA,Nationalist Party,1,NA
+Russell1878,"NAT",Nationalist Party,1917-01-01,NA,NA,Nationalist Party,1,NA
 Russell1890,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Russell1907,CP,Australian Country Party,NA,NA,NA,Nationals,NA,NA
 Ruston1963,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
@@ -1839,16 +1841,16 @@ Ryan1942,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Ryan1961,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Ryan1973,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Ryrie1865,LIB,Liberal Party of Australia,NA,1917-02-17,NA,Liberals,NA,NA
-Ryrie1865,NAT,Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
+Ryrie1865,"NAT",Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
 Saffin1954,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Sainsbury1940,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Salmon1861,LIB,Liberal Party of Australia,1910-01-01,NA,NA,Liberal Party of Australia,NA,NA
 Salmon1861,PROT,Protectionist Party,NA,1910-01-01,NA,Protectionist Party,NA,NA
 Sampson1863,IND PROT,Independent Protectionist,NA,1910-01-01,NA,Independent Protectionist,NA,NA
 Sampson1863,LIB,Liberal Party of Australia,1910-01-01,1917-02-17,NA,Liberal Party of Australia,NA,NA
-Sampson1863,NAT,Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
+Sampson1863,"NAT",Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
 Sampson1882,LIB,Liberal Party of Australia,1944-01-01,NA,NA,Liberal Party of Australia,1,NA
-Sampson1882,NAT,Nationalist Party,NA,1931-01-01,NA,Nationalist Party,1,NA
+Sampson1882,"NAT",Nationalist Party,NA,1931-01-01,NA,Nationalist Party,1,NA
 Sampson1882,UAP,United Australia Party,1931-01-01,1944-01-01,NA,United Australia Party,1,NA
 Sanders1932,AD,Australian Democrats,NA,NA,NA,Australian Democrats,NA,NA
 Sandford1895,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
@@ -1879,10 +1881,10 @@ Scullin1876,ALP,Australian Labor Party,1936-01-01,NA,NA,Labor,NA,NA
 Scullin1876,FLP,Federal Labor Party,1931-01-01,1936-01-01,NA,Federal Labor Party,NA,NA
 Scullion1956,CLP,Country Liberal Party (Northern Territory),NA,NA,NA,Country Liberal Party (Northern Territory),NA,NA
 Scully1890,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
-Seabrook1867,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Seabrook1867,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
 Secker1956,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Senior1850,ALP,Australian Labor Party,NA,1917-01-01,NA,Labor,1,NA
-Senior1850,NAT,Nationalist Party,1917-01-01,NA,NA,Nationalist Party,1,NA
+Senior1850,"NAT",Nationalist Party,1917-01-01,NA,NA,Nationalist Party,1,NA
 Sercombe1949,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Seselja1977,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Seward1884,CP,Australian Country Party,NA,NA,NA,Nationals,NA,NA
@@ -1926,7 +1928,7 @@ Simon1936,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Simpkins1964,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Sinclair1864,ANTI-SOC,Anti-Socialist Party,NA,1910-01-01,NA,Anti-Socialist Party,NA,NA
 Sinclair1864,LIB,Liberal Party of Australia,1910-01-01,1917-02-17,NA,Liberal Party of Australia,NA,NA
-Sinclair1864,NAT,Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
+Sinclair1864,"NAT",Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
 Sinclair1929,CP,Australian Country Party,NA,1975-05-03,1,Nationals,NA,NA
 Sinclair1929,NCP,National Country Party,1975-05-03,1982-10-17,1,Nationals,NA,NA
 Sinclair1929,NPA,National Party of Australia,1982-10-17,NA,NA,Nationals,NA,NA
@@ -1940,7 +1942,7 @@ Small1988,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Smith1851,ANTI-SOC,Anti-Socialist Party,1906-01-01,1910-01-01,NA,Anti-Socialist Party,NA,Name change
 Smith1851,FT,Free Trade,NA,1906-01-01,NA,Free Trade,NA,NA
 Smith1851,LIB,Liberal Party of Australia,1910-01-01,1917-02-17,NA,Liberal Party of Australia,NA,NA
-Smith1851,NAT,Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
+Smith1851,"NAT",Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
 Smith1856,FT,Free Trade,NA,NA,NA,Free Trade,NA,NA
 Smith1881,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Smith1939,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
@@ -1954,7 +1956,7 @@ Smith1970,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Smith1986,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 SmithMiles1869,FT,Free Trade,NA,NA,NA,Free Trade,NA,NA
 SmithWilliam1869,ALP,Australian Labor Party,NA,1917-02-17,NA,Labor,NA,NA
-SmithWilliam1869,NAT,Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
+SmithWilliam1869,"NAT",Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
 Smyth1959,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Smyth1976,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Snedden1926,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
@@ -1967,7 +1969,7 @@ Somlyay1946,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Southcott1967,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Sowada1961,AD,Australian Democrats,NA,NA,NA,Australian Democrats,NA,NA
 Spence1846,ALP,Australian Labor Party,NA,1917-02-17,NA,Labor,NA,NA
-Spence1846,NAT,Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
+Spence1846,"NAT",Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
 Spender1897,IND UAP,Independent United Australia Party,NA,1940-01-01,NA,Independent United Australia Party,NA,NA
 Spender1897,LIB,Liberal Party of Australia,1944-01-01,NA,NA,Liberal Party of Australia,NA,NA
 Spender1897,UAP,United Australia Party,1940-01-01,1944-01-01,NA,United Australia Party,NA,NA
@@ -2005,7 +2007,7 @@ Stone1951,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Storer1969,IND,Independent,NA,NA,NA,Independent,NA,NA
 Storrer1854,PROT,Protectionist Party,NA,NA,NA,Protectionist Party,NA,NA
 Story1857,ALP,Australian Labor Party,NA,1917-01-01,NA,Labor,1,NA
-Story1857,NAT,Nationalist Party,1917-01-01,NA,NA,Nationalist Party,1,NA
+Story1857,"NAT",Nationalist Party,1917-01-01,NA,NA,Nationalist Party,1,NA
 StottDespoja1969,AD,Australian Democrats,NA,NA,NA,Australian Democrats,NA,NA
 Street1894,UAP,United Australia Party,NA,NA,NA,United Australia Party,NA,NA
 Street1926,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
@@ -2043,9 +2045,9 @@ Theophanous1946,ALP,Australian Labor Party,NA,2000-04-01,NA,Labor,NA,NA
 Theophanous1946,IND,Independent,2000-04-01,NA,NA,Independent,NA,NA
 Thistlethwaite1972,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Thomas1863,ALP,Australian Labor Party,NA,1917-02-17,NA,Labor,NA,NA
-Thomas1863,NAT,Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
+Thomas1863,"NAT",Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
 Thomas1936,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
-Thompson1863,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Thompson1863,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
 Thompson1885,CP,Australian Country Party,NA,NA,NA,Nationals,NA,NA
 Thompson1886,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Thompson1960,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
@@ -2054,7 +2056,7 @@ Thomson1848,ANTI-SOC,Anti-Socialist Party,1906-01-01,NA,NA,Anti-Socialist Party,
 Thomson1848,FT,Free Trade,NA,1906-01-01,NA,Free Trade,NA,NA
 Thomson1856,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Thomson1862,LIB,Liberal Party of Australia,1910-01-01,1917-02-17,NA,Liberal Party of Australia,NA,NA
-Thomson1862,NAT,Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
+Thomson1862,"NAT",Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
 Thomson1862,PROT,Protectionist Party,NA,1910-01-01,NA,Protectionist Party,NA,NA
 Thomson1924,NCP,National Country Party,NA,1982-10-17,1,Nationals,NA,NA
 Thomson1924,NPA,National Party of Australia,1982-10-17,NA,NA,Nationals,NA,NA
@@ -2113,10 +2115,10 @@ vanManen1965,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Vanstone1952,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Vardon1843,ANTI-SOC,Anti-Socialist Party,NA,1907-05-31,NA,Anti-Socialist Party,NA,NA
 Vardon1843,LIB,Liberal Party of Australia,1908-02-15,NA,NA,Liberal Party of Australia,NA,NA
-Vardon1866,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Vardon1866,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
 Varvaris1974,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Vasta1966,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
-Verran1856,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Verran1856,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
 Vigor1939,AD,Australian Democrats,NA,1987-06-01,NA,Australian Democrats,1,NA
 Vigor1939,UNITE AP,Unite Australia Party (John Siddons Group),1987-06-01,NA,NA,Unite Australia Party (John Siddons Group),1,NA
 Vincent1906,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
@@ -2151,14 +2153,14 @@ Watson1937,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Watson1945,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Watt1871,LIB,Liberal Party of Australia,NA,1917-02-17,NA,Liberals,NA,NA
 Watt1871,LIB,Liberal Party of Australia,1922-01-01,1925-01-01,NA,Liberal Party of Australia,NA,NA
-Watt1871,NAT,Nationalist Party,1917-02-17,1922-01-01,NA,Nationalist Party,NA,NA
-Watt1871,NAT,Nationalist Party,1925-01-01,NA,NA,Nationalist Party,NA,NA
+Watt1871,"NAT",Nationalist Party,1917-02-17,1922-01-01,NA,Nationalist Party,NA,NA
+Watt1871,"NAT",Nationalist Party,1925-01-01,NA,NA,Nationalist Party,NA,NA
 Watt1973,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Watts1982,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Webb1908,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Webber1965,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Webster1860,ALP,Australian Labor Party,NA,1917-02-17,NA,Labor,NA,NA
-Webster1860,NAT,Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
+Webster1860,"NAT",Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
 Webster1925,CP,Australian Country Party,NA,1975-05-03,1,Nationals,NA,NA
 Webster1925,NCP,National Country Party,1975-05-03,NA,NA,Nationals,NA,NA
 Webster1934,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
@@ -2178,7 +2180,7 @@ Wheeler1909,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Wheelwright1953,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 WhishWilson1968,GRN,Australian Greens,NA,NA,NA,Australian Greens,NA,NA
 White1888,LIB,Liberal Party of Australia,1944-01-01,NA,NA,Liberal Party of Australia,NA,NA
-White1888,NAT,Nationalist Party,NA,1931-01-01,NA,Nationalist Party,NA,NA
+White1888,"NAT",Nationalist Party,NA,1931-01-01,NA,Nationalist Party,NA,NA
 White1888,UAP,United Australia Party,1931-01-01,1944-01-01,NA,United Australia Party,NA,NA
 White1936,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Whiteley1960,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
@@ -2189,7 +2191,7 @@ Whitsitt1869,CP,Australian Country Party,NA,NA,NA,Nationals,NA,NA
 Whittorn1911,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Wicks1973,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Wienholt1877,CP,Australian Country Party,1920-01-01,NA,NA,Nationals,NA,NA
-Wienholt1877,NAT,Nationalist Party,NA,1920-01-01,NA,Nationalist Party,NA,NA
+Wienholt1877,"NAT",Nationalist Party,NA,1920-01-01,NA,Nationalist Party,NA,NA
 Wight1914,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Wilkie1959,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Wilkie1961,IND,Independent,NA,NA,NA,Independent,NA,NA
@@ -2208,7 +2210,7 @@ Willis1860,FT,Free Trade,NA,1906-01-01,NA,Free Trade,NA,NA
 Willis1938,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Wilson1863,ANTI-SOC,Anti-Socialist Party,1910-01-01,NA,NA,Anti-Socialist Party,NA,NA
 Wilson1863,FT,Free Trade,NA,1910-01-01,NA,Free Trade,NA,NA
-Wilson1877,NAT,Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
+Wilson1877,"NAT",Nationalist Party,NA,NA,NA,Nationalist Party,NA,NA
 Wilson1880,CP,Australian Country Party,1943-01-01,NA,NA,Nationals,NA,NA
 Wilson1880,FCP,Federal Country Party,NA,1940-01-01,NA,Federal Country Party,NA,NA
 Wilson1880,UCP,United Country Party,1940-01-01,1943-01-01,NA,United Country Party,NA,NA
@@ -2224,7 +2226,7 @@ Wilton1955,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA
 Windsor1950,IND,Independent,NA,NA,NA,Independent,NA,NA
 Wise1853,ALP,Australian Labor Party,1910-01-01,1913-05-31,NA,Labor,NA,NA
 Wise1853,IND,Independent,1914-09-05,1917-02-17,NA,Independent,NA,NA
-Wise1853,NAT,Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
+Wise1853,"NAT",Nationalist Party,1917-02-17,NA,NA,Nationalist Party,NA,NA
 Wise1853,PROT,Protectionist Party,NA,1910-01-01,NA,Protectionist Party,NA,NA
 Withers1924,LIB,Liberal Party of Australia,NA,NA,NA,Liberals,NA,NA
 Wong1968,ALP,Australian Labor Party,NA,NA,NA,Labor,NA,NA

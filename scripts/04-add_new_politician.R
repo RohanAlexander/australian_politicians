@@ -1,15 +1,224 @@
 #### Preamble ####
-# Purpose: 
-# Date: 31 January 2021
+# Purpose: Use this script to update the datasets.
+# Date: 29 November 2021
 # Contact: Rohan Alexander
 # Email: rohan.alexander@utoronto.ca
 # License: MIT
-# Todo: 
+# Todo: Make functions out of all this instead of copy/pasting code.
 
 
 #### Setup ####
 library(lubridate)
 library(tidyverse)
+
+
+
+
+
+
+# 29 November 2021
+#### Scott Ryan resigns
+# Senators
+senators <- read_csv("data/australian_politicians-senators-by_state.csv", 
+                     guess_max = 2500)
+
+senators$senatorTo[senators$uniqueID == "Ryan1973"] <- ymd("2021-10-13")
+senators$senatorEndReason[senators$uniqueID == "Ryan1973"] <- "Resigned"
+
+write_csv(senators, "data/australian_politicians-senators-by_state.csv")
+
+
+
+
+
+#### Karen Grogan replacing Alex Gallacher
+all <- read_csv("data/australian_politicians-all.csv", 
+                guess_max = 2500)
+
+new_politician <- 
+  tibble(
+    uniqueID = "Grogan",
+    surname = "Grogan",
+    allOtherNames = "Karen",
+    firstName = "Karen",
+    commonName = NA_character_,
+    displayName = "Grogan, Karen",
+    earlierOrLaterNames = NA_character_,
+    title = NA_character_,
+    gender = "female",
+    birthDate = NA_Date_,
+    birthYear = NA_integer_,
+    birthPlace = "London",
+    deathDate = NA_Date_,
+    member = "0",
+    senator = "1",
+    wasPrimeMinister = NA_character_,
+    wikidataID = "Q108617920",
+    wikipedia = "https://en.wikipedia.org/wiki/Karen_Grogan",
+    adb = NA_character_,
+    comments = NA_character_
+  )
+
+all <- 
+  rbind(all, new_politician) %>% 
+  arrange(uniqueID)
+
+all$deathDate[all$uniqueID == "Gallacher1954"] <- ymd("2021-08-29")
+
+write_csv(all, "data/australian_politicians-all.csv")
+
+# Party
+party <- read_csv("data/australian_politicians-all-by_party.csv", 
+                  guess_max = 2500)
+
+new_politician <- 
+  tibble(
+    uniqueID = "Grogan",
+    partyAbbrev = "ALP",
+    partyName = "Australian Labor Party", 
+    partyFrom = NA_Date_,
+    partyTo = NA_Date_, 
+    partyChangedName = NA_character_,
+    partySimplifiedName = "Labor",
+    partySpecificDateInputted = NA_integer_,
+    partyComments = NA_character_
+  )
+
+party <- 
+  rbind(party, new_politician) %>% 
+  arrange(uniqueID)
+
+write_csv(party, "data/australian_politicians-all-by_party.csv")
+
+
+# Senators
+senators <- read_csv("data/australian_politicians-senators-by_state.csv", 
+                     guess_max = 2500)
+
+new_politician <- 
+  tibble(
+    uniqueID = "Grogan",
+    senatorsState = "SA",
+    senatorFrom = ymd("2021-09-21"),
+    senatorTo = NA_Date_,
+    senatorEndReason = NA_character_,
+    sec15Sel = 1,
+    senatorComments = "Replaced Alex Gallacher on his death."
+  )
+
+senators <- 
+  rbind(senators, new_politician) %>% 
+  arrange(uniqueID)
+
+senators$senatorTo[senators$uniqueID == "Gallacher1954"] <- ymd("2021-08-29")
+senators$senatorEndReason[senators$uniqueID == "Gallacher1954"] <- "Death"
+
+write_csv(senators, "data/australian_politicians-senators-by_state.csv")
+
+
+
+
+
+
+
+
+
+
+# 29 November 2021
+####  Dorinda Cox replacing Rachel Siewert
+all <- read_csv("data/australian_politicians-all.csv", 
+                guess_max = 2500)
+
+new_politician <- 
+  tibble(
+    uniqueID = "Cox1977",
+    surname = "Cox",
+    allOtherNames = "Dorinda Rose",
+    firstName = "Dorinda",
+    commonName = NA_character_,
+    displayName = "Cox, Dorinda",
+    earlierOrLaterNames = NA_character_,
+    title = NA_character_,
+    gender = "female",
+    birthDate = NA_Date_,
+    birthYear = 1977,
+    birthPlace = NA_character_,
+    deathDate = NA_Date_,
+    member = "0",
+    senator = "1",
+    wasPrimeMinister = NA_character_,
+    wikidataID = "Q108441696",
+    wikipedia = "https://en.wikipedia.org/wiki/Dorinda_Cox",
+    adb = NA_character_,
+    comments = NA_character_
+  )
+
+all <- 
+  rbind(all, new_politician) %>% 
+  arrange(uniqueID)
+
+write_csv(all, "data/australian_politicians-all.csv")
+
+# Party
+party <- read_csv("data/australian_politicians-all-by_party.csv", 
+                guess_max = 2500)
+
+new_politician <- 
+  tibble(
+    uniqueID = "Cox1977",
+    partyAbbrev = "GRN",
+    partyName = "Australian Greens", 
+    partyFrom = NA_Date_,
+    partyTo = NA_Date_, 
+    partyChangedName = NA_character_,
+    partySimplifiedName = "Liberals",
+    partySpecificDateInputted = NA_integer_,
+    partyComments = NA_character_
+  )
+
+party <- 
+  rbind(party, new_politician) %>% 
+  arrange(uniqueID)
+
+write_csv(party, "data/australian_politicians-all-by_party.csv")
+
+
+# Senators
+senators <- read_csv("data/australian_politicians-senators-by_state.csv", 
+                  guess_max = 2500)
+
+new_politician <- 
+  tibble(
+    uniqueID = "Cox1977",
+    senatorsState = "WA",
+    senatorFrom = ymd("2021-10-19"),
+    senatorTo = NA_Date_,
+    senatorEndReason = NA_character_,
+    sec15Sel = 1,
+    senatorComments = "Replaced Rachel Siewert"
+  )
+
+senators <- 
+  rbind(senators, new_politician) %>% 
+  arrange(uniqueID)
+
+senators$senatorTo[senators$uniqueID == "Siewert1961"] <- ymd("2021-09-06")
+senators$senatorEndReason[senators$uniqueID == "Siewert1961"] <- "Resigned"
+
+
+write_csv(senators, "data/australian_politicians-senators-by_state.csv")
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #### Garth Hamilton

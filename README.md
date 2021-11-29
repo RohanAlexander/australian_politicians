@@ -2,11 +2,22 @@
 
 This repo provides the code, datasets and other support materials for the data package AustralianPoliticians.
 
-- Inputs are raw data and resources and should not be directly modified
-- Intermediates are data that have been constructed from inputs, but still need work before being finalised
-- Outputs are the final datasets that are drawn on by AustralianPoliticians.
+The most important folder is 'data' which contains the cleaned datasets. And the most important dataset is 'australian_politicians-all.csv'. Datasets are linked by the 'uniqueID' field.
 
-Further information on these datasets is available at the AustralianPoliticians repo.
+- 'data' is a folder that contains the cleaned datasets. The datasets are linked by the 'uniqueID' field and the most important is 'australian_politicians-all.csv'.
+  - 'australian_politicians-all-by_party.csv': TBD
+  - 'australian_politicians-all.csv': TBD
+  - 'australian_politicians-ministries.csv': TBD
+  - 'australian_politicians-mps-by_division.csv': TBD
+  - 'australian_politicians-senators-by_state.csv': TBD
+  - 'australian_politicians-uniqueID_to_aph_ministries.csv': TBD
+  - 'australian_politicians-uniqueID_to_aphID.csv': TBD
+- The 'inputs' folder contain raw data and resources. The materials in here should not be directly modified, but are drawn on.
+- The 'outputs' folder contains the relevant paper.
+- The 'scripts' folder contains various scripts that can be used to update the datasets.
+
+Further information on these datasets is available at the AustralianPoliticians repo: https://github.com/RohanAlexander/AustralianPoliticians.
+
 
 # Sources
 
@@ -16,9 +27,10 @@ The uniqueID_to_aphID dataset was primarily drawn from a dataset put together by
 
 # Citation
 
-I'd recommend using the datasets as they are provided in the AustralianPoliticians package and repo - https://github.com/RohanAlexander/AustralianPoliticians - and if you do that please consider citing the working paper:
+Alexander, Rohan, 2021, 'A dataset of Australian federal politicians (1901-2021) and associated R package', last updated 29 November 2021.
 
-Alexander, Rohan and Hidaya Ismail, 2020, 'AusPol: Three datasets on Australian Politics'.
+I'd recommend using the datasets as they are provided in the AustralianPoliticians package and repo - https://github.com/RohanAlexander/AustralianPoliticians - and if you do that please additionally cite the package.
+
 
 
 # Author information
@@ -30,12 +42,8 @@ University of Toronto
 Toronto, ON, Canada  
 Email: rohan.alexander@utoronto.ca  
 
-**Hidaya Ismail** (repository contributor)
-
 
 # TODO
 
-1. From intermediates/cabinet.csv - work out some way to have a flag in outputs/ministry.csv as to whether the person was in cabinet or not.
-2. From intermediates/recent_ministries.csv - work out a way to add these to outputs/ministry.csv.
-3. Checks. Tables. Graphs.
-
+1. Karen Grogan needs a birthdate or at least a year - will need to update the uniqueID at that point too.
+2. Greg Mirabella likely soon in the Senate replacing Scott Ryan.
